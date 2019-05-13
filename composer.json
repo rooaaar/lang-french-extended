@@ -1,18 +1,18 @@
 {
     "name": "rooaaar/lang-french-extend",
-    "description": "French language pack for Flarum's extensions (not bundled).",
+    "description": "French language pack (extend) for Flarum and its non-bundled extensions.",
     "type": "flarum-extension",
     "keywords": ["extension", "flarum", "french", "locale", "translation"],
     "license": "MIT",
     "authors": [
         {
-            "name": "ROOAAAR",
-            "email": "rooaaar@protonmail.com"
+            "name": "hiob",
+            "email": "hiob.bjorn@gmail.com"
         }
     ],
     "support": {
         "issues": "https://github.com/rooaaar/lang-french-extend/issues",
-        "source": "https://github.com/rooaaar/lang-french-extend/"
+        "source": "https://github.com/rooaaar/lang-french-extend"
     },
     "require": {
         "flarum/core": "^0.1.0-beta.8"
@@ -34,5 +34,8 @@
             "code": "fr",
             "title": "Français"
         },
-    },
+        "flagrow": {
+            "discuss": ""
+        }
+    }
 }
