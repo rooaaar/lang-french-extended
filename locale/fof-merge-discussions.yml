@@ -1,0 +1,21 @@
+fof-merge-discussions:
+  forum:
+    discussion:
+      merge: => fof-merge-discussions.ref.merge
+      
+    modal:
+      help_text: Choisir une discussion avec laquelle fusionner <b>{title}</b>.
+      load_preview_button: Aperçu
+      submit_button: => fof-merge-discussions.ref.merge
+      title: Fusionner les discussions
+      
+    post:
+      merged: Fusion de <b>{count}</b> messages de <i>{titles}</i>.|Fusion de <b>{count}</b> messages de <i>{titles}</i>.
+
+  admin:
+    permissions:
+      merge_discussions_label: Fusionner les discussions
+
+  ref:
+    merge: Fusionner
+

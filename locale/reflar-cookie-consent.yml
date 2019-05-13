@@ -1,0 +1,34 @@
+reflar-cookie-consent:
+  admin:
+    settings:
+      
+      backgroundColor: Arrière-plan
+      
+      buttonBackgroundColor: Arrière-plan
+      buttonText: Texte du bouton de refus
+      buttonTextColor: Texte
+      
+      ccTheme: Thème
+      
+      configuration_button_title: Bouton En savoir plus
+      configuration_title: Options de configuration
+      consentText: Contenu du message
+      
+      learnMoreLinkText: Texte
+      learnMoreLinkUrl: Lien
+      
+      textColor: Texte
+      
+      themes:
+        blocky: Blocky
+        classic: Classique
+        custom: Personnalisé
+        edgeless: Sans bord
+        no_css: Aucun CSS
+
+      theme_dismiss_title: Couleur du bouton de refus
+      theme_popup_title: Couleurs du Popup
+      theme_title: Options de thème
+      
+      title: Reflar Cookie Consent
+

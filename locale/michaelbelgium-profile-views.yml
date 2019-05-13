@@ -1,0 +1,7 @@
+flarum_profile_views:
+  forum:
+    user:
+      title_last_viewers: Visiteurs récents du profil
+      views_count_text: {viewcount} visualisations du profil 
+      
+
