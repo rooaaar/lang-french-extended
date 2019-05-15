@@ -10,10 +10,10 @@ French language pack to localize the Flarum's Third-party extensions.
   - **Flagrow**
     - Flagrow / Bazaar - [github.com](https://github.com/flagrow/bazaar/) - [discuss.flarum.org](https://discuss.flarum.org/d/5151)
     - Flagrow / Byobu - [github.com](https://github.com/flagrow/byobu/) - [discuss.flarum.org](https://discuss.flarum.org/d/4762-flagrow-by-bu-well-integrated-advanced-private-discussions)
-    - Flagrow / Mason - [github.com](https://github.com/flagrow/mason/) - [discuss.flarum.org](https://discuss.flarum.org/d/7028-flagrow-mason-the-discussion-custom-fields-builder)
+    - Flagrow / Mason - [github.com](https://github.com/flagrow/mason/) - [discuss.flarum.org](https://discuss.flarum.org/d/7028-flagrow-mason-the-discussion-custom-fields-builder) `incoming`
     - Flagrow / Passport - [github.com](https://github.com/flagrow/passport/) - [discuss.flarum.org](https://discuss.flarum.org/d/5203-flagrow-passport-the-laravel-passport-oauth-extension)
 
-    - Flagrow / Upload - [github.com](https://github.com/flagrow/upload/) - [discuss.flarum.org](https://discuss.flarum.org/d/4154-flagrow-upload-the-intelligent-file-attachment-extension)
+    - Flagrow / Upload - [github.com](https://github.com/flagrow/upload/) - [discuss.flarum.org](https://discuss.flarum.org/d/4154-flagrow-upload-the-intelligent-file-attachment-extension) `incoming`
     - Flagrow / Userlist - [github.com](https://github.com/flagrow/users-list/) - [discuss.flarum.org](https://discuss.flarum.org/d/6009-flagrow-users-list-review-and-mass-mail-users-of-your-forum)
 
 
