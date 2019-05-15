@@ -1,0 +1,18 @@
+fof-prevent-necrobumping:
+  admin:
+    settings:
+      days_help: Une discussion sera considérée comme ancienne lorsque le nombre de jours spécifié sera écoulé depuis la publication du dernier message.
+      days_label: Jours
+      
+      message_agreement_label: Message personnalisé d'accord (case à cocher)
+      message_description_label: Description du message personnalisée
+      message_title_help: 'Utilisez <code>[time]</code> pour le texte temporel, càd "14 days".'
+      message_title_label: Titre du message personnalisé
+      
+  forum:
+    composer:
+      warning:
+        checkbox_label: Je suis conscient que cette discussion est plutôt ancienne, mais j'aimerais quand même répondre.
+        description: Il est très probable que ce sujet ne nécessite pas plus de discussion, le faire remonter n'est (peut-être) pas utile.
+        error: Cette discussion est trop ancienne pour y répondre.
+        title: Ce sujet a plus de <b>{time}</b> jours.
