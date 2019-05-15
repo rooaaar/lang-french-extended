@@ -38,13 +38,13 @@ French language pack extended to localize the Flarum's Third-party extensions.
 Use [Bazaar](https://github.com/flagrow/bazaar/) or install manually via Composer:
 
 ```bash
-composer require rooaaar/lang-french-extend
+composer require rooaaar/lang-french-extended
 ```
 
 ## Updating
 
 ```bash
-composer update rooaaar/lang-french-extend
+composer update rooaaar/lang-french-extended
 ```
 
 ## Logo
