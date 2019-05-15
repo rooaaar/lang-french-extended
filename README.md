@@ -33,15 +33,22 @@ French language pack to localize the Flarum's Third-party extensions.
     - Reflar / Reactions - [github.com](https://github.com/ReFlar/reactions/) - [discuss.flarum.org](https://discuss.flarum.org/d/6542-reactions-by-reflar)
     
 
-### Installation
+## Installation
 
 Use [Bazaar](https://github.com/flagrow/bazaar/) or install manually via Composer:
 
-`composer require rooaaar/lang-french-extend`
+```bash
+composer require rooaaar/lang-french-extend
+```
 
+## Updating
 
-### Logo
+```bash
+composer update rooaaar/lang-french-extend
+```
 
-**Bear by Chaowalit  Koetchuea from the Noun Project**
+## Logo
+
+**Bear by Chaowalit Koetchuea from the Noun Project**
 
 https://thenounproject.com/search/?q=bear&i=1962591
