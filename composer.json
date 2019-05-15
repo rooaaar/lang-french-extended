@@ -22,7 +22,7 @@
             "dev-master": "1.0.x-dev"
         },
         "flarum-extension": {
-            "title": "French extend",
+            "title": "French extended",
             "icon": {
                 "image": "icon.svg",
                 "backgroundColor": "#fff",
