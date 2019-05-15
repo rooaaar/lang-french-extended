@@ -1,5 +1,5 @@
-# lang-french-extend
-French language pack to localize the Flarum's Third-party extensions.
+# lang-french-extended
+French language pack extended to localize the Flarum's Third-party extensions.
 
 
 ## Informations
