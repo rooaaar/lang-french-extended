@@ -17,7 +17,7 @@ do
 
   echo "Checking $r:"
 
-  yamllinter --file "$r" --level 2
+  yamllinter --file "$r" --level 0
 
   if [ $? -eq 1 ]; then
     RC=1
