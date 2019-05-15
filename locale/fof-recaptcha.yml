@@ -3,10 +3,11 @@ fof-recaptcha:
     settings:
       help_text: Obtenez vos informations d'identification Google reCAPTCHA <a>ici</a>.
 
-      type_label: type de reCAPTCHA
-
-      site_key_label: Clé du site
       secret_key_label: Clé secrète
+      site_key_label: Clé du site
+      
+      type_label: type de reCAPTCHA
+      
 
 validation:
   recaptcha: La validation de reCAPTCHA a échoué.
