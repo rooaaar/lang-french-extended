@@ -1,9 +1,11 @@
+![License](https://img.shields.io/badge/license-MIT-blue.svg) [![Latest Stable Version](https://img.shields.io/packagist/v/rooaaar/lang-french-extended.svg)](https://packagist.org/packages/rooaaar/lang-french-extended)
+
 # lang-french-extended
-French language pack extended to localize the Flarum's Third-party extensions.
+French language pack extended to localize the Flarum's Third-party extensions (list below).
+If you search french language pack for Flarum's bundled extensions, see [Milescellar / lang-french](https://github.com/milescellar/lang-french)
 
 
 ## Informations
-
 ### Third-party extensions translated
 
 
@@ -52,8 +54,8 @@ French language pack extended to localize the Flarum's Third-party extensions.
 - FoF / Sentry - [github.com](https://github.com/FriendsOfFlarum/sentry) - [discuss.flarum.org](https://discuss.flarum.org/d/18089-friendsofflarum-sentry)
 - FoF / Spamblock - [github.com](https://github.com/FriendsOfFlarum/spamblock) - [discuss.flarum.org](https://discuss.flarum.org/d/17772-friendsofflarum-spamblock)
 
-
-## Installation
+## Instructions
+### Installation
 
 Use [Bazaar](https://github.com/flagrow/bazaar/) or install manually via Composer:
 
@@ -61,14 +63,14 @@ Use [Bazaar](https://github.com/flagrow/bazaar/) or install manually via Compose
 composer require rooaaar/lang-french-extended
 ```
 
-## Updating
+### Updating
 
 ```bash
 composer update rooaaar/lang-french-extended
 ```
 
-## Logo
+## Links
 
-**Bear by Chaowalit Koetchuea from the Noun Project**
-
-https://thenounproject.com/search/?q=bear&i=1962591
+* [Flarum](https://discuss.flarum.org)
+* [Github](https://github.com/rooaaar/lang-french-extended)
+* [Packagist](https://packagist.org/packages/rooaaar/lang-french-extended)
