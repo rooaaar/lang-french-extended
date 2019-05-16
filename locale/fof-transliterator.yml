@@ -1,0 +1,6 @@
+fof-transliterator:
+  admin:
+    settings:
+      parse_button: Analyser les discussions existantes
+      result: '1 discussion analysée|{count} discussions analysées'
+      title: Paramètres de FoF/Transliterator
