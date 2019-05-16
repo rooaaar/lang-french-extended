@@ -23,6 +23,7 @@ French language pack extended to localize the Flarum's Third-party extensions.
 
 
   - **FoF**
+    - FoF / Formatting - [github.com](https://github.com/FriendsOfFlarum/formatting) - [discuss.flarum.org](https://discuss.flarum.org/d/17770-friendsofflarum-formatting)
     - FoF / Merge - [github.com](https://github.com/FriendsOfFlarum/merge-discussions/) - [discuss.flarum.org](https://discuss.flarum.org/d/19460-friendsofflarum-merge-discussions)
     - FoF / Necrobumping - [github.com](https://github.com/FriendsOfFlarum/prevent-necrobumping/) - [discuss.flarum.org](https://discuss.flarum.org/d/18312-friendsofflarum-prevent-necrobumping)
     - FoF / reCAPTCHA - [github.com](https://github.com/FriendsOfFlarum/recaptcha) - [discuss.flarum.org](https://discuss.flarum.org/d/18399-friendsofflarum-recaptcha)
@@ -37,7 +38,7 @@ French language pack extended to localize the Flarum's Third-party extensions.
     - Reflar / Cookie Consent - [github.com](https://github.com/ReFlar/cookie-consent/) - [discuss.flarum.org](https://discuss.flarum.org/d/10395-cookie-consent)
     - Reflar / Polls - [github.com](https://github.com/ReFlar/polls/) - [discuss.flarum.org](https://discuss.flarum.org/d/9762-poll)
     - Reflar / Reactions - [github.com](https://github.com/ReFlar/reactions/) - [discuss.flarum.org](https://discuss.flarum.org/d/6542-reactions-by-reflar)
-    
+
 
 ## Installation
 
