@@ -1,0 +1,34 @@
+fof-pages:
+  admin:
+    edit_page:
+      content_label: => fof-pages.ref.content
+      content_placeholder: => fof-pages.ref.content
+      delete_page_button: Supprimer la page
+      delete_page_confirmation: Êtes-vous sûr de vouloir supprimer cette page?
+      hidden_label: Enregistrer comme brouillon
+      html_label: Activer le HTML
+      set_as_home_page_confirmation: Êtes-vous sûr de vouloir définir cette page comme page d'accueil?
+      slug_label: => fof-pages.ref.slug
+      slug_placeholder: => fof-pages.ref.slug
+      submit_button: => core.ref.save_changes
+      title: => fof-pages.ref.create_page
+      title_label: => fof-pages.ref.title
+      title_placeholder: => fof-pages.ref.title
+      url_label: => fof-pages.ref.url
+      url_placeholder: => fof-pages.ref.url
+    nav:
+      pages_button: => fof-pages.ref.pages
+      pages_text: Créer des pages statiques personnalisées.
+    pages:
+      about_text: Créer et gérer des pages statiques.
+      create_button: => fof-pages.ref.create_page
+    pages_list:
+      empty_text: On dirait qu'il n'y a pas de pages ici..
+      title: => fof-pages.ref.title
+  ref:
+    content: Contenu
+    create_page: Créer une page
+    pages: Pages
+    slug: Slug
+    title: Titre
+    url: Lien
