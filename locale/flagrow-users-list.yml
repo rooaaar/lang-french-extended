@@ -1,28 +1,24 @@
-flagrow-users-list:
-  admin:
-    nav:
-      users_button: => flagrow-users-list.ref.users_title
-      users_text: Voir la liste des utilisateurs.
-      
-    page:
-      about_text:  Voir la liste des utilisateurs enregistrés.
-      list_title: => flagrow-users-list.ref.users_title
-      load_more_button: => core.ref.load_more
-      mail_all_button: Mail à tous les utilisateurs
-      online_text: => core.forum.user.online_text
-      
-    modal_mail:
-      default_subject: => flagrow-users-list.ref.default_subject
+flagrow-users-list: 
+  admin: 
+    modal_mail: 
+      default_subject: "=> flagrow-users-list.ref.default_subject"
       email_label: À
       message_label: Message
       subject_label: Sujet
       submit_button: Envoyer
-      title_all_text: tous les utilisateurs
-      title_text: Message pour
-
-  email:
-    default_subject: => flagrow-users-list.ref.default_subject
-
-  ref:
-    default_subject: Message des administrateurs du forum
+      title_all_text: "tous les utilisateurs"
+      title_text: "Message pour"
+    nav: 
+      users_button: "=> flagrow-users-list.ref.users_title"
+      users_text: "Voir la liste des utilisateurs."
+    page: 
+      about_text: "Voir la liste des utilisateurs enregistrés."
+      list_title: "=> flagrow-users-list.ref.users_title"
+      load_more_button: "=> core.ref.load_more"
+      mail_all_button: "Mail à tous les utilisateurs"
+      online_text: "=> core.forum.user.online_text"
+  email: 
+    default_subject: "=> flagrow-users-list.ref.default_subject"
+  ref: 
+    default_subject: "Message des administrateurs du forum"
     users_title: Utilisateurs
