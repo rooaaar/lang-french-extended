@@ -1,49 +1,39 @@
-flagrow-byobu: 
-  admin: 
-    permission: 
-      create_private_discussions_with_blocking_users: "Créer des discussions privées avec des utilisateurs qui ont bloqué cette fonctionnalité"
-      create_private_discussions_with_groups: "Créer des discussions privées avec des groupes"
-      create_private_discussions_with_users: "Créer des discussions privées avec des utilisateurs"
-      edit_group_recipients: "Modifier les groupes participant à des discussions privées"
-      edit_user_recipients: "Modifier les utilisateurs participant à des discussions privées"
-      
-      
-  forum: 
-    badges: 
-      is_private: 
-        tooltip: "Discussion privée"
-        
-    buttons: 
+flagrow-byobu:
+  admin:
+    permission:
+      create_private_discussions_with_blocking_users: Créer des discussions privées avec des utilisateurs qui ont bloqué cette fonctionnalité
+      create_private_discussions_with_groups: Créer des discussions privées avec des groupes
+      create_private_discussions_with_users: Créer des discussions privées avec des utilisateurs
+      edit_group_recipients: Modifier les groupes participant à des discussions privées
+      edit_user_recipients: Modifier les utilisateurs participant à des discussions privées
+  forum:
+    badges:
+      is_private:
+        tooltip: Discussion privée
+    buttons:
       add_recipients: Destinataires
-      edit_recipients: "Modifier destinataires"
-      send_pd: "Envoyer un message à {username}"
+      edit_recipients: Modifier destinataires
+      send_pd: 'Envoyer un message à {username}'
       submit: OK
-      
-    input: 
-      search_recipients: "Rechercher un destinataire en tapant les 3 premières lettres..."
-      
-    labels: 
-      recipients: "{count} Destinataire|{count} Destinataires"
-      user_deleted: "-supprimé-"
-      
-    modal: 
-      titles: 
-        add_recipients: "Ajouter des destinataires à votre discussion"
-        update_recipients: "Mettre à jour les destinataires de {title}"
-        
-    nav: 
-      private_discussions: "Discussion privée"
-      
-    post: 
-      recipients_modified: 
-        added: "{username} a ajouté les destinataires {added}."
-        added_and_removed: "{username} a ajouté les destinataires {added} et a supprimé {removed}."
-        removed: "{username} a supprimé les destinataires {removed}."
-        
-    search: 
-      headings: 
-        groups: "Groupes de permission"
-        
-    user: 
-      settings: 
-        block_pd: "Bloquer les discussions privées"
+    input:
+      search_recipients: Rechercher un destinataire en tapant les 3 premières lettres...
+    labels:
+      recipients: '{count} Destinataire|{count} Destinataires'
+      user_deleted: '-supprimé-'
+    modal:
+      titles:
+        add_recipients: Ajouter des destinataires à votre discussion
+        update_recipients: 'Mettre à jour les destinataires de {title}'
+    nav:
+      private_discussions: Discussion privée
+    post:
+      recipients_modified:
+        added: '{username} a ajouté les destinataires {added}.'
+        added_and_removed: '{username} a ajouté les destinataires {added} et a supprimé {removed}.'
+        removed: '{username} a supprimé les destinataires {removed}.'
+    search:
+      headings:
+        groups: Groupes de permission
+    user:
+      settings:
+        block_pd: Bloquer les discussions privées

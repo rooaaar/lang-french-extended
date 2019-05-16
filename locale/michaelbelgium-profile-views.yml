@@ -2,5 +2,4 @@ flarum_profile_views:
   forum:
     user:
       title_last_viewers: Derniers visiteurs
-      views_count_text: Profil vu {viewcount} fois
-      
+      views_count_text: 'Profil vu {viewcount} fois'
