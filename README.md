@@ -10,7 +10,7 @@ French language pack extended to localize the Flarum's Third-party extensions.
   - **Flagrow**
     - Flagrow / Bazaar - [github.com](https://github.com/flagrow/bazaar/) - [discuss.flarum.org](https://discuss.flarum.org/d/5151)
     - Flagrow / Byobu - [github.com](https://github.com/flagrow/byobu/) - [discuss.flarum.org](https://discuss.flarum.org/d/4762-flagrow-by-bu-well-integrated-advanced-private-discussions)
-    - Flagrow / Mason - [github.com](https://github.com/flagrow/mason/) - [discuss.flarum.org](https://discuss.flarum.org/d/7028-flagrow-mason-the-discussion-custom-fields-builder) `incoming`
+    - Flagrow / Mason - [github.com](https://github.com/flagrow/mason/) - [discuss.flarum.org](https://discuss.flarum.org/d/7028-flagrow-mason-the-discussion-custom-fields-builder)
     - Flagrow / Passport - [github.com](https://github.com/flagrow/passport/) - [discuss.flarum.org](https://discuss.flarum.org/d/5203-flagrow-passport-the-laravel-passport-oauth-extension)
 
     - Flagrow / Upload - [github.com](https://github.com/flagrow/upload/) - [discuss.flarum.org](https://discuss.flarum.org/d/4154-flagrow-upload-the-intelligent-file-attachment-extension) `incoming`
@@ -20,7 +20,7 @@ French language pack extended to localize the Flarum's Third-party extensions.
   - **FoF**
     - FoF / Merge - [github.com](https://github.com/FriendsOfFlarum/merge-discussions/) - [discuss.flarum.org](https://discuss.flarum.org/d/19460-friendsofflarum-merge-discussions)
     - FoF / Necrobumping - [github.com](https://github.com/FriendsOfFlarum/prevent-necrobumping/) - [discuss.flarum.org](https://discuss.flarum.org/d/18312-friendsofflarum-prevent-necrobumping)
-
+    - FoF / reCAPTCHA - [github.com](https://github.com/FriendsOfFlarum/recaptcha) - [discuss.flarum.org](https://discuss.flarum.org/d/18399-friendsofflarum-recaptcha)
 
   - **MichaelBelgium**
     -  MichaelBelgium / Discussion views - [github.com](https://github.com/MichaelBelgium/flarum-discussion-views/) - [discuss.flarum.org](https://discuss.flarum.org/d/7339-discussion-views)
