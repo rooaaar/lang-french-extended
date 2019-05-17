@@ -3,7 +3,7 @@ reflar-cookie-consent:
     settings:
       backgroundColor: Arrière-plan
       buttonBackgroundColor: Arrière-plan
-      buttonText: Texte du bouton de refus
+      buttonText: Texte du bouton de validation
       buttonTextColor: Texte
       ccTheme: Thème
       configuration_button_title: Bouton En savoir plus
@@ -12,7 +12,7 @@ reflar-cookie-consent:
       learnMoreLinkText: Texte
       learnMoreLinkUrl: Lien
       textColor: Texte
-      theme_dismiss_title: Couleur du bouton de refus
+      theme_dismiss_title: Couleur du bouton de validation
       theme_popup_title: Couleurs du Popup
       theme_title: Options de thème
       themes:
