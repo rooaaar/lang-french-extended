@@ -1,4 +1,4 @@
-![License](https://img.shields.io/badge/license-MIT-blue.svg) [![Latest Stable Version](https://img.shields.io/packagist/v/rooaaar/lang-french-extended.svg)](https://packagist.org/packages/rooaaar/lang-french-extended)
+![License](https://img.shields.io/badge/license-MIT-blue.svg) [![Latest Stable Version](https://img.shields.io/packagist/v/rooaaar/lang-french-extended.svg)](https://packagist.org/packages/rooaaar/lang-french-extended) [![Total Downloads](https://img.shields.io/packagist/dt/rooaaar/lang-french-extended.svg)](https://packagist.org/packages/rooaaar/lang-french-extended)
 
 # lang-french-extended
 French language pack extended to localize the Flarum's Third-party extensions (list below).
@@ -34,7 +34,9 @@ If you search french language pack for Flarum's bundled extensions, see [Milesce
  - FoF / Necrobumping - [github.com](https://github.com/FriendsOfFlarum/prevent-necrobumping/) - [discuss.flarum.org](https://discuss.flarum.org/d/18312-friendsofflarum-prevent-necrobumping)
  - FoF / Pages - [github.com](https://github.com/FriendsOfFlarum/pages) - [discuss.flarum.org](https://discuss.flarum.org/d/18301-friendsofflarum-pages)
  - FoF / reCAPTCHA - [github.com](https://github.com/FriendsOfFlarum/recaptcha) - [discuss.flarum.org](https://discuss.flarum.org/d/18399-friendsofflarum-recaptcha)
+ - FoF / Secure HTTPS - [github.com](https://github.com/FriendsOfFlarum/secure-https) - [discuss.flarum.org](https://discuss.flarum.org/d/17771-friendsofflarum-secure-https)
  - FoF / Sentry - [github.com](https://github.com/FriendsOfFlarum/sentry) - [discuss.flarum.org](https://discuss.flarum.org/d/18089-friendsofflarum-sentry)
+ - FoF / Spamblock - [github.com](https://github.com/FriendsOfFlarum/spamblock) - [discuss.flarum.org](https://discuss.flarum.org/d/17772-friendsofflarum-spamblock)
  - FoF / transliterator - [github.com](https://github.com/FriendsOfFlarum/transliterator) - [discuss.flarum.org](https://discuss.flarum.org/d/18074-friendsofflarum-url-transliterator)
 
 ---
@@ -54,11 +56,8 @@ If you search french language pack for Flarum's bundled extensions, see [Milesce
 
 #### Incoming translation
 
-- Flagrow / Upload - [github.com](https://github.com/flagrow/upload/) - [discuss.flarum.org](https://discuss.flarum.org/d/4154-flagrow-upload-the-intelligent-file-attachment-extension).
+- FoF / Upload - [github.com](https://github.com/FriendsOfFlarum/upload/) - [discuss.flarum.org](https://discuss.flarum.org/d/4154-flagrow-upload-the-intelligent-file-attachment-extension).
 
-- FoF / Secure HTTPS - [github.com](https://github.com/FriendsOfFlarum/secure-https) - [discuss.flarum.org](https://discuss.flarum.org/d/17771-friendsofflarum-secure-https)
-
-- FoF / Spamblock - [github.com](https://github.com/FriendsOfFlarum/spamblock) - [discuss.flarum.org](https://discuss.flarum.org/d/17772-friendsofflarum-spamblock)
 
 ## Instructions
 ### Installation
