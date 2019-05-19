@@ -1,11 +1,26 @@
 ![License](https://img.shields.io/badge/license-MIT-blue.svg) [![Latest Stable Version](https://img.shields.io/packagist/v/rooaaar/lang-french-extended.svg)](https://packagist.org/packages/rooaaar/lang-french-extended) [![Total Downloads](https://img.shields.io/packagist/dt/rooaaar/lang-french-extended.svg)](https://packagist.org/packages/rooaaar/lang-french-extended)
 
-# lang-french-extended
+# ROOAAAR / lang-french-extended
 French language pack extended to localize the Flarum's Third-party extensions (list below).
 If you search french language pack for Flarum's bundled extensions, see [Milescellar / lang-french](https://github.com/milescellar/lang-french)
 
 
+
 ## Informations
+### Installation
+
+Use [Bazaar](https://github.com/flagrow/bazaar/) or install manually via Composer:
+
+```bash
+composer require rooaaar/lang-french-extended
+```
+
+### Updating
+
+```bash
+composer update rooaaar/lang-french-extended
+```
+
 ### Third-party extensions translated
 
 
@@ -50,6 +65,7 @@ If you search french language pack for Flarum's bundled extensions, see [Milesce
 #### Reflar
 
  - Reflar / Cookie Consent - [github.com](https://github.com/ReFlar/cookie-consent/) - [discuss.flarum.org](https://discuss.flarum.org/d/10395-cookie-consent)
+ - Reflar / Doorman - [github.com](https://github.com/ReFlar/doorman) - [discuss.flarum.org](https://discuss.flarum.org/d/17845-doorman-by-reflar)
  - Reflar / Polls - [github.com](https://github.com/ReFlar/polls/) - [discuss.flarum.org](https://discuss.flarum.org/d/9762-poll)
  - Reflar / Reactions - [github.com](https://github.com/ReFlar/reactions/) - [discuss.flarum.org](https://discuss.flarum.org/d/6542-reactions-by-reflar)
 
@@ -58,21 +74,6 @@ If you search french language pack for Flarum's bundled extensions, see [Milesce
 
 - FoF / Upload - [github.com](https://github.com/FriendsOfFlarum/upload/) - [discuss.flarum.org](https://discuss.flarum.org/d/4154-flagrow-upload-the-intelligent-file-attachment-extension).
 
-
-## Instructions
-### Installation
-
-Use [Bazaar](https://github.com/flagrow/bazaar/) or install manually via Composer:
-
-```bash
-composer require rooaaar/lang-french-extended
-```
-
-### Updating
-
-```bash
-composer update rooaaar/lang-french-extended
-```
 
 ## Links
 
