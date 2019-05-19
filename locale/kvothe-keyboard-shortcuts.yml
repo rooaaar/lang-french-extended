@@ -1,0 +1,74 @@
+kvothe-keyboard-shortcuts:
+  admin:
+    categories:
+      disc-list: Liste de discussion
+      disc-page: Page de discussion
+      global: Global
+      logged-in: Une fois connecté
+      logged-out: Une fois déconnecté
+    key-descriptions:
+      back: Retour
+      clear: Effacer les notifications
+      first-post: Premier message
+      follow: Suivre / Ne plus suivre
+      help: Aide sur les raccourcis clavier
+      last-post: Dernier message
+      login: Afficher le module de connexion
+      mark-read: Marquer tous les messages comme lus
+      new-disc: Nouvelle discussion
+      next-disc: Prochaine discussion
+      next-post: Nouveau message
+      notifications: Notifications
+      pin-sidebar: Épingler la barre latérale
+      prev-disc: Discussion précédente
+      prev-post: Message précédent
+      refresh: Rafraîchir
+      reply: Répondre
+      search: Rechercher
+      sidebar: Afficher / Masquer la barre latérale
+      signup: Afficher le module d'inscription
+      sort-latest: Trier par activité
+      sort-newest: Trier par nouveauté
+      sort-oldest: Trier par ancienneté
+      sort-top: Trier par popularité
+      user-menu: Ouvrir le menu utilisateur
+    settings:
+      modifiers: 'Pour les touches de modification, vous pouvez utiliser les touches Maj, Ctrl, Alt ou Méta.'
+      other: 'Toute autre clé que vous devriez pouvoir référencer par son nom, comme a, /, $, *, or = .'
+      special: 'Les autres touches spéciales sont les touches retour arrière, tabulation, entrée, retour, majuscule, esc, échappe, espace, haut de page, bas de page, fin, maison, gauche, haut, droite, bas, insérer, supprimer et plus.'
+      substitute: Vous pouvez substituer la touche option par alt et commande en gusie de touche meta.
+      title: Paramètres de raccourci clavier
+  forum:
+    categories:
+      disc-list: Liste de discussion
+      disc-page: Page de discussion
+      global: Global
+      logged-in: Une fois connecté
+      logged-out: Une fois déconnecté
+    key-descriptions:
+      back: Retour
+      clear: Effacer les notifications
+      first-post: Premier message
+      follow: Suivre / Ne plus suivre
+      help: Aide sur les raccourcis clavier
+      last-post: Dernier message
+      login: Afficher le module de connexion
+      mark-read: Marquer tous les messages comme lus
+      new-disc: Nouvelle discussion
+      next-disc: Prochaine discussion
+      next-post: Nouveau message
+      notifications: Notifications
+      pin-sidebar: Épingler la barre latérale
+      prev-disc: Discussion précédente
+      prev-post: Message précédent
+      refresh: Rafraîchir
+      reply: Répondre
+      search: Rechercher
+      sidebar: Afficher / Masquer la barre latérale
+      signup: Afficher le module d'inscription
+      sort-latest: Trier par activité
+      sort-newest: Trier par nouveauté
+      sort-oldest: Trier par ancienneté
+      sort-top: Trier par popularité
+      user-menu: Ouvrir le menu utilisateur
+    modal-title: Raccourcis clavier

@@ -57,6 +57,15 @@ composer update rooaaar/lang-french-extended
  - FoF / Spamblock - [github.com](https://github.com/FriendsOfFlarum/spamblock) - [discuss.flarum.org](https://discuss.flarum.org/d/17772-friendsofflarum-spamblock)
  - FoF / transliterator - [github.com](https://github.com/FriendsOfFlarum/transliterator) - [discuss.flarum.org](https://discuss.flarum.org/d/18074-friendsofflarum-url-transliterator)
 
+
+ ---
+ ### Kvothe
+
+  -  Kvothe / Keyboard Shortcuts - [github.com](https://github.com/oaklinq/flarum-ext-keyboard-shortcuts) - [discuss.flarum.org](https://discuss.flarum.org/d/19301-keyboard-shortcuts)
+
+
+
+
 ---
 ### MichaelBelgium
 
