@@ -1,6 +1,4 @@
-![License](https://img.shields.io/badge/license-MIT-blue.svg) [![Latest Stable Version](https://img.shields.io/packagist/v/rooaaar/lang-french-extended.svg)](https://packagist.org/packages/rooaaar/lang-french-extended) ![Issues](https://img.shields.io/github/issues/rooaaar/lang-french-extended.svg)  
-
-[![Total Downloads](https://img.shields.io/packagist/dt/rooaaar/lang-french-extended.svg)](https://packagist.org/packages/rooaaar/lang-french-extended) [![Downloads Monthly](https://poser.pugx.org/rooaaar/lang-french-extended/d/monthly)](https://packagist.org/packages/rooaaar/lang-french-extended) ![Stars](https://img.shields.io/github/stars/rooaaar/lang-french-extended.svg)
+![License](https://img.shields.io/badge/license-MIT-blue.svg) [![Latest Stable Version](https://img.shields.io/packagist/v/rooaaar/lang-french-extended.svg)](https://packagist.org/packages/rooaaar/lang-french-extended) ![Issues](https://img.shields.io/github/issues/rooaaar/lang-french-extended.svg) [![Total Downloads](https://img.shields.io/packagist/dt/rooaaar/lang-french-extended.svg)](https://packagist.org/packages/rooaaar/lang-french-extended) [![Downloads Monthly](https://poser.pugx.org/rooaaar/lang-french-extended/d/monthly)](https://packagist.org/packages/rooaaar/lang-french-extended) ![Stars](https://img.shields.io/github/stars/rooaaar/lang-french-extended.svg)
 
 
 
