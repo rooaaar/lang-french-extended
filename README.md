@@ -6,7 +6,7 @@
 
 
 # ROOAAAR / lang-french-extended
-French language pack extended to localize the Flarum's Third-party extensions (list below).
+French language pack for the [Flarum](http://flarum.org/)'s Third-party extensions (list below).
 If you search french language pack for Flarum's bundled extensions, see [Milescellar / lang-french](https://github.com/milescellar/lang-french)
 
 
