@@ -94,7 +94,8 @@ php flarum cache:clear
 
 
 ## Links
+See **ROOAAAR!/lang-french-extended** on:
 
-* [Flarum](https://discuss.flarum.org)
+* [Flarum](https://discuss.flarum.org/d/20039-rooaaar-the-french-language-pack-extended)
 * [Github](https://github.com/rooaaar/lang-french-extended)
 * [Packagist](https://packagist.org/packages/rooaaar/lang-french-extended)
