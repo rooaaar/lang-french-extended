@@ -62,14 +62,13 @@ php flarum cache:clear
  - FoF / Sentry - [github.com](https://github.com/FriendsOfFlarum/sentry) - [discuss.flarum.org](https://discuss.flarum.org/d/18089-friendsofflarum-sentry)
  - FoF / Spamblock - [github.com](https://github.com/FriendsOfFlarum/spamblock) - [discuss.flarum.org](https://discuss.flarum.org/d/17772-friendsofflarum-spamblock)
  - FoF / transliterator - [github.com](https://github.com/FriendsOfFlarum/transliterator) - [discuss.flarum.org](https://discuss.flarum.org/d/18074-friendsofflarum-url-transliterator)
+ - FoF / Upload - [github.com](https://github.com/FriendsOfFlarum/upload/) - [discuss.flarum.org](https://discuss.flarum.org/d/4154-flagrow-upload-the-intelligent-file-attachment-extension)
 
 
  ---
  ### Kvothe
 
   -  Kvothe / Keyboard Shortcuts - [github.com](https://github.com/oaklinq/flarum-ext-keyboard-shortcuts) - [discuss.flarum.org](https://discuss.flarum.org/d/19301-keyboard-shortcuts)
-
-
 
 
 ---
@@ -88,13 +87,9 @@ php flarum cache:clear
  - ReFlar / Reactions - [github.com](https://github.com/ReFlar/reactions/) - [discuss.flarum.org](https://discuss.flarum.org/d/6542-reactions-by-reflar)
 
 
-### Incoming translation
-
-- FoF / Upload - [github.com](https://github.com/FriendsOfFlarum/upload/) - [discuss.flarum.org](https://discuss.flarum.org/d/4154-flagrow-upload-the-intelligent-file-attachment-extension).
-
 
 ## Links
-See **ROOAAAR!/lang-french-extended** on:
+See **ROOAAAR/lang-french-extended** on:
 
 * [Flarum](https://discuss.flarum.org/d/20039-rooaaar-the-french-language-pack-extended)
 * [Github](https://github.com/rooaaar/lang-french-extended)
