@@ -1,18 +1,14 @@
-![License](https://img.shields.io/badge/license-MIT-blue.svg) [![Latest Stable Version](https://img.shields.io/packagist/v/rooaaar/lang-french-extended.svg)](https://packagist.org/packages/rooaaar/lang-french-extended) ![Issues](https://img.shields.io/github/issues/rooaaar/lang-french-extended.svg) [![Total Downloads](https://img.shields.io/packagist/dt/rooaaar/lang-french-extended.svg)](https://packagist.org/packages/rooaaar/lang-french-extended) [![Downloads Monthly](https://poser.pugx.org/rooaaar/lang-french-extended/d/monthly)](https://packagist.org/packages/rooaaar/lang-french-extended) ![Stars](https://img.shields.io/github/stars/rooaaar/lang-french-extended.svg)
+# French Language Pack for [Flarum](https://flarum.org/)'s third-party extensions
 
+[![Build Status](https://travis-ci.org/rooaaar/lang-french-extended.svg?branch=master)](https://travis-ci.org/rooaaar/lang-french-extended) [![StyleCI](https://styleci.io/repos/186357907/shield?style=flat&branch=master)](https://styleci.io/repos/186357907)
 
+French language pack to localize the third-party extensions for Flarum.
 
-
-
-
-# ROOAAAR / lang-french-extended
-French language pack for the [Flarum](http://flarum.org/)'s Third-party extensions (list below).
-If you search french language pack for Flarum's bundled extensions, see [Milescellar / lang-french](https://github.com/milescellar/lang-french)
-
+If you're looking for the French language pack for the Flarum forum software, its bundled extensions and libraries, please see [this repository](https://github.com/milescellar/lang-french).
 
 ## Installation
 
-Use [Bazaar](https://github.com/flagrow/bazaar/) or install manually via Composer:
+Flarum use Composer to manage its dependencies and extensions. The French language pack is available [on Packagist](https://packagist.org/packages/rooaaar/lang-french-extended) and can be managed that way. Make sure that [Composer](https://getcomposer.org/) is installed on your machine, then run the following command in the location where Flarum is installed:
 
 ```bash
 composer require rooaaar/lang-french-extended
@@ -20,82 +16,67 @@ composer require rooaaar/lang-french-extended
 
 ## Updating
 
+Run the following command in the location where Flarum is installed:
+
 ```bash
 composer update rooaaar/lang-french-extended
 php flarum cache:clear
 ```
 
-## Third-party extensions translated
-
-
+## List of translated third-party extensions
 
 ### Fajuu
 
- - Fajuu / ContactButton - [github.com](https://github.com/Fajuu/ContactButton) - [discuss.flarum.org](https://discuss.flarum.org/d/18228-contact-button)
+ - ContactButton ([GitHub Repository](https://github.com/Fajuu/ContactButton) / [Flarum Community](https://discuss.flarum.org/d/18228-contact-button))
 
-
- ---
+---
 ### Extiverse
 
- - Extiverse / Bazaar - [github.com](https://github.com/extiverse/bazaar/) - [discuss.flarum.org](https://discuss.flarum.org/d/5151)
-
+ - Bazaar ([GitHub Repository](https://github.com/extiverse/bazaar/) / [Flarum Community](https://discuss.flarum.org/d/5151))
 
 ---
 ### Flagrow
 
- - Flagrow / Mason - [github.com](https://github.com/flagrow/mason/) - [discuss.flarum.org](https://discuss.flarum.org/d/7028-flagrow-mason-the-discussion-custom-fields-builder)
- - Flagrow / Userlist - [github.com](https://github.com/flagrow/users-list/) - [discuss.flarum.org](https://discuss.flarum.org/d/6009-flagrow-users-list-review-and-mass-mail-users-of-your-forum)
-
+ - Mason ([GitHub Repository](https://github.com/flagrow/mason/) / [Flarum Community](https://discuss.flarum.org/d/7028-flagrow-mason-the-discussion-custom-fields-builder))
+ - Userlist ([GitHub Repository](https://github.com/flagrow/users-list/) / [Flarum Community](https://discuss.flarum.org/d/6009-flagrow-users-list-review-and-mass-mail-users-of-your-forum))
 
 ---
-### FriendsOfFlarum
+### Friends of Flarum
 
- - FoF / Byobu - [github.com](https://github.com/FriendsOfFlarum/byobu) - [discuss.flarum.org](https://discuss.flarum.org/d/4762-flagrow-by-bu-well-integrated-advanced-private-discussions)
- - FoF / Custom Footer - [github.com](https://github.com/FriendsOfFlarum/custom-footer) - [discuss.flarum.org](https://discuss.flarum.org/d/17774-friendsofflarum-custom-footer)
- - FoF / Default Group - [github.com](https://github.com/FriendsOfFlarum/default-group) - [discuss.flarum.org](https://discuss.flarum.org/d/18158-friendsofflarum-default-group)
- - FoF / Formatting - [github.com](https://github.com/FriendsOfFlarum/formatting) - [discuss.flarum.org](https://discuss.flarum.org/d/17770-friendsofflarum-formatting)
- - FoF / Links - [github.com](https://github.com/FriendsOfFlarum/links/) - [discuss.flarum.org](https://discuss.flarum.org/d/18335-friendsofflarum-links) 
- - FoF / Merge - [github.com](https://github.com/FriendsOfFlarum/merge-discussions/) - [discuss.flarum.org](https://discuss.flarum.org/d/19460-friendsofflarum-merge-discussions)
- - FoF / Necrobumping - [github.com](https://github.com/FriendsOfFlarum/prevent-necrobumping/) - [discuss.flarum.org](https://discuss.flarum.org/d/18312-friendsofflarum-prevent-necrobumping)
- - FoF / Pages - [github.com](https://github.com/FriendsOfFlarum/pages) - [discuss.flarum.org](https://discuss.flarum.org/d/18301-friendsofflarum-pages)
- - FoF / Passport - [github.com](https://github.com/FriendsOfFlarum/passport) - [discuss.flarum.org](https://discuss.flarum.org/d/5203-flagrow-passport-the-laravel-passport-oauth-extension)
- - FoF / reCAPTCHA - [github.com](https://github.com/FriendsOfFlarum/recaptcha) - [discuss.flarum.org](https://discuss.flarum.org/d/18399-friendsofflarum-recaptcha)
- - FoF / Secure HTTPS - [github.com](https://github.com/FriendsOfFlarum/secure-https) - [discuss.flarum.org](https://discuss.flarum.org/d/17771-friendsofflarum-secure-https)
- - FoF / Sentry - [github.com](https://github.com/FriendsOfFlarum/sentry) - [discuss.flarum.org](https://discuss.flarum.org/d/18089-friendsofflarum-sentry)
- - FoF / Spamblock - [github.com](https://github.com/FriendsOfFlarum/spamblock) - [discuss.flarum.org](https://discuss.flarum.org/d/17772-friendsofflarum-spamblock)
- - FoF / transliterator - [github.com](https://github.com/FriendsOfFlarum/transliterator) - [discuss.flarum.org](https://discuss.flarum.org/d/18074-friendsofflarum-url-transliterator)
- - FoF / Upload - [github.com](https://github.com/FriendsOfFlarum/upload/) - [discuss.flarum.org](https://discuss.flarum.org/d/4154-flagrow-upload-the-intelligent-file-attachment-extension)
+ - Byobu ([GitHub Repository](https://github.com/FriendsOfFlarum/byobu) / [Flarum Community](https://discuss.flarum.org/d/4762-flagrow-by-bu-well-integrated-advanced-private-discussions))
+ - Custom Footer ([GitHub Repository](https://github.com/FriendsOfFlarum/custom-footer) / [Flarum Community](https://discuss.flarum.org/d/17774-friendsofflarum-custom-footer))
+ - Default Group ([GitHub Repository](https://github.com/FriendsOfFlarum/default-group) / [Flarum Community](https://discuss.flarum.org/d/18158-friendsofflarum-default-group))
+ - Formatting ([GitHub Repository](https://github.com/FriendsOfFlarum/formatting) / [Flarum Community](https://discuss.flarum.org/d/17770-friendsofflarum-formatting))
+ - Links ([GitHub Repository](https://github.com/FriendsOfFlarum/links/) / [Flarum Community](https://discuss.flarum.org/d/18335-friendsofflarum-links))
+ - Merge ([GitHub Repository](https://github.com/FriendsOfFlarum/merge-discussions/) / [Flarum Community](https://discuss.flarum.org/d/19460-friendsofflarum-merge-discussions))
+ - Necrobumping ([GitHub Repository](https://github.com/FriendsOfFlarum/prevent-necrobumping/) / [Flarum Community](https://discuss.flarum.org/d/18312-friendsofflarum-prevent-necrobumping))
+ - Pages ([GitHub Repository](https://github.com/FriendsOfFlarum/pages) / [Flarum Community](https://discuss.flarum.org/d/18301-friendsofflarum-pages))
+ - Passport ([GitHub Repository](https://github.com/FriendsOfFlarum/passport) / [Flarum Community](https://discuss.flarum.org/d/5203-flagrow-passport-the-laravel-passport-oauth-extension))
+ - reCAPTCHA ([GitHub Repository](https://github.com/FriendsOfFlarum/recaptcha) / [Flarum Community](https://discuss.flarum.org/d/18399-friendsofflarum-recaptcha))
+ - Secure HTTPS ([GitHub Repository](https://github.com/FriendsOfFlarum/secure-https) / [Flarum Community](https://discuss.flarum.org/d/17771-friendsofflarum-secure-https))
+ - Sentry ([GitHub Repository](https://github.com/FriendsOfFlarum/sentry) / [Flarum Community](https://discuss.flarum.org/d/18089-friendsofflarum-sentry))
+ - Spamblock ([GitHub Repository](https://github.com/FriendsOfFlarum/spamblock) / [Flarum Community](https://discuss.flarum.org/d/17772-friendsofflarum-spamblock))
+ - transliterator ([GitHub Repository](https://github.com/FriendsOfFlarum/transliterator) / [Flarum Community](https://discuss.flarum.org/d/18074-friendsofflarum-url-transliterator))
+ - Upload ([GitHub Repository](https://github.com/FriendsOfFlarum/upload/) / [Flarum Community](https://discuss.flarum.org/d/4154-flagrow-upload-the-intelligent-file-attachment-extension))
 
-
- ---
+---
  ### Kvothe
 
-  -  Kvothe / Keyboard Shortcuts - [github.com](https://github.com/oaklinq/flarum-ext-keyboard-shortcuts) - [discuss.flarum.org](https://discuss.flarum.org/d/19301-keyboard-shortcuts)
-
+  -  Keyboard Shortcuts ([GitHub Repository](https://github.com/oaklinq/flarum-ext-keyboard-shortcuts) / [Flarum Community](https://discuss.flarum.org/d/19301-keyboard-shortcuts))
 
 ---
 ### MichaelBelgium
 
- -  MichaelBelgium / Discussion views - [github.com](https://github.com/MichaelBelgium/flarum-discussion-views/) - [discuss.flarum.org](https://discuss.flarum.org/d/7339-discussion-views)
- - MichaelBelgium / Profile views - [github.com](https://github.com/MichaelBelgium/flarum-profile-views/) - [discuss.flarum.org](https://discuss.flarum.org/d/7596-profile-views)
-
+ -  Discussion views ([GitHub Repository](https://github.com/MichaelBelgium/flarum-discussion-views/) / [Flarum Community](https://discuss.flarum.org/d/7339-discussion-views))
+ - Profile views ([GitHub Repository](https://github.com/MichaelBelgium/flarum-profile-views/) / [Flarum Community](https://discuss.flarum.org/d/7596-profile-views))
 
 ---
 ### ReFlar
 
- - ReFlar / Cookie Consent - [github.com](https://github.com/ReFlar/cookie-consent/) - [discuss.flarum.org](https://discuss.flarum.org/d/10395-cookie-consent)
- - ReFlar / Doorman - [github.com](https://github.com/ReFlar/doorman) - [discuss.flarum.org](https://discuss.flarum.org/d/17845-doorman-by-reflar)
- - ReFlar / LaTeX - [github.com](https://github.com/ReFlar/latex) - [discuss.flarum.org](https://discuss.flarum.org/d/16176-latex-by-reflar/)
- - ReFlar / Level Ranks - [github.com](https://github.com/ReFlar/level-ranks) - [discuss.flarum.org](https://discuss.flarum.org/d/15052-levels-ranks-by-reflar)
- - ReFlar / NightMode - [github.com](https://github.com/ReFlar/nightmode) - [discuss.flarum.org](https://discuss.flarum.org/d/11134-night-mode-by-reflar)
- - ReFlar / Polls - [github.com](https://github.com/ReFlar/polls/) - [discuss.flarum.org](https://discuss.flarum.org/d/9762-poll)
- - ReFlar / Reactions - [github.com](https://github.com/ReFlar/reactions/) - [discuss.flarum.org](https://discuss.flarum.org/d/6542-reactions-by-reflar)
-
-
-
-## Links
-See **ROOAAAR/lang-french-extended** on:
-
-* [Flarum](https://discuss.flarum.org/d/20039-rooaaar-the-french-language-pack-extended)
-* [Github](https://github.com/rooaaar/lang-french-extended)
-* [Packagist](https://packagist.org/packages/rooaaar/lang-french-extended)
+ - Cookie Consent ([GitHub Repository](https://github.com/ReFlar/cookie-consent/) / [Flarum Community](https://discuss.flarum.org/d/10395-cookie-consent))
+ - Doorman ([GitHub Repository](https://github.com/ReFlar/doorman) / [Flarum Community](https://discuss.flarum.org/d/17845-doorman-by-reflar))
+ - LaTeX ([GitHub Repository](https://github.com/ReFlar/latex) / [Flarum Community](https://discuss.flarum.org/d/16176-latex-by-reflar/))
+ - Level Ranks ([GitHub Repository](https://github.com/ReFlar/level-ranks) / [Flarum Community](https://discuss.flarum.org/d/15052-levels-ranks-by-reflar))
+ - NightMode ([GitHub Repository](https://github.com/ReFlar/nightmode) / [Flarum Community](https://discuss.flarum.org/d/11134-night-mode-by-reflar))
+ - Polls ([GitHub Repository](https://github.com/ReFlar/polls/) / [Flarum Community](https://discuss.flarum.org/d/9762-poll))
+ - Reactions ([GitHub Repository](https://github.com/ReFlar/reactions/) / [Flarum Community](https://discuss.flarum.org/d/6542-reactions-by-reflar))
