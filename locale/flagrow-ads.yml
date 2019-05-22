@@ -1,0 +1,19 @@
+flagrow-ads:
+  admin:
+    buttons:
+      save: Enregistrer les paramètres
+    positions:
+      between-posts:
+        placeholder: => flagrow-ads.admin.positions.under-header.placeholder
+        title: Position de l'annonce entre les messages
+      under-header:
+        placeholder: Insérez votre code d'annonce ici.
+        title: Position de l'annonce sous l'en-tête de navigation
+      under-nav-items:
+        placeholder: => flagrow-ads.admin.positions.under-header.placeholder
+        title: Position de l'annonce dans la colonne de gauche (sous les balises) de la page d'accueil
+    settings:
+      between-n-posts: Spécifiez après combien de messages placer une annonce
+      start-from-post: Spécifiez à partir de quel message commencer à afficher une annonce
+    tab:
+      description: Définissez les préférences et les positions des annonces.
