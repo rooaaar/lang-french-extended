@@ -35,7 +35,10 @@
             "title": "Français"
         },
         "flagrow": {
-            "discuss": ""
+            "discuss": "https://discuss.flarum.org/d/20039-rooaaar-the-french-language-pack-extended"
+        }
+        "suggest": {
+            "milescellar/lang-french": "French language pack for Flarum and its bundled extensions"
         }
     }
 }
