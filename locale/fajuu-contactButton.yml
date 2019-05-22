@@ -3,6 +3,6 @@ fajuu-contactbutton:
     settings:
       icon: Icône du bouton
       label: Nom du bouton
-      newtab: Ouvrir le lien dans un nouvel onglet (par défaut pour les emails)
+      newtab: Ouvrir le lien dans un nouvel onglet (par défaut pour les adresses de courriel)
       title: Bouton de contact
-      url: Adresse email ou lien vers le site web
+      url: Adresse de courriel ou lien vers un site internet
