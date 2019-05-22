@@ -83,6 +83,7 @@ php flarum cache:clear
 
  - ReFlar / Cookie Consent - [github.com](https://github.com/ReFlar/cookie-consent/) - [discuss.flarum.org](https://discuss.flarum.org/d/10395-cookie-consent)
  - ReFlar / Doorman - [github.com](https://github.com/ReFlar/doorman) - [discuss.flarum.org](https://discuss.flarum.org/d/17845-doorman-by-reflar)
+ - ReFlar / NightMode - [github.com](https://github.com/ReFlar/nightmode) - [discuss.flarum.org](https://discuss.flarum.org/d/11134-night-mode-by-reflar) 
  - ReFlar / Polls - [github.com](https://github.com/ReFlar/polls/) - [discuss.flarum.org](https://discuss.flarum.org/d/9762-poll)
  - ReFlar / Reactions - [github.com](https://github.com/ReFlar/reactions/) - [discuss.flarum.org](https://discuss.flarum.org/d/6542-reactions-by-reflar)
 
