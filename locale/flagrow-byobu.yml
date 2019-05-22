@@ -12,28 +12,28 @@ flagrow-byobu:
         tooltip: Discussion privée
     buttons:
       add_recipients: Destinataires
-      edit_recipients: Modifier destinataires
-      send_pd: 'Envoyer un message à {username}'
-      submit: OK
+      edit_recipients: Modifier les destinataires
+      send_pd: "Envoyer un message à {username}"
+      submit: Envoyer
     input:
-      search_recipients: Rechercher un destinataire en tapant les 3 premières lettres...
+      search_recipients: Rechercher un destinataire en saisissant ses trois premiers caractères…
     labels:
-      recipients: '{count} Destinataire|{count} Destinataires'
+      recipients: "{count} destinataire|{count} destinataires"
       user_deleted: '-supprimé-'
     modal:
       titles:
         add_recipients: Ajouter des destinataires à votre discussion
-        update_recipients: 'Mettre à jour les destinataires de {title}'
+        update_recipients: "Mettre à jour les destinataires de {title}"
     nav:
       private_discussions: Discussion privée
     post:
       recipients_modified:
-        added: '{username} a ajouté les destinataires {added}.'
-        added_and_removed: '{username} a ajouté les destinataires {added} et a supprimé {removed}.'
-        removed: '{username} a supprimé les destinataires {removed}.'
+        added: "{username} a ajouté {added} aux destinataires."
+        added_and_removed: "{username} a ajouté {added} et a supprimé {removed} aux destinataires."
+        removed: "{username} a supprimé {removed} des destinataires."
     search:
       headings:
-        groups: Groupes de permission
+        groups: Groupes de permissions
     user:
       settings:
         block_pd: Bloquer les discussions privées
