@@ -51,8 +51,10 @@ php flarum cache:clear
 ### FriendsOfFlarum
 
  - FoF / Byobu - [github.com](https://github.com/FriendsOfFlarum/byobu) - [discuss.flarum.org](https://discuss.flarum.org/d/4762-flagrow-by-bu-well-integrated-advanced-private-discussions)
- - FoF / default-group - [github.com](https://github.com/FriendsOfFlarum/default-group) - [discuss.flarum.org](https://discuss.flarum.org/d/18158-friendsofflarum-default-group)
+ - FoF / Custom Footer - [github.com](https://github.com/FriendsOfFlarum/custom-footer) - [discuss.flarum.org](https://discuss.flarum.org/d/17774-friendsofflarum-custom-footer)
+ - FoF / Default Group - [github.com](https://github.com/FriendsOfFlarum/default-group) - [discuss.flarum.org](https://discuss.flarum.org/d/18158-friendsofflarum-default-group)
  - FoF / Formatting - [github.com](https://github.com/FriendsOfFlarum/formatting) - [discuss.flarum.org](https://discuss.flarum.org/d/17770-friendsofflarum-formatting)
+ - FoF / Links - [github.com](https://github.com/FriendsOfFlarum/links/) - [discuss.flarum.org](https://discuss.flarum.org/d/18335-friendsofflarum-links) 
  - FoF / Merge - [github.com](https://github.com/FriendsOfFlarum/merge-discussions/) - [discuss.flarum.org](https://discuss.flarum.org/d/19460-friendsofflarum-merge-discussions)
  - FoF / Necrobumping - [github.com](https://github.com/FriendsOfFlarum/prevent-necrobumping/) - [discuss.flarum.org](https://discuss.flarum.org/d/18312-friendsofflarum-prevent-necrobumping)
  - FoF / Pages - [github.com](https://github.com/FriendsOfFlarum/pages) - [discuss.flarum.org](https://discuss.flarum.org/d/18301-friendsofflarum-pages)
@@ -83,6 +85,7 @@ php flarum cache:clear
 
  - ReFlar / Cookie Consent - [github.com](https://github.com/ReFlar/cookie-consent/) - [discuss.flarum.org](https://discuss.flarum.org/d/10395-cookie-consent)
  - ReFlar / Doorman - [github.com](https://github.com/ReFlar/doorman) - [discuss.flarum.org](https://discuss.flarum.org/d/17845-doorman-by-reflar)
+ - ReFlar / LaTeX - [github.com](https://github.com/ReFlar/latex) - [discuss.flarum.org](https://discuss.flarum.org/d/16176-latex-by-reflar/)
  - ReFlar / Level Ranks - [github.com](https://github.com/ReFlar/level-ranks) - [discuss.flarum.org](https://discuss.flarum.org/d/15052-levels-ranks-by-reflar)
  - ReFlar / NightMode - [github.com](https://github.com/ReFlar/nightmode) - [discuss.flarum.org](https://discuss.flarum.org/d/11134-night-mode-by-reflar)
  - ReFlar / Polls - [github.com](https://github.com/ReFlar/polls/) - [discuss.flarum.org](https://discuss.flarum.org/d/9762-poll)
