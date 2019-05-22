@@ -42,7 +42,7 @@ flagrow-bazaar:
             toggle: Utiliser des crons pour le traitement des tâches
         title: Flagrow Bazaar
     nav:
-      description: Le marché d'extensions.
+      description: Le marché l'extension.
       title: Bazaar
     page:
       button:

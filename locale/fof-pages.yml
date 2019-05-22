@@ -18,7 +18,7 @@ fof-pages:
       url_placeholder: => fof-pages.ref.url
     nav:
       pages_button: => fof-pages.ref.pages
-      pages_text: Créer des pages statiques personnalisées.
+      pages_text: Créez des pages statiques personnalisées.
     pages:
       about_text: Créer et gérer des pages statiques.
       create_button: => fof-pages.ref.create_page
