@@ -5,7 +5,7 @@ flagrow-bazaar:
       tasks: Historique des tâches
     loader:
       close: Fermer
-      error: Une erreur est survenue. Pour plus d’informations, veuillez consulter l’onglet historique et le journal de Flarum. De plus, n’hésitez pas à nous signaler cette erreur.
+      error: 'Une erreur est survenue. Pour plus d’informations, veuillez consulter l’onglet historique et le journal de Flarum. De plus, n’hésitez pas à nous signaler cette erreur.'
       is_loading: Chargement…
       refresh: Rafraîchir la page
       report_issue: Signaler un problème
@@ -33,7 +33,7 @@ flagrow-bazaar:
       settings:
         field:
           token:
-            description: "Ce jeton API est obligatoire pour accéder à l’API de l’extension Flagrow. S’il est déjà configuré, vous êtes prêt !"
+            description: 'Ce jeton API est obligatoire pour accéder à l’API de l’extension Flagrow. S’il est déjà configuré, vous êtes prêt !'
             label: Jeton API
           use_cron_for_tasks:
             description: |
@@ -42,7 +42,7 @@ flagrow-bazaar:
             toggle: Utiliser des « crons » pour le traitement des tâches
         title: Flagrow Bazaar
     nav:
-      description: Le marché d’extensions.
+      description: Le marché de l’extension.
       title: Bazaar
     page:
       button:
@@ -52,7 +52,7 @@ flagrow-bazaar:
         enable: Activer
         favorite_button: Ajouter l’extension aux favoris
         install: Installer
-        more: "Davantage de résultats, charger la page {current} sur {total}"
+        more: 'Davantage de résultats, charger la page {current} sur {total}'
         remove_favorite_button: Retirer l’extension des favoris
         subscribe: Souscrire un abonnement
         uninstall: Désinstaller
@@ -69,12 +69,12 @@ flagrow-bazaar:
         installed_version: Version installée
         latest_incompatible: Incompatible avec la dernière version de Flarum
         next_incompatible: Incompatible avec la prochaine version de Flarum
-        outdated: "L’extension est obsolète, veuillez la mettre à jour vers la version {new}"
+        outdated: 'L’extension est obsolète, veuillez la mettre à jour vers la version {new}'
         pending: L’extension attend qu’une tâche d’arrière-plan soit terminée
         premium: Premium
         subscribe_check_failed: Il semblerait que vous ayez annulé le processus de paiement.
         subscribed: Abonné
-        vendor: "Par {vendor}"
+        vendor: 'Par {vendor}'
       state:
         no_results_available: |
           Il semblerait qu’aucun résultat ne soit disponible pour le moment.
@@ -86,11 +86,11 @@ flagrow-bazaar:
           finished_at: Terminée à
           started_at: Démarrée à
         command:
-          install: "Installer {extension}"
+          install: 'Installer {extension}'
           sync-lock: Synchronisation du fichier « composer.lock »
-          sync-version: "Synchroniser {extension}"
-          uninstall: "Désinstaller {extension}"
-          update: "Mettre à jour {extension}"
+          sync-version: 'Synchroniser {extension}'
+          uninstall: 'Désinstaller {extension}'
+          update: 'Mettre à jour {extension}'
         group:
           lastmonth: Le mois dernier
           older: Le plus ancien

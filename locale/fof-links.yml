@@ -1,0 +1,25 @@
+fof-links:
+  admin:
+    edit_link:
+      delete_link_button: Supprimer le lien
+      delete_link_confirmation: Êtes-vous sûr de vouloir supprimer ce lien?
+      internal_link: Est-ce un lien Flarum?
+      open_newtab: Ouvrir le lien dans un nouvel onglet
+      submit_button: => core.ref.save_changes
+      title: => fof-links.ref.create_link
+      title_label: => fof-links.ref.title
+      title_placeholder: => fof-links.ref.title
+      url_label: => fof-links.ref.url
+      url_placeholder: => fof-links.ref.url
+    links:
+      about_text: Gérer les liens du menu principal.
+      create_button: => fof-links.ref.create_link
+      links: => fof-links.ref.links
+    nav:
+      links_button: => fof-links.ref.links
+      links_text: Gérer les éléments de la liste de navigation principale.
+  ref:
+    create_link: Créer un lien
+    links: Liens
+    title: Titre
+    url: Url
