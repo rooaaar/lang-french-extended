@@ -34,6 +34,10 @@
                 "backgroundPosition": "center"
             }
         },
+        "flarum-locale": {
+            "code": "fr",
+            "title": "Français"
+        },
         "flagrow": {
             "discuss": "https://discuss.flarum.org/d/20039-rooaaar-the-french-language-pack-extended"
         },
