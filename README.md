@@ -36,6 +36,7 @@ php flarum cache:clear
 
 ---
 ### Flagrow
+ - HTML-Errors ([GitHub Repository](https://github.com/flagrow/html-errors) / [Flarum Community](https://discuss.flarum.org/d/10784-custom-html-error-pages))
  - Impersonate ([GitHub Repository](https://github.com/flagrow/impersonate) / [Flarum Community](https://discuss.flarum.org/d/9868-flagrow-impersonate-login-as-other-users))
  - Mason ([GitHub Repository](https://github.com/flagrow/mason/) / [Flarum Community](https://discuss.flarum.org/d/7028-flagrow-mason-the-discussion-custom-fields-builder))
  - Userlist ([GitHub Repository](https://github.com/flagrow/users-list/) / [Flarum Community](https://discuss.flarum.org/d/6009-flagrow-users-list-review-and-mass-mail-users-of-your-forum))
