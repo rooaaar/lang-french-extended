@@ -41,7 +41,7 @@
     "flarum-extension": {
       "title": "French Extended by ROOAAAR!",
       "icon": {
-        "name": "icon.svg",
+        "image": "icon.svg",
         "backgroundColor": "#e2571a",
         "backgroundSize": "cover",
         "backgroundPosition": "center",
