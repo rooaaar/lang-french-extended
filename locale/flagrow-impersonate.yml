@@ -1,0 +1,7 @@
+flagrow-impersonate:
+  admin:
+    permissions:
+      login: Se connecter en tant que d’autres utilisateurs
+  forum:
+    user_controls:
+      impersonate_button: Se connecter en tant que l’utilisateur
