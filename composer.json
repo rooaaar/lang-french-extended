@@ -1,48 +1,47 @@
 {
-    "name": "rooaaar/lang-french-extended",
-    "description": "French language pack for Flarum's third-party extensions.",
-    "type": "flarum-extension",
-    "keywords": ["extension", "flarum", "french", "locale", "translation"],
-    "license": "MIT",
-    "authors": [
-        {
-            "name": "hiob",
-            "email": "hiob.bjorn@gmail.com"
-        },
-        {
-            "name": "Miles Cellar",
-            "email": "milescellar@protonmail.com"
-        }
-    ],
-    "support": {
-        "issues": "https://github.com/rooaaar/lang-french-extended/issues",
-        "source": "https://github.com/rooaaar/lang-french-extended"
-    },
-    "require": {
-        "flarum/core": "^0.1.0-beta.8"
-    },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "1.0.x-dev"
-        },
-        "flarum-extension": {
-            "title": "French Extended",
-            "icon": {
-                "image": "icon.svg",
-                "backgroundColor": "#fff",
-                "backgroundSize": "cover",
-                "backgroundPosition": "center"
-            }
-        },
-        "flarum-locale": {
-            "code": "fr",
-            "title": "Français"
-        },
-        "flagrow": {
-            "discuss": "https://discuss.flarum.org/d/20039-rooaaar-the-french-language-pack-extended"
-        },
-        "suggest": {
-            "milescellar/lang-french": "French language pack for Flarum and its bundled extensions."
-        }
-    }
+	"name": "rooaaar/lang-french-extended",
+	"description": "French language pack for Flarum's third-party extensions.",
+	"type": "flarum-extension",
+	"keywords": ["extension", "flarum", "french", "locale", "translation"],
+	"license": "MIT",
+	"authors": [{
+			"name": "hiob",
+			"email": "hiob.bjorn@gmail.com"
+		},
+		{
+			"name": "Miles Cellar",
+			"email": "milescellar@protonmail.com"
+		}
+	],
+	"support": {
+		"issues": "https://github.com/rooaaar/lang-french-extended/issues",
+		"source": "https://github.com/rooaaar/lang-french-extended"
+	},
+	"require": {
+		"flarum/core": "^0.1.0-beta.8"
+	},
+	"extra": {
+		"branch-alias": {
+			"dev-master": "1.0.x-dev"
+		},
+		"flarum-extension": {
+			"title": "French Extended",
+			"icon": {
+				"image": "icon.svg",
+				"backgroundColor": "#fff",
+				"backgroundSize": "cover",
+				"backgroundPosition": "center"
+			}
+		},
+		"flarum-locale": {
+			"code": "fr",
+			"title": "Français"
+		}
+	},
+	"flagrow": {
+		"discuss": "https://discuss.flarum.org/d/20039-rooaaar-the-french-language-pack-extended"
+	},
+	"suggest": {
+		"milescellar/lang-french": "French language pack for Flarum and its bundled extensions."
+	}
 }
