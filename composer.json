@@ -41,11 +41,11 @@
     "flarum-extension": {
       "title": "French Extended by ROOAAAR!",
       "icon": {
-        "image": "icon.svg",
-        "backgroundColor": "#e2571a",
+        "name": "fas fa-grimace",
+        "backgroundColor": "#FB8E33",
         "backgroundSize": "cover",
         "backgroundPosition": "center",
-        "color": ""
+        "color": "#E2571A"
       }
     },
     "flarum-locale": {
