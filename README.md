@@ -64,12 +64,13 @@ php flarum cache:clear
 ---
  ### Kvothe
 
-  -  Keyboard Shortcuts ([GitHub Repository](https://github.com/oaklinq/flarum-ext-keyboard-shortcuts) / [Flarum Community](https://discuss.flarum.org/d/19301-keyboard-shortcuts))
+ - Keyboard ReplyToSee ([GitHub Repository](https://github.com/oaklinq/flarum-ext-reply2see) / [Flarum Community](https://discuss.flarum.org/d/18899-reply-2-see))
+ - Keyboard Shortcuts ([GitHub Repository](https://github.com/oaklinq/flarum-ext-keyboard-shortcuts) / [Flarum Community](https://discuss.flarum.org/d/19301-keyboard-shortcuts))
 
 ---
 ### MichaelBelgium
 
- -  Discussion views ([GitHub Repository](https://github.com/MichaelBelgium/flarum-discussion-views/) / [Flarum Community](https://discuss.flarum.org/d/7339-discussion-views))
+ - Discussion views ([GitHub Repository](https://github.com/MichaelBelgium/flarum-discussion-views/) / [Flarum Community](https://discuss.flarum.org/d/7339-discussion-views))
  - Profile views ([GitHub Repository](https://github.com/MichaelBelgium/flarum-profile-views/) / [Flarum Community](https://discuss.flarum.org/d/7596-profile-views))
 
 ---
