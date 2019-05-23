@@ -48,6 +48,7 @@ php flarum cache:clear
  - Custom Footer ([GitHub Repository](https://github.com/FriendsOfFlarum/custom-footer) / [Flarum Community](https://discuss.flarum.org/d/17774-friendsofflarum-custom-footer))
  - Default Group ([GitHub Repository](https://github.com/FriendsOfFlarum/default-group) / [Flarum Community](https://discuss.flarum.org/d/18158-friendsofflarum-default-group))
  - Formatting ([GitHub Repository](https://github.com/FriendsOfFlarum/formatting) / [Flarum Community](https://discuss.flarum.org/d/17770-friendsofflarum-formatting))
+ - FrontPage ([GitHub Repository](https://github.com/FriendsOfFlarum/frontpage) / [Flarum Community](https://discuss.flarum.org/d/19256-friendsofflarum-frontpage))
  - Links ([GitHub Repository](https://github.com/FriendsOfFlarum/links/) / [Flarum Community](https://discuss.flarum.org/d/18335-friendsofflarum-links))
  - Merge ([GitHub Repository](https://github.com/FriendsOfFlarum/merge-discussions/) / [Flarum Community](https://discuss.flarum.org/d/19460-friendsofflarum-merge-discussions))
  - Necrobumping ([GitHub Repository](https://github.com/FriendsOfFlarum/prevent-necrobumping/) / [Flarum Community](https://discuss.flarum.org/d/18312-friendsofflarum-prevent-necrobumping))
