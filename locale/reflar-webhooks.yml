@@ -22,15 +22,15 @@ reflar-webhooks:
       deleted: 'Utilisateur supprimé `{1}`'
       registered: Nouvel utilisateur enregistré
       renamed:
-        description: 'Nouveau nom d''utilisateur: {1}'
-        title: 'Nom d''utilisateur modifié de `{1}`'
+        description: 'Nouveau nom d’utilisateur: {1}'
+        title: 'Nom d’utilisateur modifié de `{1}`'
   adapters:
     errors:
       '404': Webhook introuvable
   admin:
     errors:
       service_not_found: 'Le service ''{service}'' ne peut être trouvé.'
-      url_invalid: L'URL n'est pas valide pour le service sélectionné.
+      url_invalid: L’URL n'est pas valide pour le service sélectionné.
     nav:
       desc: Webhooks sortants personnalisables pour votre forum.
     settings:
@@ -61,11 +61,11 @@ reflar-webhooks:
             renamed: => reflar-webhooks.ref.renamed
             title: Utilisateur Flarum
       help:
-        disabled: Ce Webhook est désactivé car aucun événement n'est activé.
-        general: 'Ici, vous pouvez ajouter, éditer et supprimer des webhooks de votre forum.'
-        url: Le point final du webhook à exécuter
+        disabled: Ce Webhook est désactivé car aucun événement n’est activé.
+        general: 'Ici vous pouvez ajouter, éditer et supprimer des webhooks de votre forum.'
+        url: L’url du webhook endpoint à exécuter
       modal:
-        description: 'Ici, vous modifiez les événements sur lesquels le Webhook est déclenché.'
+        description: Ici vous pouvez modifier les événements sur lesquels le Webhook est déclenché.
         title: Paramètres Webhook
       services:
         discord: Discord
