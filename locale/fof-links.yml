@@ -17,7 +17,7 @@ fof-links:
       links: => fof-links.ref.links
     nav:
       links_button: => fof-links.ref.links
-      links_text: Gérer les éléments de la liste de navigation principale.
+      links_text: Gérez les éléments de la liste de navigation principale.
   ref:
     create_link: Créer un lien
     links: Liens
