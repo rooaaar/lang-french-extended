@@ -41,11 +41,11 @@
     "flarum-extension": {
       "title": "French Extended by ROOAAAR!",
       "icon": {
-        "name": "fas fa-tired",
-        "backgroundColor": "#FF5620",
+        "name": "far fa-flag",
+        "background": "linear-gradient(90deg, rgb(58, 100, 157) 20%, rgb(209, 62, 50) 80%)",
         "backgroundSize": "cover",
         "backgroundPosition": "center",
-        "color": "#FFA120"
+        "color": "#FFFFFF"
       }
     },
     "flarum-locale": {
