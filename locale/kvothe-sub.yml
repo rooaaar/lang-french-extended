@@ -1,0 +1,9 @@
+kvothe-sub:
+  admin:
+    settings:
+      field:
+        hide-desktop: Ne pas afficher le bouton sur les ordinateurs de bureau.
+      title: Paramètres du bouton d’inscription
+  forum:
+    signup: S’inscrire
+replace-discussion-button: Remplacez le bouton Démarrer la discussion.

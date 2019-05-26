@@ -67,6 +67,7 @@ php flarum cache:clear
 
  - Keyboard ReplyToSee ([GitHub Repository](https://github.com/oaklinq/flarum-ext-reply2see) / [Flarum Community](https://discuss.flarum.org/d/18899-reply-2-see))
  - Keyboard Shortcuts ([GitHub Repository](https://github.com/oaklinq/flarum-ext-keyboard-shortcuts) / [Flarum Community](https://discuss.flarum.org/d/19301-keyboard-shortcuts))
+ - Signup Button ([GitHub Repository](https://github.com/oaklinq/flarum-signup-button) / [Flarum Community](https://discuss.flarum.org/d/18812-sign-up-button/))
 
 ---
 ### MichaelBelgium
