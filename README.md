@@ -60,6 +60,7 @@ php flarum cache:clear
  - Secure HTTPS ([GitHub Repository](https://github.com/FriendsOfFlarum/secure-https) / [Flarum Community](https://discuss.flarum.org/d/17771-friendsofflarum-secure-https))
  - Sentry ([GitHub Repository](https://github.com/FriendsOfFlarum/sentry) / [Flarum Community](https://discuss.flarum.org/d/18089-friendsofflarum-sentry))
  - Spamblock ([GitHub Repository](https://github.com/FriendsOfFlarum/spamblock) / [Flarum Community](https://discuss.flarum.org/d/17772-friendsofflarum-spamblock))
+ - Split ([GitHub Repository](https://github.com/FriendsOfFlarum/split) / [Flarum Community](https://discuss.flarum.org/d/1903-flagrow-split-separates-posts-to-a-new-discussion)) 
  - transliterator ([GitHub Repository](https://github.com/FriendsOfFlarum/transliterator) / [Flarum Community](https://discuss.flarum.org/d/18074-friendsofflarum-url-transliterator))
  - Upload ([GitHub Repository](https://github.com/FriendsOfFlarum/upload/) / [Flarum Community](https://discuss.flarum.org/d/4154-flagrow-upload-the-intelligent-file-attachment-extension))
 
@@ -77,7 +78,7 @@ php flarum cache:clear
  - Profile views ([GitHub Repository](https://github.com/MichaelBelgium/flarum-profile-views/) / [Flarum Community](https://discuss.flarum.org/d/7596-profile-views))
 
  ---
- ### NomisCZ
+### NomisCZ
 
  - Steam Login ([GitHub Repository](https://github.com/NomisCZ/flarum-ext-auth-steam) / [Flarum Community](https://discuss.flarum.org/d/19750-steam-auth))
 
