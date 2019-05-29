@@ -22,16 +22,15 @@ function cleanup {
 
 cd "$TEMP_DIR"
 
-curl -s -L "https://github.com/Fajuu/ContactButton/archive/$VERSION.tar.gz" | tar xz
-
-cd "$TEMP_DIR/ContactButton-$VERSION/locale"
+curl -s -L "https://raw.githubusercontent.com/Fajuu/ContactButton/master/locale/en.yml"
 
 RC=0
 
-for r in *.yml
+for $1 in en.yml
+for $2 in fajuu-contactbutton.yml.yml
 do
-  echo "Testing $r:"
-  same-yaml --ref "$r" --tra "$WORK_DIR/locale/$r"
+  echo "Testing $1 against $2:"
+  same-yaml --ref "$1.yml" --tra "$WORK_DIR/$2.yml"
   if [ $? -eq 1 ]
   then
     RC=1
