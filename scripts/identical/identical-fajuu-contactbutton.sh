@@ -29,11 +29,13 @@ cd "$TEMP_DIR"
 
 curl -s -L "https://raw.githubusercontent.com/$REPO/$VERSION/$LOCALE/$YAML1"
 
+ls -a
+
 RC=0
 
 
   echo "Testing $YAML1 against $YAML2:"
-  same-yaml --ref "$YAML1" --tra "$WORK_DIR/locale/$YAML2"
+  same-yaml --ref "$TEMP_DIR/$YAML1" --tra "$WORK_DIR/locale/$YAML2"
   if [ $YAML1 = $YAML2 ]
   then
     RC=1
