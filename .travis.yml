@@ -7,4 +7,5 @@ notifications:
     on_failure: change
 script:
   - bash scripts/linter.sh
-  - bash scripts/identical/*.sh
+  - bash scripts/identical/identical-fajuu-contactbutton.sh
+  - bash scripts/identical/identical-fof-auth-discord.sh

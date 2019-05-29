@@ -41,6 +41,6 @@ RC=0
     printf "${GREEN}✓ passed${NC}\n"
   fi
 
-trap cleanup
+trap cleanup EXIT
 
 exit $RC
