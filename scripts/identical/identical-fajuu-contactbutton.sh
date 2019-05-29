@@ -29,6 +29,7 @@ curl -s -L "https://raw.githubusercontent.com/Fajuu/ContactButton/master/locale/
 
 RC=0
 
+for
 do
   echo "Testing $YAML1 against $YAML2:"
   same-yaml --ref "$YAML1" --tra "$WORK_DIR/locale/$YAML2"
