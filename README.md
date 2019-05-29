@@ -76,6 +76,11 @@ php flarum cache:clear
  - Discussion views ([GitHub Repository](https://github.com/MichaelBelgium/flarum-discussion-views/) / [Flarum Community](https://discuss.flarum.org/d/7339-discussion-views))
  - Profile views ([GitHub Repository](https://github.com/MichaelBelgium/flarum-profile-views/) / [Flarum Community](https://discuss.flarum.org/d/7596-profile-views))
 
+ ---
+ ### NomisCZ
+
+ - Steam Login ([GitHub Repository](https://github.com/NomisCZ/flarum-ext-auth-steam) / [Flarum Community](https://discuss.flarum.org/d/19750-steam-auth))
+
 ---
 ### ReFlar
 
