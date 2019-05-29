@@ -48,6 +48,7 @@ php flarum cache:clear
  - Byōbu ([GitHub Repository](https://github.com/FriendsOfFlarum/byobu) / [Flarum Community](https://discuss.flarum.org/d/4762-flagrow-by-bu-well-integrated-advanced-private-discussions))
  - Custom Footer ([GitHub Repository](https://github.com/FriendsOfFlarum/custom-footer) / [Flarum Community](https://discuss.flarum.org/d/17774-friendsofflarum-custom-footer))
  - Default Group ([GitHub Repository](https://github.com/FriendsOfFlarum/default-group) / [Flarum Community](https://discuss.flarum.org/d/18158-friendsofflarum-default-group))
+ - Discord Login ([GitHub Repository](https://github.com/FriendsOfFlarum/auth-discord) / [Flarum Community](https://discuss.flarum.org/d/20184-friendsofflarum-discord-login)) 
  - Formatting ([GitHub Repository](https://github.com/FriendsOfFlarum/formatting) / [Flarum Community](https://discuss.flarum.org/d/17770-friendsofflarum-formatting))
  - FrontPage ([GitHub Repository](https://github.com/FriendsOfFlarum/frontpage) / [Flarum Community](https://discuss.flarum.org/d/19256-friendsofflarum-frontpage))
  - Links ([GitHub Repository](https://github.com/FriendsOfFlarum/links/) / [Flarum Community](https://discuss.flarum.org/d/18335-friendsofflarum-links))
