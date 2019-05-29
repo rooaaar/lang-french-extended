@@ -2,7 +2,7 @@ VERSION='master' #Repository version
 REPO='Fajuu/ContactButton' #Repository name
 LOCALE='locale' #Locale folder
 
-YAML1='en.yml' #Orginal yaml file
+YAML1='en.yml' #Original yaml file
 YAML2='fajuu-contactbutton.yml' #Translated yaml file
 
 TEMP_DIR=`mktemp -d`
@@ -41,7 +41,6 @@ RC=0
   else
     printf "${GREEN}✓ passed${NC}\n"
   fi
-done
 
 trap cleanup EXIT
 
