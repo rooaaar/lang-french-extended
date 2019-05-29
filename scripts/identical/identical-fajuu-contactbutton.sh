@@ -29,11 +29,10 @@ curl -s -L "https://raw.githubusercontent.com/Fajuu/ContactButton/master/locale/
 
 RC=0
 
-for
-do
+
   echo "Testing $YAML1 against $YAML2:"
   same-yaml --ref "$YAML1" --tra "$WORK_DIR/locale/$YAML2"
-  if [ $? -eq 1 ]
+  if [ $YAML1 = $YAML2 ]
   then
     RC=1
     printf "${RED}⨉ failed${NC}\n"
