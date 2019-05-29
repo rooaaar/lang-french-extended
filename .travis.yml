@@ -1,11 +1,10 @@
-language: bash
-
 before_script:
   - go get github.com/rooaaar/yaml-translation-utils/yamllinter
-
-script:
-  - bash scripts/linter.sh
-
+  - go get github.com/rooaaar/yaml-translation-utils/same-yaml
+language: bash
 notifications:
   email:
     on_failure: change
+script:
+  - bash scripts/linter.sh
+  - bash scripts/identical/*.sh
