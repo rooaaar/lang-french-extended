@@ -1,5 +1,8 @@
 VERSION=master
 
+YAML1='en.yml'
+YAML2='fajuu-contactbutton.yml'
+
 TEMP_DIR=`mktemp -d`
 WORK_DIR=`pwd`
 
@@ -26,11 +29,9 @@ curl -s -L "https://raw.githubusercontent.com/Fajuu/ContactButton/master/locale/
 
 RC=0
 
-for $1 in en.yml
-for $2 in fajuu-contactbutton.yml.yml
-do
-  echo "Testing $1 against $2:"
-  same-yaml --ref "$1.yml" --tra "$WORK_DIR/$2.yml"
+
+  echo "Testing $YAML1 against $YAML2:"
+  same-yaml --ref "$YAML1.yml" --tra "$WORK_DIR/$YAML2.yml"
   if [ $? -eq 1 ]
   then
     RC=1
