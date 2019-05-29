@@ -28,7 +28,7 @@ cd "$TEMP_DIR/ContactButton-$VERSION/locale"
 
 RC=0
 
-for r in fajuu-contactButton.yml
+for r in *.yml
 do
   echo "Testing $r:"
   same-yaml --ref "$r" --tra "$WORK_DIR/locale/$r"
