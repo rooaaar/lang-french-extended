@@ -1,7 +1,9 @@
-VERSION=master
+VERSION='master' #Repository version
+REPO='Fajuu/ContactButton' #Repository name
+LOCALE='locale' #Locale folder
 
-YAML1='en.yml'
-YAML2='fajuu-contactbutton.yml'
+YAML1='en.yml' #Orginal yaml file
+YAML2='fajuu-contactbutton.yml' #Translated yaml file
 
 TEMP_DIR=`mktemp -d`
 WORK_DIR=`pwd`
@@ -25,7 +27,7 @@ function cleanup {
 
 cd "$TEMP_DIR"
 
-curl -s -L "https://raw.githubusercontent.com/Fajuu/ContactButton/master/locale/en.yml"
+curl -s -L "https://raw.githubusercontent.com/$REPO/$VERSION/$LOCALE/$YAML1"
 
 RC=0
 
@@ -39,7 +41,6 @@ RC=0
   else
     printf "${GREEN}✓ passed${NC}\n"
   fi
-  echo
 done
 
 trap cleanup EXIT
