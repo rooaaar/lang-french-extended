@@ -4,7 +4,9 @@ matrix:
       node_js:
         - node
         - 8
-        - 10
+        - 10    
+      before_script:
+        - npm install auto-changelog
       script:
         - npm run auto-changelog      
     - language: bash
