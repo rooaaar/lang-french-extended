@@ -3,4 +3,4 @@ git config user.email "github@travis-ci.org" && \
 
 git add "CHANGELOG.md" && \
 git commit -m "auto-generated CHANGELOG.md" && \
-git push --force
+git push origin HEAD:master
