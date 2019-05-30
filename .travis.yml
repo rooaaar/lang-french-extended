@@ -54,3 +54,4 @@ matrix:
         - bash scripts/identical/reflar-reactions.sh
         - bash scripts/identical/saleksin-auth-google.sh
         - bash scripts/linter.sh
+        - bash scripts/changelog-commit.sh
