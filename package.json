@@ -1,6 +1,4 @@
 {
-	"name": "rooaaar/lang-french-extended",
-	"version": "1.*.*",
 	"scripts": {
 		"version": "auto-changelog -p && git add CHANGELOG.md"
 	},
