@@ -15,10 +15,11 @@ commit_files() {
   # Create a new commit with a custom build message
   # with "[skip ci]" to avoid a build loop
   # and Travis build number for reference
-  git commit -m "Travis update: $dateAndMonth (Build $TRAVIS_BUILD_NUMBER)" -m "[skip ci]"
+  git commit -m "Travis : $dateAndMonth (Build $TRAVIS_BUILD_NUMBER)" -m "[skip ci]"
 }
 
 upload_files() {
+  git remote add origin https://${GH_TOKEN}@github.com/rooaaar/lang-french-extended.git > /dev/null 2>&1
   git push --quiet --set-upstream origin master
 }
 
