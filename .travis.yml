@@ -1,57 +1,58 @@
+matrix:
+  include:
+    - language: node_js
+      node_js:
+        - node
+        - 8
+        - 10
+      script:
+        - npm run auto-changelog      
+    - language: bash
+      before_script:
+        - go get github.com/rooaaar/yaml-translation-utils/same-yaml
+        - go get github.com/rooaaar/yaml-translation-utils/yamllinter
 
-language: node_js
-node_js:
-  - node
-  - 8
-  - 6
-script:
-- npm run auto-changelog
-
-before_script:
-  - go get github.com/rooaaar/yaml-translation-utils/same-yaml
-  - go get github.com/rooaaar/yaml-translation-utils/yamllinter
-language: bash
-notifications:
-  email:
-    on_failure: change
-script:
-  - bash scripts/identical/fajuu-contactbutton.sh
-  - bash scripts/identical/flagrow-ads.sh
-  - bash scripts/identical/flagrow-analytics.sh
-  - bash scripts/identical/flagrow-bazaar.sh
-  - bash scripts/identical/flagrow-byobu.sh
-  - bash scripts/identical/flagrow-impersonate.sh
-  - bash scripts/identical/flagrow-mason.sh
-  - bash scripts/identical/flagrow-passport.sh
-  - bash scripts/identical/flagrow-split.sh
-  - bash scripts/identical/flagrow-upload.sh
-  - bash scripts/identical/flagrow-users-list.sh
-  - bash scripts/identical/fof-auth-discord.sh
-  - bash scripts/identical/fof-custom-footer.sh
-  - bash scripts/identical/fof-default-group.sh
-  - bash scripts/identical/fof-formatting.sh
-  - bash scripts/identical/fof-frontpage.sh
-  - bash scripts/identical/fof-links.sh
-  - bash scripts/identical/fof-merge-discussions.sh
-  - bash scripts/identical/fof-pages.sh
-  - bash scripts/identical/fof-prevent-necrobumping.sh
-  - bash scripts/identical/fof-recaptcha.sh
-  - bash scripts/identical/fof-secure-https.sh
-  - bash scripts/identical/fof-sentry.sh
-  - bash scripts/identical/fof-spamblock.sh
-  - bash scripts/identical/fof-transliterator.sh
-  - bash scripts/identical/kvothe-keyboard-shortcuts.sh
-  - bash scripts/identical/kvothe-reply-to-see.sh
-  - bash scripts/identical/kvothe-signup-button.sh
-  - bash scripts/identical/michaelbelgium-discussion-views.sh
-  - bash scripts/identical/michaelbelgium-profile-views.sh
-  - bash scripts/identical/nomiscz-auth-steam.sh
-  - bash scripts/identical/reflar-cookie-consent.sh
-  - bash scripts/identical/reflar-doorman.sh
-  - bash scripts/identical/reflar-latex.sh
-  - bash scripts/identical/reflar-level-ranks.sh
-  - bash scripts/identical/reflar-nightmode.sh
-  - bash scripts/identical/reflar-polls.sh
-  - bash scripts/identical/reflar-reactions.sh
-  - bash scripts/identical/saleksin-auth-google.sh
-  - bash scripts/linter.sh
+      notifications:
+        email:
+          on_failure: change
+      script:
+        - bash scripts/identical/fajuu-contactbutton.sh
+        - bash scripts/identical/flagrow-ads.sh
+        - bash scripts/identical/flagrow-analytics.sh
+        - bash scripts/identical/flagrow-bazaar.sh
+        - bash scripts/identical/flagrow-byobu.sh
+        - bash scripts/identical/flagrow-impersonate.sh
+        - bash scripts/identical/flagrow-mason.sh
+        - bash scripts/identical/flagrow-passport.sh
+        - bash scripts/identical/flagrow-split.sh
+        - bash scripts/identical/flagrow-upload.sh
+        - bash scripts/identical/flagrow-users-list.sh
+        - bash scripts/identical/fof-auth-discord.sh
+        - bash scripts/identical/fof-custom-footer.sh
+        - bash scripts/identical/fof-default-group.sh
+        - bash scripts/identical/fof-formatting.sh
+        - bash scripts/identical/fof-frontpage.sh
+        - bash scripts/identical/fof-links.sh
+        - bash scripts/identical/fof-merge-discussions.sh
+        - bash scripts/identical/fof-pages.sh
+        - bash scripts/identical/fof-prevent-necrobumping.sh
+        - bash scripts/identical/fof-recaptcha.sh
+        - bash scripts/identical/fof-secure-https.sh
+        - bash scripts/identical/fof-sentry.sh
+        - bash scripts/identical/fof-spamblock.sh
+        - bash scripts/identical/fof-transliterator.sh
+        - bash scripts/identical/kvothe-keyboard-shortcuts.sh
+        - bash scripts/identical/kvothe-reply-to-see.sh
+        - bash scripts/identical/kvothe-signup-button.sh
+        - bash scripts/identical/michaelbelgium-discussion-views.sh
+        - bash scripts/identical/michaelbelgium-profile-views.sh
+        - bash scripts/identical/nomiscz-auth-steam.sh
+        - bash scripts/identical/reflar-cookie-consent.sh
+        - bash scripts/identical/reflar-doorman.sh
+        - bash scripts/identical/reflar-latex.sh
+        - bash scripts/identical/reflar-level-ranks.sh
+        - bash scripts/identical/reflar-nightmode.sh
+        - bash scripts/identical/reflar-polls.sh
+        - bash scripts/identical/reflar-reactions.sh
+        - bash scripts/identical/saleksin-auth-google.sh
+        - bash scripts/linter.sh
