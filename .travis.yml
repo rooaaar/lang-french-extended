@@ -5,7 +5,7 @@ matrix:
         - node
         - 8
         - 10    
-      before_script:
+      install:
         - npm install auto-changelog
       script:
         - npm run auto-changelog      
