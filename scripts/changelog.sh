@@ -19,10 +19,6 @@ commit_files() {
 }
 
 upload_files() {
-  # Remove existing "origin"
-  git remote rm origin
-  # Add new "origin" with access token in the git URL for authentication
-  git remote add origin https://${GH_TOKEN}@github.com/rooaaar/lang-french-extended.git > /dev/null 2>&1
   git push origin master --quiet
 }
 
@@ -32,7 +28,7 @@ commit_files
 
 # Attempt to commit to git only if "git commit" succeeded
 if [ $? -eq 0 ]; then
-  echo "A new commit in CHANGELOG.md. Uploading to GitHub"
+  echo "New commit(s) in CHANGELOG.md. Push it to GitHub."
   upload_files
 else
   echo "No changes in CHANGELOG.md. Nothing to do."
