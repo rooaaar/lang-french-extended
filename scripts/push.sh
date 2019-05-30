@@ -19,7 +19,7 @@ commit_files() {
 }
 
 upload_files() {
-  git push origin master --quiet
+  git push --quiet --set-upstream origin master
 }
 
 setup_git
