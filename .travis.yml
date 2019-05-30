@@ -7,7 +7,7 @@ matrix:
         - git fetch origin --prune --tags
         - git-chglog --output CHANGELOG.md
       after_success:
-        - .scripts/changelog.sh
+        - bash scripts/changelog.sh
       env:
         global:
           secure: kJrUgeEndwUw9M7aJwE+8t6ymqE+0xpIQWwWtJx1NUFiFxoVc7gIUPo4oaoDwFvHf8G4xYVDX7yauN3E6TDFX7NRjcFqXHB8Up3U66c7os+X5dd0zxQ7UOJgETkfuJEKNJjxSe01n6P698SL9JcRLabY073w6Ce6qCGBpJd7SxzlTCoA0UU6WryM3lwqqXHNTubMAlbaHOMvPR56bIY3+s9r9LG6DZWY6>
