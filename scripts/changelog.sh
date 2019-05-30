@@ -5,4 +5,4 @@ git branch
 
 git add "CHANGELOG.md"
 git commit --message "auto-generated CHANGELOG.md"
-git push --quiet rooaaar/lang-french-extended HEAD:master
+git push --quiet github.com://rooaaar/lang-french-extended HEAD:master
