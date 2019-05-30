@@ -4,6 +4,7 @@ matrix:
       before_script:
         - go get github.com/git-chglog/git-chglog/cmd/git-chglog
       script:
+        - git fetch origin --prune --tags
         - git-chglog --output CHANGELOG.md
         - bash scripts/changelog.sh
     - language: bash
