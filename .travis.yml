@@ -11,7 +11,6 @@ script:
   - bash scripts/identical/flagrow-analytics.sh
   - bash scripts/identical/flagrow-bazaar.sh
   - bash scripts/identical/flagrow-byobu.sh
-  - bash scripts/identical/flagrow-html-errors.sh
   - bash scripts/identical/flagrow-impersonate.sh
   - bash scripts/identical/flagrow-mason.sh
   - bash scripts/identical/flagrow-passport.sh
@@ -34,10 +33,9 @@ script:
   - bash scripts/identical/fof-transliterator.sh
   - bash scripts/identical/kvothe-keyboard-shortcuts.sh
   - bash scripts/identical/kvothe-reply-to-see.sh
-  - bash scripts/identical/kvothe-sub.sh
+  - bash scripts/identical/kvothe-signup-button.sh
   - bash scripts/identical/michaelbelgium-discussion-views.sh
   - bash scripts/identical/michaelbelgium-profile-views.sh
-  - bash scripts/identical/migratetoflarum-canonical.sh
   - bash scripts/identical/nomiscz-auth-steam.sh
   - bash scripts/identical/reflar-cookie-consent.sh
   - bash scripts/identical/reflar-doorman.sh
@@ -46,6 +44,5 @@ script:
   - bash scripts/identical/reflar-nightmode.sh
   - bash scripts/identical/reflar-polls.sh
   - bash scripts/identical/reflar-reactions.sh
-  - bash scripts/identical/reflar-webhooks.sh
   - bash scripts/identical/saleksin-auth-google.sh
   - bash scripts/linter.sh
