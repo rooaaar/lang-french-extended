@@ -1,4 +1,3 @@
-#!/usr/bin/env bash
 cd dist && \
 git init && \
 
