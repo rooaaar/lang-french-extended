@@ -55,5 +55,11 @@
     "flagrow": {
       "discuss": "https://discuss.flarum.org/d/20039-rooaaar-the-french-language-pack-extended"
     }
+  },
+  "devDependencies": {
+    "auto-changelog": "*"
+  },
+  "scripts": {
+    "version": "auto-changelog -p && git add CHANGELOG.md"
   }
 }
