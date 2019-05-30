@@ -3,4 +3,4 @@ git config --global user.name "Travis CI"
 
 git add "CHANGELOG.md"
 git commit --message "auto-generated CHANGELOG.md"
-git push --quiet
+git push --quiet origin master:master
