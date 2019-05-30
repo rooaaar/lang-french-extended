@@ -1,5 +1,3 @@
-git init && \
-
 git config user.name "Travis CI" && \
 git config user.email "github@travis-ci.org" && \
 
