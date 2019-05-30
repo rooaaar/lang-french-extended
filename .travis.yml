@@ -1,14 +1,10 @@
 matrix:
   include:
-    - language: node_js
-      node_js:
-        - node
-        - 8
-        - 10    
-      install:
-        - npm install auto-changelog
+    - language: go
+      before_script:
+        - go get github.com/git-chglog/git-chglog/cmd/git-chglog
       script:
-        - npm run auto-changelog      
+        - git-chglog --output CHANGELOG.md
     - language: bash
       before_script:
         - go get github.com/rooaaar/yaml-translation-utils/same-yaml
