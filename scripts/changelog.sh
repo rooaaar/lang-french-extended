@@ -1,6 +1,9 @@
-git config user.name "Travis CI" && \
-git config user.email "github@travis-ci.org" && \
+git config --global user.email "travis@travis-ci.org"
+git config --global user.name "Travis CI"
 
-git add "CHANGELOG.md" && \
-git commit -m "auto-generated CHANGELOG.md" && \
-git push origin HEAD:master
+git checkout -b gh-pages
+git add "CHANGELOG.md"
+git commit --message "auto-generated CHANGELOG.md"
+
+git remote add origin https://github.com/rooaaar/lang-french-extended
+git push --quiet --set-upstream origin
