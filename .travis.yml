@@ -7,7 +7,7 @@ matrix:
         - git fetch origin --prune --tags
         - git-chglog --output CHANGELOG.md
       after_success:
-        - chmod +x push.sh
+        - chmod +x scripts/push.sh
         - scripts/push.sh
       env:
         global:
