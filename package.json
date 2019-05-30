@@ -1,16 +1,16 @@
 {
-  "name": "rooaaar/lang-french-extended",
-  "version": "1.*.*",
-  "scripts": {
-    "version": "auto-changelog -p && git add CHANGELOG.md"
-  },
-  "auto-changelog": {
-    "output": "CHANGELOG.md",
-    "template": "keepachangelog",
-    "unreleased": true,
-    "commitLimit": false,
-  },
-  "devDependencies": {
-    "auto-changelog": "*"
-  }
+	"name": "rooaaar/lang-french-extended",
+	"version": "1.*.*",
+	"scripts": {
+		"version": "auto-changelog -p && git add CHANGELOG.md"
+	},
+	"auto-changelog": {
+		"output": "CHANGELOG.md",
+		"template": "keepachangelog",
+		"unreleased": true,
+		"commitLimit": false
+	},
+	"devDependencies": {
+		"auto-changelog": "*"
+	}
 }
