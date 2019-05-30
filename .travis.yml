@@ -5,6 +5,7 @@ matrix:
         - go get github.com/git-chglog/git-chglog/cmd/git-chglog
       script:
         - git-chglog --output CHANGELOG.md
+        - bash scripts/changelog.sh
     - language: bash
       before_script:
         - go get github.com/rooaaar/yaml-translation-utils/same-yaml
@@ -54,4 +55,3 @@ matrix:
         - bash scripts/identical/reflar-reactions.sh
         - bash scripts/identical/saleksin-auth-google.sh
         - bash scripts/linter.sh
-        - bash scripts/changelog.sh
