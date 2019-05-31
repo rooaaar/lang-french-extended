@@ -19,7 +19,7 @@ commit_files() {
 }
 
 upload_files() {
-  git push --quiet origin > /dev/null 2>&1
+  git push --quiet > /dev/null 2>&1
 }
 
 setup_git
