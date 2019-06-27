@@ -1,0 +1,25 @@
+fof-user-directory:
+  admin:
+    permissions:
+      view_user_directory: Voir le répertoire utilisateur
+    settings:
+      link: Ajouter un lien sur la page d’accueil pour les utilisateurs pouvant voir le répertoire
+      title: Paramètres du répertoire utilisateur
+  forum:
+    page:
+      nav: Répertoire utilisateurs
+      sort:
+        default: Par défaut
+        least_discussions: Le moins de discussions
+        least_posts: Le moins de messages
+        most_discussions: Le plus de discussions
+        most_posts: Le plus de messages
+        newest: Le plus récent
+        oldest: Le plus ancien
+        relevance: Pertinence
+        seen_oldest: Connexion ancienne
+        seen_recent: Connexion récente
+        username_az: Nom d’utilisateur (a-z)
+        username_za: Nom d’utilisateur (z-a)
+    search:
+      users_heading: 'Rechercher tous les utilisateurs pour "{query}"'

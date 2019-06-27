@@ -49,7 +49,7 @@ php flarum cache:clear
  - Custom Footer ([GitHub Repository](https://github.com/FriendsOfFlarum/custom-footer) / [Flarum Community](https://discuss.flarum.org/d/17774-friendsofflarum-custom-footer))
  - Default Group ([GitHub Repository](https://github.com/FriendsOfFlarum/default-group) / [Flarum Community](https://discuss.flarum.org/d/18158-friendsofflarum-default-group))
  - Discord Login ([GitHub Repository](https://github.com/FriendsOfFlarum/auth-discord) / [Flarum Community](https://discuss.flarum.org/d/20184-friendsofflarum-discord-login))
- - Disposable Emails ([GitHub Repository](https://github.com/FriendsOfFlarum/disposable-emails) / [Flarum Community](https://discuss.flarum.org/d/20457-friendsofflarum-disposable-emails)) 
+ - Disposable Emails ([GitHub Repository](https://github.com/FriendsOfFlarum/disposable-emails) / [Flarum Community](https://discuss.flarum.org/d/20457-friendsofflarum-disposable-emails))
  - Formatting ([GitHub Repository](https://github.com/FriendsOfFlarum/formatting) / [Flarum Community](https://discuss.flarum.org/d/17770-friendsofflarum-formatting))
  - FrontPage ([GitHub Repository](https://github.com/FriendsOfFlarum/frontpage) / [Flarum Community](https://discuss.flarum.org/d/19256-friendsofflarum-frontpage))
  - Links ([GitHub Repository](https://github.com/FriendsOfFlarum/links/) / [Flarum Community](https://discuss.flarum.org/d/18335-friendsofflarum-links))
@@ -65,7 +65,7 @@ php flarum cache:clear
  - Split ([GitHub Repository](https://github.com/FriendsOfFlarum/split) / [Flarum Community](https://discuss.flarum.org/d/1903-flagrow-split-separates-posts-to-a-new-discussion))
  - transliterator ([GitHub Repository](https://github.com/FriendsOfFlarum/transliterator) / [Flarum Community](https://discuss.flarum.org/d/18074-friendsofflarum-url-transliterator))
  - Upload ([GitHub Repository](https://github.com/FriendsOfFlarum/upload/) / [Flarum Community](https://discuss.flarum.org/d/4154-flagrow-upload-the-intelligent-file-attachment-extension))
-
+ - User Directory ([GitHub Repository](https://github.com/FriendsOfFlarum/user-directory) / [Flarum Community](https://discuss.flarum.org/d/5682-user-directory-by-friendsofflarum))
 ---
  ### Kvothe
 
