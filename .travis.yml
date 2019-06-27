@@ -31,7 +31,6 @@ matrix:
         - bash scripts/identical/flagrow-impersonate.sh
         - bash scripts/identical/flagrow-mason.sh
         - bash scripts/identical/flagrow-passport.sh
-        - bash scripts/identical/flagrow-split.sh
         - bash scripts/identical/flagrow-upload.sh
         - bash scripts/identical/flagrow-users-list.sh
         - bash scripts/identical/fof-auth-discord.sh
