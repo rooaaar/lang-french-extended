@@ -1,0 +1,58 @@
+fof-masquerade:
+  admin:
+    buttons:
+      add-field: Créer un champ
+      delete-field: Supprimer le champ
+      edit-field: Sauvegarder les modifications
+    fields:
+      add: 'Ajouter le champ {field}'
+      description: Description du champ
+      description-help: |
+        Une description facultative pour expliquer l’utilisation / la nécessité de ce champ.
+      disable-user-bio: Désactiver le champ biographie de l’utilisateur
+      edit: 'Modifier le champ {field}'
+      force-user-to-completion: Forcer l’utilisateur à compléter son profil
+      icon: Icône
+      icon-help: |
+        Affiche une icône devant les valeurs entrées par l’utilisateur. Pour une référence des icônes disponibles, consultez <a>FontAwesome website</a>. Utilisez des noms d’icônes avec le préfixe "fa-", comme "fas fa-info".
+      name: Nom du champ
+      name-help: |
+        L’étiquette de champ visible publiquement (non traduisible).
+      on_bio: Afficher la réponse à ce champ dans la biographie de l’utilisateur
+      option-coma-warning: 'L’étiquette d’une option ne peut contenir aucune virgule (",").'
+      option-new: Nouvelle option
+      options: Options
+      prefix: Préfixe de champ
+      prefix-help: |
+        Affiche votre préfixe devant les valeurs entrées par l’utilisateur pour ce champ.
+      required: Marquer le champ comme obligatoire
+      type: Type
+      validation: Validation
+      validation-help: |
+        Consultez les <a>règles de validation Laravel</a> supportées. Ex.: "string|min:5" ou "url".
+    menu:
+      description: |
+        Configurer les champs de profil utilisateur.
+    permissions:
+      have-profile: Avoir un profil masquerade
+      view-profile: Voir le profil masquerade
+    types:
+      advanced: Avancées
+      boolean: Case à cocher
+      email: Email
+      select: Menu déroulant
+      url: Url
+  forum:
+    alerts:
+      profile-completion-required: |
+        Veuillez compléter les champs de profil nécessaires ci-dessous.
+    buttons:
+      save-profile: Sauvegarder
+      view-profile: Voir le profil
+    fields:
+      boolean:
+        'no': Non
+        'yes': Oui
+      select:
+        none-optional: Aucune option sélectionnée (facultatif)
+        none-required: Veuillez sélectionner une option (obligatoire)
