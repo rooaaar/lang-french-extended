@@ -6,7 +6,7 @@ fof-share-social:
     discussion:
       share_button: Partager
     modal:
-      title: partager
+      title: Partager
   lib:
     networks:
       facebook: Facebook

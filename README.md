@@ -59,8 +59,9 @@ php flarum cache:clear
  - reCAPTCHA ([GitHub Repository](https://github.com/FriendsOfFlarum/recaptcha) / [Flarum Community](https://discuss.flarum.org/d/18399-friendsofflarum-recaptcha))
  - Secure HTTPS ([GitHub Repository](https://github.com/FriendsOfFlarum/secure-https) / [Flarum Community](https://discuss.flarum.org/d/17771-friendsofflarum-secure-https))
  - Sentry ([GitHub Repository](https://github.com/FriendsOfFlarum/sentry) / [Flarum Community](https://discuss.flarum.org/d/18089-friendsofflarum-sentry))
+ - Share Social ([GitHub Repository](https://github.com/FriendsOfFlarum/share-social) / [Flarum Community](https://discuss.flarum.org/d/20401-friendsofflarum-share-social)) 
  - Spamblock ([GitHub Repository](https://github.com/FriendsOfFlarum/spamblock) / [Flarum Community](https://discuss.flarum.org/d/17772-friendsofflarum-spamblock))
- - Split ([GitHub Repository](https://github.com/FriendsOfFlarum/split) / [Flarum Community](https://discuss.flarum.org/d/1903-flagrow-split-separates-posts-to-a-new-discussion)) 
+ - Split ([GitHub Repository](https://github.com/FriendsOfFlarum/split) / [Flarum Community](https://discuss.flarum.org/d/1903-flagrow-split-separates-posts-to-a-new-discussion))
  - transliterator ([GitHub Repository](https://github.com/FriendsOfFlarum/transliterator) / [Flarum Community](https://discuss.flarum.org/d/18074-friendsofflarum-url-transliterator))
  - Upload ([GitHub Repository](https://github.com/FriendsOfFlarum/upload/) / [Flarum Community](https://discuss.flarum.org/d/4154-flagrow-upload-the-intelligent-file-attachment-extension))
 
