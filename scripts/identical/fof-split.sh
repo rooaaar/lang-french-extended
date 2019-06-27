@@ -3,7 +3,7 @@ REPO='FriendsOfFlarum/split' #Repository name
 LOCALE='locale' #Locale folder
 
 YAML1='en.yml' #Original yaml file
-YAML2='flagrow-split.yml' #Translated yaml file
+YAML2='fof-split.yml' #Translated yaml file
 
 TEMP_DIR=`mktemp -d`
 WORK_DIR=`pwd`
