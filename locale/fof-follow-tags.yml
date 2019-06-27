@@ -15,7 +15,7 @@ fof-follow-tags:
     sub_controls:
       follow_button: => fof-follow-tags.ref.follow
       following_button: => fof-follow-tags.ref.following
-      following_text: Be notified of all new discussions.
+      following_text: Soyez informé de toutes les nouvelles discussions.
       ignoring_button: => fof-follow-tags.ref.ignoring
       ignoring_text: Ne jamais être notifié.
       lurking_button: => fof-follow-tags.ref.lurking
@@ -26,5 +26,5 @@ fof-follow-tags:
   ref:
     follow: Suivre
     following: Suivie
-    ignoring: Ignoré
-    lurking: Observé
+    ignoring: Ignorée
+    lurking: Observée
