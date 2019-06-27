@@ -19,7 +19,7 @@ commit_files() {
 }
 
 upload_files() {
-  git push --quiet origin master https://${GH_TOKEN}@github.com/rooaaar/lang-french-extended.git > /dev/null 2>&1
+  git push --quiet > /dev/null 2>&1
 }
 
 setup_git
