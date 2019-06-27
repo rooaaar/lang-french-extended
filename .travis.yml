@@ -1,23 +1,24 @@
 matrix:
   include:
-    - language: go
-      before_script:
-        - go get github.com/git-chglog/git-chglog/cmd/git-chglog
-      script:
-        - git fetch origin --prune --tags
-        - git-chglog --output CHANGELOG.md
-      after_success:
+    - after_success:
         - chmod +x scripts/push.sh
         - scripts/push.sh
+      before_script:
+        - go get github.com/git-chglog/git-chglog/cmd/git-chglog
       env:
         global:
           secure: kJrUgeEndwUw9M7aJwE+8t6ymqE+0xpIQWwWtJx1NUFiFxoVc7gIUPo4oaoDwFvHf8G4xYVDX7yauN3E6TDFX7NRjcFqXHB8Up3U66c7os+X5dd0zxQ7UOJgETkfuJEKNJjxSe01n6P698SL9JcRLabY073w6Ce6qCGBpJd7SxzlTCoA0UU6WryM3lwqqXHNTubMAlbaHOMvPR56bIY3+s9r9LG6DZWY6>
-  
-    - language: bash
-      before_script:
+      language: go
+      script:
+        - git fetch origin --prune --tags
+        - git-chglog --output CHANGELOG.md
+    - before_script:
         - go get github.com/rooaaar/yaml-translation-utils/same-yaml
         - go get github.com/rooaaar/yaml-translation-utils/yamllinter
-
+      env:
+        global:
+          secure: kJrUgeEndwUw9M7aJwE+8t6ymqE+0xpIQWwWtJx1NUFiFxoVc7gIUPo4oaoDwFvHf8G4xYVDX7yauN3E6TDFX7NRjcFqXHB8Up3U66c7os+X5dd0zxQ7UOJgETkfuJEKNJjxSe01n6P698SL9JcRLabY073w6Ce6qCGBpJd7SxzlTCoA0UU6WryM3lwqqXHNTubMAlbaHOMvPR56bIY3+s9r9LG6DZWY6>
+      language: bash
       notifications:
         email:
           on_failure: change
@@ -26,7 +27,7 @@ matrix:
         - bash scripts/identical/flagrow-ads.sh
         - bash scripts/identical/flagrow-analytics.sh
         - bash scripts/identical/flagrow-bazaar.sh
-        - bash scripts/identical/flagrow-byobu.sh
+        - bash scripts/identical/fof-byobu.sh
         - bash scripts/identical/flagrow-impersonate.sh
         - bash scripts/identical/flagrow-mason.sh
         - bash scripts/identical/flagrow-passport.sh
@@ -36,6 +37,7 @@ matrix:
         - bash scripts/identical/fof-auth-discord.sh
         - bash scripts/identical/fof-custom-footer.sh
         - bash scripts/identical/fof-default-group.sh
+        - bash scripts/identical/fof-disposable-emails.sh
         - bash scripts/identical/fof-formatting.sh
         - bash scripts/identical/fof-frontpage.sh
         - bash scripts/identical/fof-links.sh
@@ -45,6 +47,7 @@ matrix:
         - bash scripts/identical/fof-recaptcha.sh
         - bash scripts/identical/fof-secure-https.sh
         - bash scripts/identical/fof-sentry.sh
+        - bash scripts/identical/fof-share-social.sh
         - bash scripts/identical/fof-spamblock.sh
         - bash scripts/identical/fof-transliterator.sh
         - bash scripts/identical/kvothe-keyboard-shortcuts.sh
@@ -62,8 +65,3 @@ matrix:
         - bash scripts/identical/reflar-reactions.sh
         - bash scripts/identical/saleksin-auth-google.sh
         - bash scripts/linter.sh
-      env:
-        global:
-          secure: kJrUgeEndwUw9M7aJwE+8t6ymqE+0xpIQWwWtJx1NUFiFxoVc7gIUPo4oaoDwFvHf8G4xYVDX7yauN3E6TDFX7NRjcFqXHB8Up3U66c7os+X5dd0zxQ7UOJgETkfuJEKNJjxSe01n6P698SL9JcRLabY073w6Ce6qCGBpJd7SxzlTCoA0UU6WryM3lwqqXHNTubMAlbaHOMvPR56bIY3+s9r9LG6DZWY6>
-
-
