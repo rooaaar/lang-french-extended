@@ -3,7 +3,7 @@ REPO='FriendsOfFlarum/disposable-emails' #Repository name
 LOCALE='locale' #Locale folder path
 
 YAML1='en.yml' #Original yaml file
-YAML2='fof-email-checker.yml' #Translated yaml file
+YAML2='fof-disposable-emails.yml' #Translated yaml file
 
 TEMP_DIR=`mktemp -d`
 WORK_DIR=`pwd`
