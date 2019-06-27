@@ -10,8 +10,8 @@ fof-follow-tags:
       new_discussion_text: '{username} a démarré'
       new_post_text: '{username} a publié'
     settings:
-      notify_new_discussion_label: Quelqu’un a créé une discussion avec une étiquette suivie
-      notify_new_post_label: Quelqu’un a publié un message avec une étiquette suivie
+      notify_new_discussion_label: Quelqu’un créé une discussion avec une étiquette que je suis
+      notify_new_post_label: Quelqu’un publie un message avec une étiquette que je suis
     sub_controls:
       follow_button: => fof-follow-tags.ref.follow
       following_button: => fof-follow-tags.ref.following
