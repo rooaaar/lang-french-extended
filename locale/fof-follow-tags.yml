@@ -1,7 +1,7 @@
 fof-follow-tags:
   email:
-    newDiscussionInTag: '[Etiquette | Nouvelle discussion] titre'
-    newPostInTag: '[Etiquette | Nouveau message] titre'
+    newDiscussionInTag: '[Tag | New Discussion] title'
+    newPostInTag: '[Tag | New Post] title'
   forum:
     index:
       follow_tag_button: Suivre
