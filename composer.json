@@ -11,7 +11,7 @@
   "type": "flarum-extension",
   "license": "MIT",
   "require": {
-    "flarum/core": "^0.1.0-beta.8"
+    "flarum/core": "^0.1.0-beta.9"
   },
   "suggest": {
     "milescellar/lang-french": "French language pack for Flarum and its bundled extensions."
@@ -23,7 +23,7 @@
   "authors": [
     {
       "name": "Hiob",
-      "email": "hiob.bjorn@gmail.com",
+      "email": "hello@hiob.fr",
       "role": "Developer"
     },
     {
