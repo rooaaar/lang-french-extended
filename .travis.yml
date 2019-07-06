@@ -66,4 +66,5 @@ matrix:
         - bash scripts/identical/reflar-polls.sh
         - bash scripts/identical/reflar-reactions.sh
         - bash scripts/identical/saleksin-auth-google.sh
+        - bash scripts/identical/wiwatsrt-flarum-best-answer.sh
         - bash scripts/linter.sh

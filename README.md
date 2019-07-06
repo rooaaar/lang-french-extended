@@ -50,7 +50,7 @@ php flarum cache:clear
  - Default Group ([GitHub Repository](https://github.com/FriendsOfFlarum/default-group) / [Flarum Community](https://discuss.flarum.org/d/18158-friendsofflarum-default-group))
  - Discord Login ([GitHub Repository](https://github.com/FriendsOfFlarum/auth-discord) / [Flarum Community](https://discuss.flarum.org/d/20184-friendsofflarum-discord-login))
  - Disposable Emails ([GitHub Repository](https://github.com/FriendsOfFlarum/disposable-emails) / [Flarum Community](https://discuss.flarum.org/d/20457-friendsofflarum-disposable-emails))
- - Follow Tags ([GitHub Repository](https://github.com/FriendsOfFlarum/follow-tags) / [Flarum Community](https://discuss.flarum.org/d/20525-friendsofflarum-follow-tags)) 
+ - Follow Tags ([GitHub Repository](https://github.com/FriendsOfFlarum/follow-tags) / [Flarum Community](https://discuss.flarum.org/d/20525-friendsofflarum-follow-tags))
  - Formatting ([GitHub Repository](https://github.com/FriendsOfFlarum/formatting) / [Flarum Community](https://discuss.flarum.org/d/17770-friendsofflarum-formatting))
  - FrontPage ([GitHub Repository](https://github.com/FriendsOfFlarum/frontpage) / [Flarum Community](https://discuss.flarum.org/d/19256-friendsofflarum-frontpage))
  - Links ([GitHub Repository](https://github.com/FriendsOfFlarum/links/) / [Flarum Community](https://discuss.flarum.org/d/18335-friendsofflarum-links))
@@ -102,6 +102,11 @@ php flarum cache:clear
  ### Saleksin
 
  - Google Login ([GitHub Repository](https://github.com/saleksin/flarum-auth-google) / [Flarum Community](https://discuss.flarum.org/d/18250-google-login))
+
+ ---
+ ### wiwatsrt
+
+ - Best Answer ([GitHub Repository](https://github.com/wiwatsrt/flarum-ext-best-answer) / [Flarum Community](https://discuss.flarum.org/d/3868-select-post-best-answer))
 
 
 ## Todolist
