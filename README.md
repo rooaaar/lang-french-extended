@@ -59,6 +59,7 @@ php flarum cache:clear
  - Necrobumping ([GitHub Repository](https://github.com/FriendsOfFlarum/prevent-necrobumping/) / [Flarum Community](https://discuss.flarum.org/d/18312-friendsofflarum-prevent-necrobumping))
  - Pages ([GitHub Repository](https://github.com/FriendsOfFlarum/pages) / [Flarum Community](https://discuss.flarum.org/d/18301-friendsofflarum-pages))
  - Passport ([GitHub Repository](https://github.com/FriendsOfFlarum/passport) / [Flarum Community](https://discuss.flarum.org/d/5203-flagrow-passport-the-laravel-passport-oauth-extension))
+ - Polls ([GitHub Repository](https://github.com/FriendsOfFlarum/polls/) / [Flarum Community](https://discuss.flarum.org/d/9762-poll)) 
  - reCAPTCHA ([GitHub Repository](https://github.com/FriendsOfFlarum/recaptcha) / [Flarum Community](https://discuss.flarum.org/d/18399-friendsofflarum-recaptcha))
  - Secure HTTPS ([GitHub Repository](https://github.com/FriendsOfFlarum/secure-https) / [Flarum Community](https://discuss.flarum.org/d/17771-friendsofflarum-secure-https))
  - Sentry ([GitHub Repository](https://github.com/FriendsOfFlarum/sentry) / [Flarum Community](https://discuss.flarum.org/d/18089-friendsofflarum-sentry))
@@ -94,7 +95,6 @@ php flarum cache:clear
  - LaTeX ([GitHub Repository](https://github.com/ReFlar/latex) / [Flarum Community](https://discuss.flarum.org/d/16176-latex-by-reflar/))
  - Level Ranks ([GitHub Repository](https://github.com/ReFlar/level-ranks) / [Flarum Community](https://discuss.flarum.org/d/15052-levels-ranks-by-reflar))
  - NightMode ([GitHub Repository](https://github.com/ReFlar/nightmode) / [Flarum Community](https://discuss.flarum.org/d/11134-night-mode-by-reflar))
- - Polls ([GitHub Repository](https://github.com/ReFlar/polls/) / [Flarum Community](https://discuss.flarum.org/d/9762-poll))
  - Reactions ([GitHub Repository](https://github.com/ReFlar/reactions/) / [Flarum Community](https://discuss.flarum.org/d/6542-reactions-by-reflar))
  - Webhooks ([GitHub Repository](https://github.com/reflar/webhooks) / [Flarum Community](https://discuss.flarum.org/d/17812-webhooks-by-reflar))
 
