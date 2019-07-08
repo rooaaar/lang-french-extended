@@ -1,9 +1,9 @@
 VERSION='master' #Repository version
-REPO='ReFlar/reactions' #Repository name
-LOCALE='locale' #Locale folder path
+REPO='FriendsOfFlarum/reactions' #Repository name
+LOCALE='resources/locale' #Locale folder path
 
 YAML1='en.yml' #Original yaml file
-YAML2='reflar-reactions.yml' #Translated yaml file
+YAML2='fof-reactions.yml' #Translated yaml file
 
 TEMP_DIR=`mktemp -d`
 WORK_DIR=`pwd`
