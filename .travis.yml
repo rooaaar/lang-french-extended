@@ -53,6 +53,7 @@ matrix:
         - bash scripts/identical/fof-spamblock.sh
         - bash scripts/identical/fof-split.sh
         - bash scripts/identical/fof-transliterator.sh
+        - bash scripts/identical/kilowhat-mailing.sh
         - bash scripts/identical/kvothe-keyboard-shortcuts.sh
         - bash scripts/identical/kvothe-reply-to-see.sh
         - bash scripts/identical/kvothe-signup-button.sh
