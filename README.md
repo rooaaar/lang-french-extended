@@ -112,3 +112,4 @@ php flarum cache:clear
 ## Todolist
 
 - [ ] Translate [ReFlar / TwoFactor](https://github.com/ReFlar/twofactor)
+- [ ] Translate [KILOWHAT / Mailing](https://discuss.flarum.org/d/20443-mailing-by-kilowhat)
