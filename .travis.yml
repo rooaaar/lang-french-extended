@@ -40,6 +40,7 @@ matrix:
         - bash scripts/identical/fof-follow-tags.sh
         - bash scripts/identical/fof-formatting.sh
         - bash scripts/identical/fof-frontpage.sh
+        - bash scripts/identical/fof-ignore-users.sh
         - bash scripts/identical/fof-links.sh
         - bash scripts/identical/fof-masquerade.sh
         - bash scripts/identical/fof-merge-discussions.sh
