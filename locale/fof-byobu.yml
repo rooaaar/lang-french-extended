@@ -37,3 +37,4 @@ fof-byobu:
     user:
       settings:
         block_pd: Bloquer les discussions privées
+      byobu_link: Discussions privées
