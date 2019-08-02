@@ -70,6 +70,12 @@ php flarum cache:clear
  - transliterator ([GitHub Repository](https://github.com/FriendsOfFlarum/transliterator) / [Flarum Community](https://discuss.flarum.org/d/18074-friendsofflarum-url-transliterator))
  - Upload ([GitHub Repository](https://github.com/FriendsOfFlarum/upload/) / [Flarum Community](https://discuss.flarum.org/d/4154-flagrow-upload-the-intelligent-file-attachment-extension))
  - User Directory ([GitHub Repository](https://github.com/FriendsOfFlarum/user-directory) / [Flarum Community](https://discuss.flarum.org/d/5682-user-directory-by-friendsofflarum))
+
+ ---
+  ### KILOWHAT
+
+  - Mailing ([GitHub Repository](https://github.com/kilowhat/flarum-ext-mailing) / [Flarum Community](https://discuss.flarum.org/d/20443-mailing-by-kilowhat))
+  
 ---
  ### Kvothe
 
