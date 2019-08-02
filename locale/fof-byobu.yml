@@ -35,6 +35,6 @@ fof-byobu:
       headings:
         groups: Groupes de permissions
     user:
+      byobu_link: Discussions privées
       settings:
         block_pd: Bloquer les discussions privées
-      byobu_link: Discussions privées
