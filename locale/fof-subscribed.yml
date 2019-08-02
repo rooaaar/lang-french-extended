@@ -3,8 +3,8 @@ fof-subscribed:
     menu:
       description: Configurer les abonnements des utilisateur (par défaut)
     permission:
-      subscribe_to_discussion_created: Autorisé à recevoir une notification lors d’une nouvelle discussion
-      subscribe_to_user_created: Autorisé à recevoir une notification lorsqu’il y a un nouvel utilisateur
+      subscribe_to_discussion_created: Recevoir une notification lors d’une nouvelle discussion
+      subscribe_to_user_created: Recevoir une notification lorsqu’il y a un nouvel utilisateur
   forum:
     notifications:
       discussion_created_text: '{username} a créé une discussion'
