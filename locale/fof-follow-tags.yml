@@ -16,15 +16,19 @@ fof-follow-tags:
       follow_button: => fof-follow-tags.ref.follow
       following_button: => fof-follow-tags.ref.following
       following_text: Soyez informé de toutes les nouvelles discussions.
+      hiding_button: => fof-follow-tags.ref.hiding
+      hiding_text: Masquer les discussions de la page Toutes les discussions.
       ignoring_button: => fof-follow-tags.ref.ignoring
       ignoring_text: Ne jamais être notifié.
       lurking_button: => fof-follow-tags.ref.lurking
       lurking_text: Soyez informé de toutes les nouvelles discussions et réponses.
       not_following_button: Ne pas suivre
       not_following_text: Soyez averti seulement quand vous êtes @mentionné.
+      notify_alert_tooltip: Recevez une notification lorsqu’il y a de nouvelles discussions ou de nouveaux messages
       notify_email_tooltip: Recevez un e-mail lorsqu’il y a de nouvelles discussions ou de nouveaux messages
   ref:
     follow: Suivre
     following: Suivie
+    hiding: Cachée
     ignoring: Ignorée
     lurking: Observée
