@@ -2,9 +2,9 @@ fof-polls:
   admin:
     permissions:
       moderate: Modifier ou supprimer les sondages
-      self_edit: Autoriser les utilisateurs à modifier leurs propres sondages
+      self_edit: Modifier ses propres sondages
       start: Démarrer un sondage
-      vote: Vote sur les sondages
+      vote: Voter sur les sondages
   forum:
     composer_discussion:
       add_poll: Ajouter un sondage
