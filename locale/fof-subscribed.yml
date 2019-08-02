@@ -1,0 +1,16 @@
+fof-subscribed:
+  admin:
+    menu:
+      description: Configurer les abonnements des utilisateur (par défaut)
+    permission:
+      subscribe_to_discussion_created: Autorisé à recevoir une notification lors d’une nouvelle discussion
+      subscribe_to_user_created: Autorisé à recevoir une notification lorsqu’il y a un nouvel utilisateur
+  forum:
+    notifications:
+      discussion_created_text: '{username} a créé une discussion'
+      user_created_text: '{username} vient de s’inscrire'
+    settings:
+      defaults_label: 'Définir "{setting}" activé par défaut'
+      forced_label: 'Forcer l’activation de  "{setting}" pour tout le monde'
+      notify_discussion_created_label: Quelqu’un a créé une discussion
+      notify_user_created_label: Quand quelqu’un s’inscrit
