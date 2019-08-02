@@ -3,6 +3,7 @@ fof-ignore-users:
     permissions:
       can_not_be_ignored_label: Ne peut pas être ignoré
   forum:
+    profile_link: Utilisateurs ignorés
     user_controls:
       ignore_button: Ignorer
       ignore_confirmation: Êtes-vous sûr de vouloir ignorer cet utilisateur?
