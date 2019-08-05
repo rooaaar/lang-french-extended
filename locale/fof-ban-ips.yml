@@ -53,9 +53,9 @@ fof-ban-ips:
   ref:
     address_label: Adresse IP
     ban_ip_addresses: Bannir des adresses IP
-    ban_ip_button: Bannir l’adresse IP
+    ban_ip_button: Bannir une adresse IP
     ban_label: Bannir
     reason_label: Motif
     unban_ip_addresses: Débannir des adresses IP
-    unban_ip_button: Débannir l’adresse IP
+    unban_ip_button: Débannir une adresse IP
     unban_label: Débannir
