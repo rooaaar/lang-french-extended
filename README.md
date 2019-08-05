@@ -45,6 +45,7 @@ php flarum cache:clear
 ### Friends of Flarum
 
  - Ads ([GitHub Repository](https://github.com/FriendsOfFlarum/ads) / [Flarum Community](https://discuss.flarum.org/d/4785-flagrow-ads-bombarding-your-users-with-ads-everywhere-if-you-want))
+ - Ban IPs ([GitHub Repository](https://github.com/FriendsOfFlarum/ban-ips) / [Flarum Community](https://discuss.flarum.org/d/20949-friendsofflarum-ban-ips))
  - Byōbu ([GitHub Repository](https://github.com/FriendsOfFlarum/byobu) / [Flarum Community](https://discuss.flarum.org/d/4762-flagrow-by-bu-well-integrated-advanced-private-discussions))
  - Custom Footer ([GitHub Repository](https://github.com/FriendsOfFlarum/custom-footer) / [Flarum Community](https://discuss.flarum.org/d/17774-friendsofflarum-custom-footer))
  - Default Group ([GitHub Repository](https://github.com/FriendsOfFlarum/default-group) / [Flarum Community](https://discuss.flarum.org/d/18158-friendsofflarum-default-group))
