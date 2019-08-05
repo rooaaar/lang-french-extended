@@ -37,6 +37,7 @@ matrix:
         - bash scripts/identical/fof-custom-footer.sh
         - bash scripts/identical/fof-default-group.sh
         - bash scripts/identical/fof-disposable-emails.sh
+        - bash scripts/identical/fof-drafts.sh
         - bash scripts/identical/fof-follow-tags.sh
         - bash scripts/identical/fof-formatting.sh
         - bash scripts/identical/fof-frontpage.sh

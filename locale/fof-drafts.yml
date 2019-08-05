@@ -1,0 +1,13 @@
+fof-drafts:
+  admin:
+    permissions:
+      start: Créer des brouillons de discussion
+  forum:
+    composer:
+      alert: Brouillon enregistré.
+      title: Enregistrer le brouillon
+    dropdown:
+      alert: Êtes-vous sûr de vouloir supprimer votre brouillon?
+      button: Supprimer le brouillon
+      title: Brouillons
+      tooltip: => fof-drafts.forum.dropdown.title
