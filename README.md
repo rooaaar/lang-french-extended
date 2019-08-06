@@ -133,8 +133,3 @@ php flarum cache:clear
 
  - Best Answer ([GitHub Repository](https://github.com/wiwatsrt/flarum-ext-best-answer) / [Flarum Community](https://discuss.flarum.org/d/3868-select-post-best-answer))
 
-
-## Todolist
-
-- [ ] Translate [ReFlar / TwoFactor](https://github.com/ReFlar/twofactor)
-- [ ] Translate [KILOWHAT / Mailing](https://discuss.flarum.org/d/20443-mailing-by-kilowhat)
