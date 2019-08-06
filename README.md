@@ -29,10 +29,14 @@ php flarum cache:clear
 
  - ContactButton ([GitHub Repository](https://github.com/Fajuu/ContactButton) / [Flarum Community](https://discuss.flarum.org/d/18228-contact-button))
 
+
+
 ---
 ### Extiverse
 
  - Bazaar ([GitHub Repository](https://github.com/extiverse/bazaar/) / [Flarum Community](https://discuss.flarum.org/d/5151))
+
+
 
 ---
 ### Flagrow
@@ -40,6 +44,8 @@ php flarum cache:clear
  - Impersonate ([GitHub Repository](https://github.com/flagrow/impersonate) / [Flarum Community](https://discuss.flarum.org/d/9868-flagrow-impersonate-login-as-other-users))
  - Mason ([GitHub Repository](https://github.com/flagrow/mason/) / [Flarum Community](https://discuss.flarum.org/d/7028-flagrow-mason-the-discussion-custom-fields-builder))
  - Userlist ([GitHub Repository](https://github.com/flagrow/users-list/) / [Flarum Community](https://discuss.flarum.org/d/6009-flagrow-users-list-review-and-mass-mail-users-of-your-forum))
+
+
 
 ---
 ### Friends of Flarum
@@ -73,11 +79,16 @@ php flarum cache:clear
  - transliterator ([GitHub Repository](https://github.com/FriendsOfFlarum/transliterator) / [Flarum Community](https://discuss.flarum.org/d/18074-friendsofflarum-url-transliterator))
  - Upload ([GitHub Repository](https://github.com/FriendsOfFlarum/upload/) / [Flarum Community](https://discuss.flarum.org/d/4154-flagrow-upload-the-intelligent-file-attachment-extension))
  - User Directory ([GitHub Repository](https://github.com/FriendsOfFlarum/user-directory) / [Flarum Community](https://discuss.flarum.org/d/5682-user-directory-by-friendsofflarum))
+ - Usernae Request ([GitHub Repository](https://github.com/FriendsOfFlarum/username-request) / [Flarum Community](https://discuss.flarum.org/d/20956-friendsofflarum-username-request))
+
+
 
  ---
   ### KILOWHAT
 
   - Mailing ([GitHub Repository](https://github.com/kilowhat/flarum-ext-mailing) / [Flarum Community](https://discuss.flarum.org/d/20443-mailing-by-kilowhat))
+
+
 
 ---
  ### Kvothe
@@ -86,11 +97,15 @@ php flarum cache:clear
  - Keyboard Shortcuts ([GitHub Repository](https://github.com/oaklinq/flarum-ext-keyboard-shortcuts) / [Flarum Community](https://discuss.flarum.org/d/19301-keyboard-shortcuts))
  - Signup Button ([GitHub Repository](https://github.com/oaklinq/flarum-signup-button) / [Flarum Community](https://discuss.flarum.org/d/18812-sign-up-button/))
 
+
+
 ---
 ### MichaelBelgium
 
  - Discussion views ([GitHub Repository](https://github.com/MichaelBelgium/flarum-discussion-views/) / [Flarum Community](https://discuss.flarum.org/d/7339-discussion-views))
  - Profile views ([GitHub Repository](https://github.com/MichaelBelgium/flarum-profile-views/) / [Flarum Community](https://discuss.flarum.org/d/7596-profile-views))
+
+
 
  ---
 ### NomisCZ

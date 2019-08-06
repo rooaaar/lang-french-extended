@@ -1,0 +1,39 @@
+fof-username-request:
+  admin:
+    permissions:
+      moderate: Approuver les demandes de changement de nom d’utilisateur
+      start: Demander un changement de nom d’utilisateur
+  forum:
+    account_label: Changer le nom d’utilisateur
+    action:
+      approval_label: Approuver
+      decision_title: Décision
+      denial_label: Refuser
+      help_text: Assurez-vous que le nom d’utilisateur respecte les directives du forum.
+      name: '{username} a demandé que son nom d’utilisateur soit changé en "{newUsername}"'
+      reason_title: Raison du refus
+      submit_button: Soumettre
+      success: Décision envoyée.
+      title: => fof-username-request.forum.results.title
+    dropdown:
+      empty_text: Aucune demande de nom d’utilisateur trouvée
+      exerpt: 'Nom d’utilisateur demandé: {requestedUsername}'
+      item_text: '{username} a demandé un changement de nom d’utilisateur'
+      title: Demandes de changement de nom d’utilisateur
+      tooltip: => fof-username-request.forum.dropdown.title
+    profile_link: Histoire du nom d’utilisateur
+    request:
+      confirmation_message: Votre demande a été reçue et sera examinée bientôt.
+      current_request: 'Vous avez déjà demandé le nom d’utilisateur "{username}." Vous pouvez mettre à jour ou supprimer cette demande.'
+      delete_button: Supprimer la demande
+      deleted: Demande de nom d’utilisateur supprimée.
+      dismiss_button: Compris
+      submit_button: Soumettre la demande
+      title: Demander un changement de nom d’utilisateur
+    results:
+      approved: Votre demande de changement de nom d’utilisateur a été approuvée!
+      denied: Votre demande de nom d’utilisateur a été refusée
+      new_username: 'Votre nom d’utilisateur est maintenant "{username}"'
+      reason: 'Raison: <i>"{reason}"</i>'
+      resubmit: Vous pouvez soumettre une nouvelle demande de nom d’utilisateur à partir des paramètres de votre compte.
+      title: Changement de nom d’utilisateur
