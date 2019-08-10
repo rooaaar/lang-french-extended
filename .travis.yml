@@ -23,11 +23,12 @@ matrix:
         email:
           on_failure: change
       script:
+        - bash scripts/identical/extiverse-bazaar.sh
         - bash scripts/identical/datitisev-dashboard.sh
         - bash scripts/identical/fajuu-contactbutton.sh
         - bash scripts/identical/flagrow-ads.sh
         - bash scripts/identical/flagrow-analytics.sh
-        - bash scripts/identical/flagrow-bazaar.sh
+        - bash scripts/identical/extiverse-bazaar.sh
         - bash scripts/identical/fof-byobu.sh
         - bash scripts/identical/flagrow-impersonate.sh
         - bash scripts/identical/flagrow-mason.sh
