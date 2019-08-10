@@ -6,6 +6,8 @@ fof-byobu:
       create_private_discussions_with_users: Créer des discussions privées avec des utilisateurs
       edit_group_recipients: Modifier les groupes participant à des discussions privées
       edit_user_recipients: Modifier les utilisateurs participant à des discussions privées
+    settings:
+      byobu_users_page_label: Ajouter les discussions privées à la page utilisateur
   forum:
     badges:
       is_private:
