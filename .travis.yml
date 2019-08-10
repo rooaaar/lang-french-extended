@@ -23,6 +23,7 @@ matrix:
         email:
           on_failure: change
       script:
+        - bash scripts/identical/datitisev-dashboard.sh
         - bash scripts/identical/fajuu-contactbutton.sh
         - bash scripts/identical/flagrow-ads.sh
         - bash scripts/identical/flagrow-analytics.sh

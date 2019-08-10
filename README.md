@@ -25,6 +25,13 @@ php flarum cache:clear
 
 ## List of translated third-party extensions
 
+
+### Fajuu
+
+ - Admin Dashboard ([GitHub Repository](https://github.com/datitisev/flarum-ext-dashboard) / [Flarum Community](https://discuss.flarum.org/d/2958-datitisev-admin-dashboard))
+
+
+---
 ### Fajuu
 
  - ContactButton ([GitHub Repository](https://github.com/Fajuu/ContactButton) / [Flarum Community](https://discuss.flarum.org/d/18228-contact-button))
@@ -132,4 +139,3 @@ php flarum cache:clear
  ### wiwatsrt
 
  - Best Answer ([GitHub Repository](https://github.com/wiwatsrt/flarum-ext-best-answer) / [Flarum Community](https://discuss.flarum.org/d/3868-select-post-best-answer))
-
