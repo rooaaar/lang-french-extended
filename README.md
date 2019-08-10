@@ -26,7 +26,7 @@ php flarum cache:clear
 ## List of translated third-party extensions
 
 
-### Fajuu
+### Datitisev
 
  - Admin Dashboard ([GitHub Repository](https://github.com/datitisev/flarum-ext-dashboard) / [Flarum Community](https://discuss.flarum.org/d/2958-datitisev-admin-dashboard))
 
