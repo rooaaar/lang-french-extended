@@ -26,13 +26,11 @@ matrix:
         - bash scripts/identical/extiverse-bazaar.sh
         - bash scripts/identical/datitisev-dashboard.sh
         - bash scripts/identical/fajuu-contactbutton.sh
-        - bash scripts/identical/flagrow-ads.sh
         - bash scripts/identical/flagrow-analytics.sh
         - bash scripts/identical/flagrow-impersonate.sh
-        - bash scripts/identical/flagrow-mason.sh
         - bash scripts/identical/flagrow-passport.sh
-        - bash scripts/identical/flagrow-upload.sh
         - bash scripts/identical/flagrow-users-list.sh
+        - bash scripts/identical/fof-ads.sh
         - bash scripts/identical/fof-amazon-affiliation.sh
         - bash scripts/identical/fof-auth-discord.sh
         - bash scripts/identical/fof-ban-ips.sh
@@ -47,6 +45,7 @@ matrix:
         - bash scripts/identical/fof-gamification.sh
         - bash scripts/identical/fof-ignore-users.sh
         - bash scripts/identical/fof-links.sh
+        - bash scripts/identical/fof-mason.sh
         - bash scripts/identical/fof-masquerade.sh
         - bash scripts/identical/fof-merge-discussions.sh
         - bash scripts/identical/fof-pages.sh
@@ -60,6 +59,7 @@ matrix:
         - bash scripts/identical/fof-spamblock.sh
         - bash scripts/identical/fof-split.sh
         - bash scripts/identical/fof-subscribed.sh
+        - bash scripts/identical/fof-upload.sh
         - bash scripts/identical/fof-user-directory.sh
         - bash scripts/identical/fof-username-request.sh
         - bash scripts/identical/fof-transliterator.sh

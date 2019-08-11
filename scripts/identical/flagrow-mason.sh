@@ -1,9 +1,9 @@
 VERSION='master' #Repository version
-REPO='flagrow/mason' #Repository name
+REPO='FriendsOfFlarum/mason' #Repository name
 LOCALE='resources/locale' #Locale folder
 
 YAML1='en.yml' #Original yaml file
-YAML2='flagrow-mason.yml' #Translated yaml file
+YAML2='fof-mason.yml' #Translated yaml file
 
 TEMP_DIR=`mktemp -d`
 WORK_DIR=`pwd`

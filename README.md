@@ -49,7 +49,6 @@ php flarum cache:clear
 ### Flagrow
  - HTML-Errors ([GitHub Repository](https://github.com/flagrow/html-errors) / [Flarum Community](https://discuss.flarum.org/d/10784-custom-html-error-pages))
  - Impersonate ([GitHub Repository](https://github.com/flagrow/impersonate) / [Flarum Community](https://discuss.flarum.org/d/9868-flagrow-impersonate-login-as-other-users))
- - Mason ([GitHub Repository](https://github.com/flagrow/mason/) / [Flarum Community](https://discuss.flarum.org/d/7028-flagrow-mason-the-discussion-custom-fields-builder))
  - Userlist ([GitHub Repository](https://github.com/flagrow/users-list/) / [Flarum Community](https://discuss.flarum.org/d/6009-flagrow-users-list-review-and-mass-mail-users-of-your-forum))
 
 
@@ -59,6 +58,7 @@ php flarum cache:clear
 
  - Ads ([GitHub Repository](https://github.com/FriendsOfFlarum/ads) / [Flarum Community](https://discuss.flarum.org/d/4785-flagrow-ads-bombarding-your-users-with-ads-everywhere-if-you-want))
  - Amazon Affiliation ([GitHub Repository](https://github.com/FriendsOfFlarum/amazon-affiliation) / [Flarum Community](https://discuss.flarum.org/d/12389-flagrow-amazon-affiliation-add-your-affiliate-tag-to-links))
+ - Analytics ([GitHub Repository](https://github.com/FriendsOfFlarum/analytics) / [Flarum Community](https://discuss.flarum.org/d/1983-flagrow-analytics-extension-tracking-user-visits))
  - Ban IPs ([GitHub Repository](https://github.com/FriendsOfFlarum/ban-ips) / [Flarum Community](https://discuss.flarum.org/d/20949-friendsofflarum-ban-ips))
  - Byōbu ([GitHub Repository](https://github.com/FriendsOfFlarum/byobu) / [Flarum Community](https://discuss.flarum.org/d/4762-flagrow-by-bu-well-integrated-advanced-private-discussions))
  - Custom Footer ([GitHub Repository](https://github.com/FriendsOfFlarum/custom-footer) / [Flarum Community](https://discuss.flarum.org/d/17774-friendsofflarum-custom-footer))
@@ -72,6 +72,7 @@ php flarum cache:clear
  - Gamification ([GitHub Repository](https://github.com/FriendsOfFlarum/gamification) / [Flarum Community](https://discuss.flarum.org/d/20671-friendsofflarum-gamification))
  - Ignore Users ([GitHub Repository](https://github.com/FriendsOfFlarum/ignore-users) / [Flarum Community](https://discuss.flarum.org/d/20681-friendsofflarum-ignore-users))
  - Links ([GitHub Repository](https://github.com/FriendsOfFlarum/links/) / [Flarum Community](https://discuss.flarum.org/d/18335-friendsofflarum-links))
+ - Mason ([GitHub Repository](https://github.com/FriendsOfFlarum/mason) / [Flarum Community](https://discuss.flarum.org/d/7028-flagrow-mason-the-discussion-custom-fields-builder))
  - Masquerade ([GitHub Repository](https://github.com/FriendsOfFlarum/masquerade) / [Flarum Community](https://discuss.flarum.org/d/5791-masquerade-by-friendsofflarum-the-user-profile-builder))
  - Merge ([GitHub Repository](https://github.com/FriendsOfFlarum/merge-discussions/) / [Flarum Community](https://discuss.flarum.org/d/19460-friendsofflarum-merge-discussions))
  - Necrobumping ([GitHub Repository](https://github.com/FriendsOfFlarum/prevent-necrobumping/) / [Flarum Community](https://discuss.flarum.org/d/18312-friendsofflarum-prevent-necrobumping))

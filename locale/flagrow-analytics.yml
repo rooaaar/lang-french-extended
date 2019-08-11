@@ -9,7 +9,7 @@ flagrow-analytics:
         googleTrackingCode: Code de suivi
         piwikAliasUrl: URL d’alias
         piwikAuthToken: Jeton d’authentification
-        piwikHideAliasUrl: "Dans le rapport « Liens externes », masquer les clics sur les URL d’alias connues"
+        piwikHideAliasUrl: 'Dans le rapport « Liens externes », masquer les clics sur les URL d’alias connues'
         piwikPrependDomain: Ajouter le nom de domaine au titre de la page lors du suivi
         piwikSiteId: ID du site
         piwikTrackAccounts: Suivre les comptes d’utilisateurs individuels
