@@ -68,6 +68,7 @@ php flarum cache:clear
  - Follow Tags ([GitHub Repository](https://github.com/FriendsOfFlarum/follow-tags) / [Flarum Community](https://discuss.flarum.org/d/20525-friendsofflarum-follow-tags))
  - Formatting ([GitHub Repository](https://github.com/FriendsOfFlarum/formatting) / [Flarum Community](https://discuss.flarum.org/d/17770-friendsofflarum-formatting))
  - FrontPage ([GitHub Repository](https://github.com/FriendsOfFlarum/frontpage) / [Flarum Community](https://discuss.flarum.org/d/19256-friendsofflarum-frontpage))
+ - Gamification ([GitHub Repository](https://github.com/FriendsOfFlarum/gamification) / [Flarum Community](https://discuss.flarum.org/d/20671-friendsofflarum-gamification))
  - Ignore Users ([GitHub Repository](https://github.com/FriendsOfFlarum/ignore-users) / [Flarum Community](https://discuss.flarum.org/d/20681-friendsofflarum-ignore-users))
  - Links ([GitHub Repository](https://github.com/FriendsOfFlarum/links/) / [Flarum Community](https://discuss.flarum.org/d/18335-friendsofflarum-links))
  - Masquerade ([GitHub Repository](https://github.com/FriendsOfFlarum/masquerade) / [Flarum Community](https://discuss.flarum.org/d/5791-masquerade-by-friendsofflarum-the-user-profile-builder))
