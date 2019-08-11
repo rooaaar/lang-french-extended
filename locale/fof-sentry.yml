@@ -2,3 +2,4 @@ fof-sentry:
   admin:
     settings:
       dsn_label: Nom de la source de données* Sentry (*DSN)
+      user_feedback_label: Commentaires des utilisateurs
