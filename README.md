@@ -79,6 +79,7 @@ php flarum cache:clear
  - Pages ([GitHub Repository](https://github.com/FriendsOfFlarum/pages) / [Flarum Community](https://discuss.flarum.org/d/18301-friendsofflarum-pages))
  - Passport ([GitHub Repository](https://github.com/FriendsOfFlarum/passport) / [Flarum Community](https://discuss.flarum.org/d/5203-flagrow-passport-the-laravel-passport-oauth-extension))
  - Polls ([GitHub Repository](https://github.com/FriendsOfFlarum/polls/) / [Flarum Community](https://discuss.flarum.org/d/9762-poll))
+ - Pretty Mail ([GitHub Repository](https://github.com/FriendsOfFlarum/pretty-mail) / [Flarum Community](https://discuss.flarum.org/d/11178-friendsofflarum-pretty-mail/))
  - reCAPTCHA ([GitHub Repository](https://github.com/FriendsOfFlarum/recaptcha) / [Flarum Community](https://discuss.flarum.org/d/18399-friendsofflarum-recaptcha))
  - Secure HTTPS ([GitHub Repository](https://github.com/FriendsOfFlarum/secure-https) / [Flarum Community](https://discuss.flarum.org/d/17771-friendsofflarum-secure-https))
  - Sentry ([GitHub Repository](https://github.com/FriendsOfFlarum/sentry) / [Flarum Community](https://discuss.flarum.org/d/18089-friendsofflarum-sentry))
