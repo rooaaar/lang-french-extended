@@ -59,6 +59,7 @@ matrix:
         - bash scripts/identical/fof-share-social.sh
         - bash scripts/identical/fof-spamblock.sh
         - bash scripts/identical/fof-split.sh
+        - bash scripts/identical/fof-stopforumspam.sh
         - bash scripts/identical/fof-subscribed.sh
         - bash scripts/identical/fof-upload.sh
         - bash scripts/identical/fof-user-directory.sh

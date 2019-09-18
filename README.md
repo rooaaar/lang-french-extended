@@ -86,6 +86,7 @@ php flarum cache:clear
  - Share Social ([GitHub Repository](https://github.com/FriendsOfFlarum/share-social) / [Flarum Community](https://discuss.flarum.org/d/20401-friendsofflarum-share-social))
  - Spamblock ([GitHub Repository](https://github.com/FriendsOfFlarum/spamblock) / [Flarum Community](https://discuss.flarum.org/d/17772-friendsofflarum-spamblock))
  - Split ([GitHub Repository](https://github.com/FriendsOfFlarum/split) / [Flarum Community](https://discuss.flarum.org/d/1903-flagrow-split-separates-posts-to-a-new-discussion))
+ - Stop Forum Spam ([GitHub Repository](https://github.com/FriendsOfFlarum/stopforumspam) / [Flarum Community](https://discuss.flarum.org/d/17846-friendsofflarum-stopforumspam))
   - Subscribed ([GitHub Repository](https://github.com/FriendsOfFlarum/subscribed) / [Flarum Community](https://discuss.flarum.org/d/20917-friendsofflarum-subscribed/))
  - transliterator ([GitHub Repository](https://github.com/FriendsOfFlarum/transliterator) / [Flarum Community](https://discuss.flarum.org/d/18074-friendsofflarum-url-transliterator))
  - Upload ([GitHub Repository](https://github.com/FriendsOfFlarum/upload/) / [Flarum Community](https://discuss.flarum.org/d/4154-flagrow-upload-the-intelligent-file-attachment-extension))
