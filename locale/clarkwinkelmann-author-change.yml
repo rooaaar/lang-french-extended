@@ -1,0 +1,16 @@
+clarkwinkelmann-author-change:
+  admin:
+    permissions:
+      edit: Mettre à jour l’auteur d’une discussion ou d’un message
+  forum:
+    controls:
+      edit: Modifier l’auteur
+    modal:
+      cancel: Annuler
+      submit: Sauvegarder
+      title-discussion: Modifier l’auteur de la discussion
+      title-post: Modifier l’auteur du message
+    search:
+      no-results: Aucun résultat
+      placeholder: Rechercher des utilisateurs
+      type-more: Tapez 3 caractères pour effectuer une recherche dans la base de données

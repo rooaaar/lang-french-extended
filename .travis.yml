@@ -23,8 +23,9 @@ matrix:
         email:
           on_failure: change
       script:
-        - bash scripts/identical/extiverse-bazaar.sh
+        - bash scripts/identical/clarkwinkelmann-author-change.sh
         - bash scripts/identical/datitisev-dashboard.sh
+        - bash scripts/identical/extiverse-bazaar.sh
         - bash scripts/identical/fajuu-contactbutton.sh
         - bash scripts/identical/flagrow-analytics.sh
         - bash scripts/identical/flagrow-impersonate.sh
