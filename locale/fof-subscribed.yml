@@ -4,13 +4,16 @@ fof-subscribed:
       description: Configurer les abonnements des utilisateur (par défaut)
     permission:
       subscribe_to_discussion_created: Recevoir une notification lors d’une nouvelle discussion
+      subscribe_to_post_unapproved: Autorisé à recevoir des notifications sur les nouveaux messages non approuvés
       subscribe_to_user_created: Recevoir une notification lorsqu’il y a un nouvel utilisateur
   forum:
     notifications:
       discussion_created_text: '{username} a créé une discussion'
+      post_unapproved_text: '{username} a publié un message qui nécessite une approbation'
       user_created_text: '{username} vient de s’inscrire'
     settings:
       defaults_label: 'Définir "{setting}" activé par défaut'
       forced_label: 'Forcer l’activation de  "{setting}" pour tout le monde'
       notify_discussion_created_label: Quelqu’un a créé une discussion
+      notify_post_unapproved_label: Un message publié doit être approuvé
       notify_user_created_label: Quand quelqu’un s’inscrit

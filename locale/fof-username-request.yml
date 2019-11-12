@@ -8,10 +8,10 @@ fof-username-request:
     action:
       approval_label: Approuver
       decision_title: Décision
-      denial_label: Refuser
       help_text: Assurez-vous que le nom d’utilisateur respecte les directives du forum.
       name: '{username} a demandé que son nom d’utilisateur soit changé en "{newUsername}"'
       reason_title: Raison du refus
+      rejected_label: Refuser
       submit_button: Soumettre
       success: Décision envoyée.
       title: => fof-username-request.forum.results.title
@@ -32,8 +32,8 @@ fof-username-request:
       title: Demander un changement de nom d’utilisateur
     results:
       approved: Votre demande de changement de nom d’utilisateur a été approuvée!
-      denied: Votre demande de nom d’utilisateur a été refusée
       new_username: 'Votre nom d’utilisateur est maintenant "{username}"'
       reason: 'Raison: <i>"{reason}"</i>'
+      rejected: Votre demande de nom d’utilisateur a été refusée
       resubmit: Vous pouvez soumettre une nouvelle demande de nom d’utilisateur à partir des paramètres de votre compte.
       title: Changement de nom d’utilisateur

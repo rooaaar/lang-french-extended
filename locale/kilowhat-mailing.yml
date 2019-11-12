@@ -3,6 +3,8 @@ kilowhat-mailing:
     permissions:
       mail_all: Envoyer des emails à tous les utilisateurs
       mail_individual: Envoyer des emails à des utilisateurs individuellement
+  api:
+    no_recipients: No recipient were matched
   email:
     default_subject: => kilowhat-mailing.ref.default_subject
   forum:
@@ -11,11 +13,18 @@ kilowhat-mailing:
       mail_individual: Envoyer un email à cet utilisateur
     modal_mail:
       default_subject: => kilowhat-mailing.ref.default_subject
-      email_label: À
       message_label: Message
+      recipients_label: Destinataires
+      recipients_placeholder: Indiquez d’autres destinataires ...
       subject_label: Sujet
       submit_button: Envoyer
-      title_all_text: tous les utilisateurs
-      title_text: Message pour
+      title_text: Écrire un email
+    modal_sent:
+      on_its_way: 'Tape m’en cinq! Votre courrier est en route vers les destinataires {recipientsCount}!'
+      title_text: Email envoyé!
+    recipient_kinds:
+      email: Email
+      group: Groupe
+      user: Utilisateur
   ref:
     default_subject: Message de l’administration du forum

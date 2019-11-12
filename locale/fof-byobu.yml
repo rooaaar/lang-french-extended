@@ -28,6 +28,9 @@ fof-byobu:
         update_recipients: 'Mettre à jour les destinataires de {title}'
     nav:
       private_discussions: Discussion privée
+    notifications:
+      pd_label: Quelqu’un m’a inclus dans une discussion privée
+      pd_text: 'a démarré une nouvelle discussion privée avec vous'
     post:
       recipients_modified:
         added: '{username} a ajouté {added} aux destinataires.'
@@ -40,3 +43,6 @@ fof-byobu:
       byobu_link: Discussions privées
       settings:
         block_pd: Bloquer les discussions privées
+  notifications:
+    private_discussion_created:
+      title: '[forum-name] Nouvelle discussion privée'
