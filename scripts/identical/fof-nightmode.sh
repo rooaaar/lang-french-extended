@@ -1,9 +1,9 @@
 VERSION='master' #Repository version
-REPO='ReFlar/nightmode' #Repository name
+REPO='FriendsOfFlarum/nightmode' #Repository name
 LOCALE='resources/locale' #Locale folder path
 
 YAML1='en.yml' #Original yaml file
-YAML2='reflar-nightmode.yml' #Translated yaml file
+YAML2='fof-nightmode.yml' #Translated yaml file
 
 TEMP_DIR=`mktemp -d`
 WORK_DIR=`pwd`

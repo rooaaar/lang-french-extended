@@ -82,6 +82,7 @@ php flarum cache:clear
  - Masquerade ([GitHub Repository](https://github.com/FriendsOfFlarum/masquerade) / [Flarum Community](https://discuss.flarum.org/d/5791-masquerade-by-friendsofflarum-the-user-profile-builder))
  - Merge ([GitHub Repository](https://github.com/FriendsOfFlarum/merge-discussions/) / [Flarum Community](https://discuss.flarum.org/d/19460-friendsofflarum-merge-discussions))
  - Necrobumping ([GitHub Repository](https://github.com/FriendsOfFlarum/prevent-necrobumping/) / [Flarum Community](https://discuss.flarum.org/d/18312-friendsofflarum-prevent-necrobumping))
+  - NightMode ([GitHub Repository](https://github.com/FriendsOfFlarum/nightmode) / [Flarum Community](https://discuss.flarum.org/d/11134-night-mode-by-reflar))
  - Pages ([GitHub Repository](https://github.com/FriendsOfFlarum/pages) / [Flarum Community](https://discuss.flarum.org/d/18301-friendsofflarum-pages))
  - Passport ([GitHub Repository](https://github.com/FriendsOfFlarum/passport) / [Flarum Community](https://discuss.flarum.org/d/5203-flagrow-passport-the-laravel-passport-oauth-extension))
  - Polls ([GitHub Repository](https://github.com/FriendsOfFlarum/polls/) / [Flarum Community](https://discuss.flarum.org/d/9762-poll))
@@ -137,7 +138,6 @@ php flarum cache:clear
  - Doorman ([GitHub Repository](https://github.com/ReFlar/doorman) / [Flarum Community](https://discuss.flarum.org/d/17845-doorman-by-reflar))
  - LaTeX ([GitHub Repository](https://github.com/ReFlar/latex) / [Flarum Community](https://discuss.flarum.org/d/16176-latex-by-reflar/))
  - Level Ranks ([GitHub Repository](https://github.com/ReFlar/level-ranks) / [Flarum Community](https://discuss.flarum.org/d/15052-levels-ranks-by-reflar))
- - NightMode ([GitHub Repository](https://github.com/ReFlar/nightmode) / [Flarum Community](https://discuss.flarum.org/d/11134-night-mode-by-reflar))
  - Reactions ([GitHub Repository](https://github.com/ReFlar/reactions/) / [Flarum Community](https://discuss.flarum.org/d/6542-reactions-by-reflar))
  - Webhooks ([GitHub Repository](https://github.com/reflar/webhooks) / [Flarum Community](https://discuss.flarum.org/d/17812-webhooks-by-reflar))
 
