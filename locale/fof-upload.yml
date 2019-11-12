@@ -31,8 +31,8 @@ flagrow-upload:
         title: Désactiver la protection contre les liens automatiques (hotlink)
         toggle: Désactiver
       imgur:
-        client_id: Identifiant client d'Imgur
-        title: Paramètres de stockage d'images Imgur
+        client_id: Identifiant client d’Imgur
+        title: Paramètres de stockage d’images Imgur
       local:
         cdn_url: URL de diffusion de contenu (fichiers de préfixes)
         title: Paramètres de stockage local
@@ -42,15 +42,20 @@ flagrow-upload:
         region: Région
         tenantid: ID de locataire
         title: Paramètres de stockage OVH SVFS
-        username: Nom d'utilisateur
+        username: Nom d’utilisateur
       preferences:
         max_file_size: Taille maximale du fichier (en kilo-octets)
         mime_types: Configurez votre type MIME (téléversez la cartographie de téléchargement)
         title: Préférences générales
+      qiniu:
+        bucket: Bucket
+        key: Clé
+        secret: Secret
+        title: Paramètres de stockage Qiniu
       resize:
-        max_height: Hauteur maximale de l'image
-        max_width: Largeur maximale de l'image
-        title: Redimensionner l'image
+        max_height: Hauteur maximale de l’image
+        max_width: Largeur maximale de l’image
+        title: Redimensionner l’image
         toggle: Redimensionner les images
       watermark:
         file: Téléversez votre image qui servira de filigrane
@@ -64,17 +69,18 @@ flagrow-upload:
       file: Modèle de téléchargement de fichier par défaut
       file_description: |
         Affiche le nom du fichier et des informations générales. Les téléchargements sont procurés via php, ce qui permet la collecte de statistiques et la protection contre les liens automatiques (hotlink).
-      image: Modèle de téléchargement d'image par défaut
-      image-preview: Modèle complet d'aperçu de l'image
+      image: Modèle de téléchargement d’image par défaut
+      image-preview: Modèle complet d’aperçu de l’image
       image-preview_description: |
-        Affiche l'image complète en ligne. Aucune fonctionnalité de téléchargement, aucune statistique n'est collectée et la protection contre les liens automatiques est ignorée.
+        Affiche l’image complète en ligne. Aucune fonctionnalité de téléchargement, aucune statistique n’est collectée et la protection contre les liens automatiques est ignorée.
       image_description: |
-        Affiche une miniature de l'image et le téléchargement des proxies via php. Permettre la collecte de statistiques et la protection contre les liens automatiques (hotlink).
+        Affiche une miniature de l’image et le téléchargement des proxies via php. Permettre la collecte de statistiques et la protection contre les liens automatiques (hotlink).
     upload_methods:
       aws-s3: Amazon S3
       imgur: Imgur
       local: Local
       ovh-svfs: OVH SVFS
+      qiniu: QiNiu
   forum:
     buttons:
       attach: Joindre
