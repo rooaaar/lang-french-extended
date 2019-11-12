@@ -2,6 +2,11 @@ fof-merge-discussions:
   admin:
     permissions:
       merge_discussions_label: Fusionner les discussions
+  api:
+    error:
+      deleting_failed: Échec de la suppression des discussions vides.
+      merging_failed: Échec de la fusion des discussions.
+      updating_failed: Échec de la mise à jour des détails de la discussion.
   forum:
     discussion:
       merge: => fof-merge-discussions.ref.merge
