@@ -3,7 +3,7 @@ REPO='FriendsOfFlarum/terms' #Repository name
 LOCALE='resources/locale' #Locale folder
 
 YAML1='en.yml' #Original yaml file
-YAML2='fof-byobu.yml' #Translated yaml file
+YAML2='fof-terms.yml' #Translated yaml file
 
 TEMP_DIR=`mktemp -d`
 WORK_DIR=`pwd`
