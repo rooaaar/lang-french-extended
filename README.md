@@ -25,7 +25,12 @@ php flarum cache:clear
 
 ## List of translated third-party extensions
 
+### Clarkwinkelmann
 
+ - Author change ([GitHub Repository](https://github.com/clarkwinkelmann/flarum-ext-author-change) / [Flarum Community](https://discuss.flarum.org/d/21731-discussion-and-post-author-change))
+
+
+---
 ### Datitisev
 
  - Admin Dashboard ([GitHub Repository](https://github.com/datitisev/flarum-ext-dashboard) / [Flarum Community](https://discuss.flarum.org/d/2958-datitisev-admin-dashboard))
@@ -59,6 +64,7 @@ php flarum cache:clear
  - Ads ([GitHub Repository](https://github.com/FriendsOfFlarum/ads) / [Flarum Community](https://discuss.flarum.org/d/4785-flagrow-ads-bombarding-your-users-with-ads-everywhere-if-you-want))
  - Amazon Affiliation ([GitHub Repository](https://github.com/FriendsOfFlarum/amazon-affiliation) / [Flarum Community](https://discuss.flarum.org/d/12389-flagrow-amazon-affiliation-add-your-affiliate-tag-to-links))
  - Analytics ([GitHub Repository](https://github.com/FriendsOfFlarum/analytics) / [Flarum Community](https://discuss.flarum.org/d/1983-flagrow-analytics-extension-tracking-user-visits))
+ - Auth Gitlab ([GitHub Repository](https://raw.githubusercontent.com/FriendsOfFlarum/auth-gitlab/) / [Flarum Community](https://discuss.flarum.org/d/20371-friendsofflarum-gitlab-login))
  - Ban IPs ([GitHub Repository](https://github.com/FriendsOfFlarum/ban-ips) / [Flarum Community](https://discuss.flarum.org/d/20949-friendsofflarum-ban-ips))
  - Byōbu ([GitHub Repository](https://github.com/FriendsOfFlarum/byobu) / [Flarum Community](https://discuss.flarum.org/d/4762-flagrow-by-bu-well-integrated-advanced-private-discussions))
  - Custom Footer ([GitHub Repository](https://github.com/FriendsOfFlarum/custom-footer) / [Flarum Community](https://discuss.flarum.org/d/17774-friendsofflarum-custom-footer))
@@ -86,13 +92,13 @@ php flarum cache:clear
  - Share Social ([GitHub Repository](https://github.com/FriendsOfFlarum/share-social) / [Flarum Community](https://discuss.flarum.org/d/20401-friendsofflarum-share-social))
  - Spamblock ([GitHub Repository](https://github.com/FriendsOfFlarum/spamblock) / [Flarum Community](https://discuss.flarum.org/d/17772-friendsofflarum-spamblock))
  - Split ([GitHub Repository](https://github.com/FriendsOfFlarum/split) / [Flarum Community](https://discuss.flarum.org/d/1903-flagrow-split-separates-posts-to-a-new-discussion))
- - Stop Forum Spam ([GitHub Repository](https://github.com/FriendsOfFlarum/stopforumspam) / [Flarum Community](https://discuss.flarum.org/d/17846-friendsofflarum-stopforumspam))
+ - StopForumSpam ([GitHub Repository](https://github.com/FriendsOfFlarum/stopforumspam) / [Flarum Community](https://discuss.flarum.org/d/17846-friendsofflarum-stopforumspam))
   - Subscribed ([GitHub Repository](https://github.com/FriendsOfFlarum/subscribed) / [Flarum Community](https://discuss.flarum.org/d/20917-friendsofflarum-subscribed/))
  - transliterator ([GitHub Repository](https://github.com/FriendsOfFlarum/transliterator) / [Flarum Community](https://discuss.flarum.org/d/18074-friendsofflarum-url-transliterator))
  - Upload ([GitHub Repository](https://github.com/FriendsOfFlarum/upload/) / [Flarum Community](https://discuss.flarum.org/d/4154-flagrow-upload-the-intelligent-file-attachment-extension))
  - User Directory ([GitHub Repository](https://github.com/FriendsOfFlarum/user-directory) / [Flarum Community](https://discuss.flarum.org/d/5682-user-directory-by-friendsofflarum))
  - Username Request ([GitHub Repository](https://github.com/FriendsOfFlarum/username-request) / [Flarum Community](https://discuss.flarum.org/d/20956-friendsofflarum-username-request))
-
+ - Terms ([GitHub Repository](https://github.com/FriendsOfFlarum/terms) / [Flarum Community](https://discuss.flarum.org/d/11714-fof-terms-ask-your-users-to-accept-tos-and-privacy-policy))
 
 
  ---
