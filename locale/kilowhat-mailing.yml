@@ -20,8 +20,8 @@ kilowhat-mailing:
       submit_button: Envoyer
       title_text: Écrire un email
     modal_sent:
-      on_its_way: 'Tape m’en cinq! Votre courrier est en route vers les destinataires {recipientsCount}!'
-      title_text: Email envoyé!
+      on_its_way: 'Tape m’en cinq! Votre email est en route vers {recipientsCount} destinataires !'
+      title_text: Email envoyé !
     recipient_kinds:
       email: Email
       group: Groupe
