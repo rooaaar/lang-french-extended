@@ -1,10 +1,13 @@
 fof-masquerade:
   admin:
+    title: Masquerade
+    general-options: Principales options
     buttons:
       add-field: Créer un champ
       delete-field: Supprimer le champ
       edit-field: Sauvegarder les modifications
     fields:
+      title: Champs
       add: 'Ajouter le champ {field}'
       description: Description du champ
       description-help: |
