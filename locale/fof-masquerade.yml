@@ -26,16 +26,19 @@ fof-masquerade:
       prefix-help: |
         Affiche votre préfixe devant les valeurs entrées par l’utilisateur pour ce champ.
       required: Marquer le champ comme obligatoire
+      title: Champs
       type: Type
       validation: Validation
       validation-help: |
         Consultez les <a>règles de validation Laravel</a> supportées. Ex.: "string|min:5" ou "url".
+    general-options: Principales options
     menu:
       description: |
         Configurer les champs de profil utilisateur.
     permissions:
       have-profile: Avoir un profil masquerade
       view-profile: Voir le profil masquerade
+    title: Masquerade
     types:
       advanced: Avancées
       boolean: Case à cocher
