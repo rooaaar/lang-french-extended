@@ -8,7 +8,7 @@ fof-polls:
   forum:
     composer_discussion:
       add_poll: Ajouter un sondage
-      edit_poll: => reflar-polls.forum.moderation.edit
+      edit_poll: => fof-polls.forum.moderation.edit
     days_remaining: 'Le sondage se termine dans {time}'
     modal:
       add_option_label: Ajouter une option
