@@ -6,30 +6,41 @@ fof-byobu:
       create_private_discussions_with_users: Créer des discussions privées avec des utilisateurs
       edit_group_recipients: Modifier les groupes participant à des discussions privées
       edit_user_recipients: Modifier les utilisateurs participant à des discussions privées
+      view_private_discussions-when-flagged: Afficher les discussions privées des autres utilisateurs qui ont été signalées
     settings:
-      byobu_users_page_label: Ajouter les discussions privées à la page utilisateur
+      nothing_here: 'Rien à voir ici pour le moment'
   forum:
     badges:
       is_private:
         tooltip: Discussion privée
     buttons:
       add_recipients: Destinataires
+      cancel: Annuler
       edit_recipients: Modifier les destinataires
       send_pd: 'Envoyer un message à {username}'
       submit: Envoyer
+    composer_private_discussion:
+      submit_button: Publier une discussion privée
+      title_placeholder: Titre de la discussion privée
     input:
       search_recipients: Rechercher un destinataire en saisissant ses trois premiers caractères…
     labels:
       recipients: '{count} destinataire|{count} destinataires'
       user_deleted: '-supprimé-'
     modal:
+      help:
+        add_recipients: Cette discussion ne sera visible que par les utilisateurs que vous choisissez ici. Au moins 1 destinataire (autre que vous-même) est requis
+        update_recipients: Cette discussion ne sera visible que par les utilisateurs que vous choisissez ici.
       titles:
         add_recipients: Ajouter des destinataires à votre discussion
         update_recipients: 'Mettre à jour les destinataires de {title}'
     nav:
       private_discussions: Discussion privée
+      start_button: Nouvelle discussion privée
     notifications:
       pd_label: Quelqu’un m’a inclus dans une discussion privée
+      pd_reply_label: Quelqu’un a posté dans une discussion privée dont je suis le destinataire
+      pd_reply_text: '{username} a posté dans une discussion privée dont vous faites partie'
       pd_text: 'a démarré une nouvelle discussion privée avec vous'
     post:
       recipients_modified:
@@ -41,8 +52,11 @@ fof-byobu:
         groups: Groupes de permissions
     user:
       byobu_link: Discussions privées
+      dropdown_label: Discussions privées
       settings:
         block_pd: Bloquer les discussions privées
   notifications:
     private_discussion_created:
       title: '[forum-name] Nouvelle discussion privée'
+    private_discussion_replied:
+      title: '[Private Discussion] utilisateur posté dans une discussion privée'
