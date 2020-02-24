@@ -146,6 +146,14 @@ php flarum cache:clear
 
  - Google Login ([GitHub Repository](https://github.com/saleksin/flarum-auth-google) / [Flarum Community](https://discuss.flarum.org/d/18250-google-login))
 
+
+
+ ---
+ ### The Turk
+
+  - Flarum Diff  ([GitHub Repository](https://github.com/the-turk/flarum-diff) / [Flarum Community](https://discuss.flarum.org/d/22779-diff-for-flarum))
+
+
  ---
  ### wiwatsrt
 
