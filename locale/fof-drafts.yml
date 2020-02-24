@@ -5,9 +5,11 @@ fof-drafts:
   forum:
     composer:
       alert: Brouillon enregistré.
+      exit_alert: Ignorer les modifications apportées au brouillon?
       title: Enregistrer le brouillon
     dropdown:
       alert: Êtes-vous sûr de vouloir supprimer votre brouillon?
       button: Supprimer le brouillon
+      empty_text: Vous n’avez enregistré aucun brouillon
       title: Brouillons
       tooltip: => fof-drafts.forum.dropdown.title
