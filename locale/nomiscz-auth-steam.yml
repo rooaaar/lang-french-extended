@@ -3,6 +3,7 @@ nomiscz-auth-steam:
     settings:
       api_key_label: Clé API
       title: Paramètres d’authentification Steam
+      use_steam_powered_domain: Utilisez le domaine steampowered.com au lieu de steamcommunity.com (bloqué en Chine)
   forum:
     alerts:
       already_linked: Le compte Steam est déjà associé.
