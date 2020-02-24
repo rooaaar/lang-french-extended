@@ -7,6 +7,13 @@ flarum_discussion_views:
   admin:
     permissions:
       reset_views_label: Réinitialiser les vues d'une discussion
+    settings:
+      abbr_numbers: Numéros de vue abrégés
+      max_viewcount: Nombre maximal d’éléments dans la liste de visualisation
+      show_filter: Activer le champ de tri inpopulaire
+      show_viewlist: Activer la liste de visualisation
+      title: Paramètres des vues de discussion
+      track_unique: Suivi des vues uniques
   forum:
     discussion_controls:
       resetviews_button: Définir le nombre de vues
@@ -14,3 +21,5 @@ flarum_discussion_views:
       label: Définir le nombre de vues
       submit: Soumettre
       title: Réinitialiser le compteur de vues
+    viewlist:
+      title: Derniers visiteurs
