@@ -1,0 +1,35 @@
+the-turk-diff:
+  admin:
+    permissions:
+      deleteEditHistory: Supprimer les historiques de modification des autres
+      selfDeleteEditHistory: Supprimer ses propres historiques de modification
+      viewEditHistory: Afficher l’historique des modifications
+    settings:
+      allowSwitch: Autoriser les utilisateurs à basculer entre les modes de rendu
+      charLevel: Char-level
+      customHTML: Vue personnalisée sans numéros de ligne
+      detailLevel: Detail-Level
+      displayMode: Mode d'affichage (HTML)
+      enableSyncScroll: Activer le défilement synchronisé pour le rendu côte à côte
+      inline: Ligne par ligne (HTML)
+      lineLevel: Line-level
+      neighborLines: Lignes voisines
+      neighborLinesHelp: Spécifiez le nombre de lignes voisines que vous souhaitez afficher.
+      noneLevel: None-level
+      notice: Les modifications apportées au paramètre <strong>Lignes voisines</strong> n’affecteront pas les anciens différentiels qui ont été calculées auparavant.
+      onlyUnsigned: Seuls les <strong>entiers non signés</strong> sont autorisés!
+      renderMode: Mode de rendu
+      separateBlock: Afficher un séparateur entre les différentes parties de différentiels dans les rendus HTML
+      sideBySide: Côte à côte (HTML)
+      tabularHTML: Vue tabulaire avec numéros de ligne
+      title: Paramètres de diff
+      wordLevel: Word-level
+  forum:
+    confirmDelete: Voulez-vous vraiment supprimer le contenu de cette modification de l’historique?
+    deleteErrorMessage: La suppression du contenu de l’édition a échouée.
+    deleteSuccessMessage: Le contenu de la modification a été supprimé.
+    deletedText: (effacé)
+    deletedTooltip: '{username} a effacé ce contenu {ago}'
+    differences: Différences
+    emptyText: Aucune révision
+    revisionInfo: 'Edité {revisionCount} fois, le plus récemment en haut|Edité {revisionCount} fois, le plus récemment en haut'

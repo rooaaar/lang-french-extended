@@ -81,5 +81,6 @@ matrix:
         - bash scripts/identical/reflar-latex.sh
         - bash scripts/identical/reflar-level-ranks.sh
         - bash scripts/identical/saleksin-auth-google.sh
+        - bash scripts/identical/the-turk-diff.sh
         - bash scripts/identical/wiwatsrt-flarum-best-answer.sh
         - bash scripts/linter.sh
