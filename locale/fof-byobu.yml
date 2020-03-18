@@ -8,7 +8,8 @@ fof-byobu:
       edit_user_recipients: Modifier les utilisateurs participant à des discussions privées
       view_private_discussions-when-flagged: Afficher les discussions privées des autres utilisateurs qui ont été signalées
     settings:
-      nothing_here: 'Rien à voir ici pour le moment'
+      use_tag_slug: Spécifiez le slug de la balise pour forcer toutes les discussions privées dans
+      use_tag_slug_help: 'Laisser vide pour permettre aux utilisateurs de sélectionner leur propre balise, s’applique uniquement aux discussions privées nouvellement créées'
   forum:
     badges:
       is_private:

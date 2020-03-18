@@ -36,13 +36,6 @@ fof-upload:
       local:
         cdn_url: URL de diffusion de contenu (fichiers de préfixes)
         title: Paramètres de stockage local
-      ovh-svfs:
-        container: Conteneur
-        password: Mot de passe
-        region: Région
-        tenantid: ID de locataire
-        title: Paramètres de stockage OVH SVFS
-        username: Nom d’utilisateur
       preferences:
         max_file_size: Taille maximale du fichier (en kilo-octets)
         mime_types: Configurez votre type MIME (téléversez la cartographie de téléchargement)
@@ -53,7 +46,6 @@ fof-upload:
         secret: Secret
         title: Paramètres de stockage Qiniu
       resize:
-        max_height: Hauteur maximale de l’image
         max_width: Largeur maximale de l’image
         title: Redimensionner l’image
         toggle: Redimensionner les images
@@ -87,4 +79,4 @@ fof-upload:
     states:
       error: Erreur
       loading: Chargement
-      success: Succès
+      unauthorized: Vous n’êtes pas autorisé à télécharger des fichiers

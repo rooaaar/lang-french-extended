@@ -6,30 +6,44 @@ the-turk-diff:
       viewEditHistory: Afficher l’historique des modifications
     settings:
       allowSwitch: Autoriser les utilisateurs à basculer entre les modes de rendu
+      archiveInfo: 'Gardez à l’esprit que vous pouvez désactiver les deux options et exécuter la commande <code>php flarum diff: archive</code> pour archiver manuellement les anciennes révisions.'
+      archiveOlds: Archiver les anciennes révisions
+      archiveOldsInfo: 'Si <strong>x ≥ A</strong>, les premières <strong>y = mx + b</strong> révisions pour la publication seront stockées comme fusionnées et compressées. Le <strong>x</strong> fait référence au nombre de révisions de la publication. Les valeurs flottantes de <strong>y</strong> seront arrondies à la prochaine valeur entière la plus basse.'
       charLevel: Char-level
+      combined: Combiné (HTML)
       customHTML: Vue personnalisée sans numéros de ligne
+      dbOptimisation: Optimisation de la base de données
       detailLevel: Detail-Level
       displayMode: Mode d'affichage (HTML)
       enableSyncScroll: Activer le défilement synchronisé pour le rendu côte à côte
       inline: Ligne par ligne (HTML)
       lineLevel: Line-level
+      mainPostOnly: Stocker uniquement les révisions de la publication principale
       neighborLines: Lignes voisines
       neighborLinesHelp: Spécifiez le nombre de lignes voisines que vous souhaitez afficher.
       noneLevel: None-level
-      notice: Les modifications apportées au paramètre <strong>Lignes voisines</strong> n’affecteront pas les anciens différentiels qui ont été calculées auparavant.
       onlyUnsigned: Seuls les <strong>entiers non signés</strong> sont autorisés!
       renderMode: Mode de rendu
       separateBlock: Afficher un séparateur entre les différentes parties de différentiels dans les rendus HTML
       sideBySide: Côte à côte (HTML)
       tabularHTML: Vue tabulaire avec numéros de ligne
       title: Paramètres de diff
+      useCrons: Utilisez crons pour archiver les anciennes révisions
+      useCronsHelp: 'Vous devez ajouter une entrée Cron à votre serveur pour que cette option fonctionne. Cela fonctionnera chaque semaine le dimanche à 02h00. Si vous désactivez cette option et activez ci-dessus, toutes les révisions de la publication seront analysées pour l’archivage lorsque la publication associée est révisée.'
+      usePoint: Utilisez <strong>un point</strong> comme séparateur décimal pour les valeurs flottantes.
       wordLevel: Word-level
   forum:
     confirmDelete: Voulez-vous vraiment supprimer le contenu de cette modification de l’historique?
+    confirmRollback: Êtes-vous sûr de vouloir revenir à cette révision? Le contenu de l’édition après cette révision sera supprimé définitivement.
     deleteErrorMessage: La suppression du contenu de l’édition a échouée.
     deleteSuccessMessage: Le contenu de la modification a été supprimé.
     deletedText: (effacé)
     deletedTooltip: '{username} a effacé ce contenu {ago}'
     differences: Différences
+    noDiff: Il n’y a rien à afficher ici.
+    optionsButton: Options
     emptyText: Aucune révision
     revisionInfo: 'Edité {revisionCount} fois, le plus récemment en haut|Edité {revisionCount} fois, le plus récemment en haut'
+    rollbackButton: Revenir à cette révision
+    rollbackErrorMessage: La restauration des modifications a échouée.
+    rollbackSuccessMessage: Vos modifications ont été annulées.

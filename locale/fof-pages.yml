@@ -1,5 +1,8 @@
 fof-pages:
   admin:
+    badges:
+      hidden: Brouillon
+      restricted: Restreint   
     edit_page:
       content_label: => fof-pages.ref.content
       content_placeholder: => fof-pages.ref.content
@@ -25,6 +28,8 @@ fof-pages:
     pages_list:
       empty_text: On dirait qu'il n'y a pas de pages ici..
       title: => fof-pages.ref.title
+    permissions:
+      restricted: Afficher les pages restreintes
   ref:
     content: Contenu
     create_page: Créer une page
