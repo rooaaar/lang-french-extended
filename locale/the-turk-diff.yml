@@ -40,9 +40,9 @@ the-turk-diff:
     deletedText: (effacé)
     deletedTooltip: '{username} a effacé ce contenu {ago}'
     differences: Différences
+    emptyText: Aucune révision
     noDiff: Il n’y a rien à afficher ici.
     optionsButton: Options
-    emptyText: Aucune révision
     revisionInfo: 'Edité {revisionCount} fois, le plus récemment en haut|Edité {revisionCount} fois, le plus récemment en haut'
     rollbackButton: Revenir à cette révision
     rollbackErrorMessage: La restauration des modifications a échouée.
