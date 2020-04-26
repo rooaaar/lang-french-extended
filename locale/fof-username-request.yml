@@ -21,7 +21,7 @@ fof-username-request:
       item_text: '{username} a demandé un changement de nom d’utilisateur'
       title: Demandes de changement de nom d’utilisateur
       tooltip: => fof-username-request.forum.dropdown.title
-    profile_link: Histoire du nom d’utilisateur
+    profile_link: Historique du nom d’utilisateur
     request:
       confirmation_message: Votre demande a été reçue et sera examinée bientôt.
       current_request: 'Vous avez déjà demandé le nom d’utilisateur "{username}." Vous pouvez mettre à jour ou supprimer cette demande.'
