@@ -24,6 +24,7 @@ matrix:
           on_failure: change
       script:
         - bash scripts/identical/clarkwinkelmann-author-change.sh
+        - bash scripts/identical/clarkwinkelmann-who-read.sh
         - bash scripts/identical/datitisev-dashboard.sh
         - bash scripts/identical/extiverse-bazaar.sh
         - bash scripts/identical/fajuu-contactbutton.sh
