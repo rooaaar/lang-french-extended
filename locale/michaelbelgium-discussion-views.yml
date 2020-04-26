@@ -6,7 +6,8 @@ core:
 flarum_discussion_views:
   admin:
     permissions:
-      reset_views_label: Réinitialiser les vues d'une discussion
+      can_reset_views: Réinitialiser les vues d’une discussion
+      can_view_number: Afficher le nombre de vues d’une discussion
     settings:
       abbr_numbers: Numéros de vue abrégés
       max_viewcount: Nombre maximal d’éléments dans la liste de visualisation

@@ -2,7 +2,9 @@ the-turk-diff:
   admin:
     permissions:
       deleteEditHistory: Supprimer les historiques de modification des autres
+      rollbackEditHistory: Restaurer les historiques de modification des autres
       selfDeleteEditHistory: Supprimer ses propres historiques de modification
+      selfRollbackEditHistory: Restaurer ses propres historiques de modification
       viewEditHistory: Afficher l’historique des modifications
     settings:
       allowSwitch: Autoriser les utilisateurs à basculer entre les modes de rendu
@@ -35,15 +37,37 @@ the-turk-diff:
   forum:
     confirmDelete: Voulez-vous vraiment supprimer le contenu de cette modification de l’historique?
     confirmRollback: Êtes-vous sûr de vouloir revenir à cette révision? Le contenu de l’édition après cette révision sera supprimé définitivement.
+    createdInfo: '{username} a créé ce contenu {ago}'
+    deleteButton: => core.forum.post_controls.delete_button
     deleteErrorMessage: La suppression du contenu de l’édition a échouée.
     deleteSuccessMessage: Le contenu de la modification a été supprimé.
+    deletedInfo: '{username} a effacé ce contenu {ago}'
     deletedText: (effacé)
-    deletedTooltip: '{username} a effacé ce contenu {ago}'
-    differences: Différences
+    differences:
+      currentContent: => the-turk-diff.ref.currentContent
+      originalContent: => the-turk-diff.ref.originalContent
+      revisionWithNumber: => the-turk-diff.ref.revisionWithNumber
+      sentence: 'Vous constatez les différences entre {old} et {new}'
+    editedInfo: => core.forum.post.edited_tooltip
+    editedText: => core.forum.post.edited_text
     emptyText: Aucune révision
     noDiff: Il n’y a rien à afficher ici.
     optionsButton: Options
+    revertChangesButton: Rétablir les changements
     revisionInfo: 'Edité {revisionCount} fois, le plus récemment en haut|Edité {revisionCount} fois, le plus récemment en haut'
     rollbackButton: Revenir à cette révision
     rollbackErrorMessage: La restauration des modifications a échouée.
     rollbackSuccessMessage: Vos modifications ont été annulées.
+    rollbackToOriginalButton: Revenir à l’original.
+    tooltips:
+      combined: Combiné
+      inline: Ligne par ligne
+      mostRecent: Le plus récent
+      originalContent: => the-turk-diff.ref.originalContent
+      preview: => core.forum.composer.preview_tooltip
+      revisionWithNumber: => the-turk-diff.ref.revisionWithNumber
+      sideBySide: Côte à côte
+  ref:
+    currentContent: contenu actuel
+    originalContent: contenu originel
+    revisionWithNumber: 'révision {number}'
