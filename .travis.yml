@@ -29,7 +29,6 @@ matrix:
         - bash scripts/identical/fajuu-contactbutton.sh
         - bash scripts/identical/flagrow-analytics.sh
         - bash scripts/identical/flagrow-impersonate.sh
-        - bash scripts/identical/flagrow-passport.sh
         - bash scripts/identical/flagrow-users-list.sh
         - bash scripts/identical/fof-ads.sh
         - bash scripts/identical/fof-amazon-affiliation.sh
@@ -52,6 +51,7 @@ matrix:
         - bash scripts/identical/fof-merge-discussions.sh
         - bash scripts/identical/fof-nightmode.sh
         - bash scripts/identical/fof-pages.sh
+        - bash scripts/identical/fof-passport.sh        
         - bash scripts/identical/fof-polls.sh
         - bash scripts/identical/fof-pretty-mail.sh
         - bash scripts/identical/fof-prevent-necrobumping.sh

@@ -1,4 +1,4 @@
-flagrow-passport:
+fof-passport:
   admin:
     popup:
       field:
@@ -10,3 +10,6 @@ flagrow-passport:
         app-user-url: 'URL de l''API fournissant les détails de l''utilisateur, lors de l''authentification'
         button-title: Intitulé pour le bouton de connexion
       title: Flagrow Passport
+
+  api:
+      default-login-button-title: => core.ref.log_in

@@ -3,7 +3,7 @@ REPO='FriendsOfFlarum/passport' #Repository name
 LOCALE='locale' #Locale folder
 
 YAML1='en.yml' #Original yaml file
-YAML2='flagrow-passport.yml' #Translated yaml file
+YAML2='fof-passport.yml' #Translated yaml file
 
 TEMP_DIR=`mktemp -d`
 WORK_DIR=`pwd`
