@@ -8,10 +8,9 @@ fof-passport:
         app-secret: Secret de l'application OAuth
         app-token-url: URL du jeton OAuth
         app-user-url: 'URL de l''API fournissant les détails de l''utilisateur, lors de l''authentification'
+        button-icon: Icône pour le bouton de connexion
         button-title: Intitulé pour le bouton de connexion
         button-title-placeholder: => fof-passport.api.default-login-button-title
-        button-icon: Icône pour le bouton de connexion
       title: Flagrow Passport
-
   api:
-      default-login-button-title: => core.ref.log_in
+    default-login-button-title: => core.ref.log_in
