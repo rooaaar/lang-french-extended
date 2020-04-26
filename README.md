@@ -28,6 +28,7 @@ php flarum cache:clear
 ### Clarkwinkelmann
 
  - Author change ([GitHub Repository](https://github.com/clarkwinkelmann/flarum-ext-author-change) / [Flarum Community](https://discuss.flarum.org/d/21731-discussion-and-post-author-change))
+ - Who Read ([GitHub Repository](https://github.com/clarkwinkelmann/flarum-ext-who-read) / [Flarum Community](https://discuss.flarum.org/d/23066-who-read))
 
 
 ---
@@ -76,11 +77,13 @@ php flarum cache:clear
  - Formatting ([GitHub Repository](https://github.com/FriendsOfFlarum/formatting) / [Flarum Community](https://discuss.flarum.org/d/17770-friendsofflarum-formatting))
  - FrontPage ([GitHub Repository](https://github.com/FriendsOfFlarum/frontpage) / [Flarum Community](https://discuss.flarum.org/d/19256-friendsofflarum-frontpage))
  - Gamification ([GitHub Repository](https://github.com/FriendsOfFlarum/gamification) / [Flarum Community](https://discuss.flarum.org/d/20671-friendsofflarum-gamification))
+ - GeoIP ([GitHub Repository](https://github.com/FriendsOfFlarum/geoip) / [Flarum Community](https://discuss.flarum.org/d/21493-friendsofflarum-geoip))
  - Ignore Users ([GitHub Repository](https://github.com/FriendsOfFlarum/ignore-users) / [Flarum Community](https://discuss.flarum.org/d/20681-friendsofflarum-ignore-users))
  - Links ([GitHub Repository](https://github.com/FriendsOfFlarum/links/) / [Flarum Community](https://discuss.flarum.org/d/18335-friendsofflarum-links))
  - Mason ([GitHub Repository](https://github.com/FriendsOfFlarum/mason) / [Flarum Community](https://discuss.flarum.org/d/7028-flagrow-mason-the-discussion-custom-fields-builder))
  - Masquerade ([GitHub Repository](https://github.com/FriendsOfFlarum/masquerade) / [Flarum Community](https://discuss.flarum.org/d/5791-masquerade-by-friendsofflarum-the-user-profile-builder))
  - Merge ([GitHub Repository](https://github.com/FriendsOfFlarum/merge-discussions/) / [Flarum Community](https://discuss.flarum.org/d/19460-friendsofflarum-merge-discussions))
+ - Moderator Notes ([GitHub Repository](https://github.com/FriendsOfFlarum/moderator-notes) / [Flarum Community](https://discuss.flarum.org/d/22925-friendsofflarum-moderator-notes))
  - Necrobumping ([GitHub Repository](https://github.com/FriendsOfFlarum/prevent-necrobumping/) / [Flarum Community](https://discuss.flarum.org/d/18312-friendsofflarum-prevent-necrobumping))
   - NightMode ([GitHub Repository](https://github.com/FriendsOfFlarum/nightmode) / [Flarum Community](https://discuss.flarum.org/d/11134-night-mode-by-reflar))
  - Pages ([GitHub Repository](https://github.com/FriendsOfFlarum/pages) / [Flarum Community](https://discuss.flarum.org/d/18301-friendsofflarum-pages))
