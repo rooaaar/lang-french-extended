@@ -1,0 +1,17 @@
+fof-moderator-notes:
+  admin:
+    permissions:
+      createnotes: Créer des notes de modérateur
+      viewnotes: Afficher les notes du modérateur
+  forum:
+    moderatorNotes:
+      add_button: Nouvelle note
+      confirmation_message: Votre note a été enregistrée. Vous devrez peut-être actualiser la page pour la voir.
+      create-heading: Créer une nouvelle note de modérateur
+      dismiss_button: Terminé
+      input_heading: 'Entrez vos notes pour <strong>{username}</strong>'
+      noNotes: Il semble qu'il n’y ait aucune note ici.
+      no_content_given: Une note vide n’est pas autorisée.
+      submit_button: Enregistrer la note
+    user:
+      notes: Notes du modérateur
