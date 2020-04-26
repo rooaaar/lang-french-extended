@@ -23,6 +23,15 @@ composer update rooaaar/lang-french-extended
 php flarum cache:clear
 ```
 
+## Dev-master
+
+Do you want to have the very last translations? Use the *dev-master* branch !
+
+```bash
+composer require rooaaar/lang-french-extended:dev-master
+php flarum cache:clear
+```
+
 ## List of translated third-party extensions
 
 ### Clarkwinkelmann
