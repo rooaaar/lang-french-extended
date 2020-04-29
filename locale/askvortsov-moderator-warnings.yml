@@ -16,7 +16,7 @@ askvortsov-moderator-warnings:
     settings:
       warning_notification_label: Un modérateur m’a averti
     user:
-      warnings: Avertissements du modérateur
+      warnings: Avertissements
     warning_controls:
       delete_button: Retirer
       delete_forever_button: Effacé définitivement
@@ -24,12 +24,12 @@ askvortsov-moderator-warnings:
     warning_list:
       add_button: Nouvel avertissement
       no-warnings: Il semble qu’il n’y ait aucun avertissement ici.
-      warnings: 'Avertissements du modérateur: {strikes} strike reçu|Avertissements du modérateur: {strikes} strikes reçus'
+      warnings: "Moderator Warnings: {strikes} Strike Received|Moderator Warnings: {strikes} Strikes Received"
       warnings_no_strikes: 'Avertissements du modérateur: aucun strike reçu'
     warning_list_item:
       linked_post: Message lié
-      list_item_heading: '<strong>{mod_username}</strong> vous a averti avec <strong>{strikes}</strong> strike|<strong>{mod_username}</strong> vous a averti avec <strong>{strikes}</strong> strikes'
-      list_item_heading_hidden: '<strong>{mod_username}</strong> vous a averti avec <strong>{strikes}</strong> strike <strong>(retiré)</strong>|<strong>{mod_username}</strong> vous a averti avec <strong>{strikes}</strong> strikes <strong>(retiré)</strong>'
+      list_item_heading: '<strong>{mod_username}</strong> warned with <strong>{strikes}</strong> strike|<strong>{mod_username}</strong> warned with <strong>{strikes}</strong> strikes'
+      list_item_heading_hidden: '<strong>{mod_username}</strong> warned with <strong>{strikes}</strong> strike <strong>(removed)</strong>|<strong>{mod_username}</strong> warned with <strong>{strikes}</strong> strikes <strong>(removed)</strong>'
       private_comment: Commentaires visibles par le modérateur
       public_comment: Commentaires visibles par l’utilisateur
     warning_modal:
