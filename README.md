@@ -34,10 +34,6 @@ php flarum cache:clear
 
 ## List of translated third-party extensions
 
-### askvortsov
-
- - Moderator Warnings ([GitHub Repository](https://github.com/askvortsov1/flarum-moderator-warnings) / [Flarum Community](https://discuss.flarum.org/d/23228-moderator-warnings-extension))
-
 ### Clarkwinkelmann
 
  - Author change ([GitHub Repository](https://github.com/clarkwinkelmann/flarum-ext-author-change) / [Flarum Community](https://discuss.flarum.org/d/21731-discussion-and-post-author-change))
