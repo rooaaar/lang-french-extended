@@ -6,11 +6,11 @@ askvortsov-moderator-warnings:
       view_warnings: Afficher les avertissements du modérateur
   forum:
     notifications:
-      warning_no_strikes_text: 'Vous avez été averti par {mod_username} (aucun strike)'
+      warning_no_strikes_text: Vous avez été averti par {mod_username} (aucun strike)
       warning_text: 'Vous avez été averti avec {strikes} strike par {mod_username}|Vous avez été averti avec {strikes} strikes par {mod_username}'
     post:
       warning: 'Vous avez été averti avec {strikes} strike par {mod_username}|Vous avez été averti avec {strikes} strikes par {mod_username}'
-      warning_no_strikes: 'Vous avez été averti sans aucun strike par {mod_username}'
+      warning_no_strikes: Vous avez été averti sans aucun strike par {mod_username}
     post_controls:
       warning_button: Avertir l’utilisateur
     settings:
@@ -35,9 +35,9 @@ askvortsov-moderator-warnings:
     warning_modal:
       confirmation_message: Votre avertissement a été enregistré. Vous devrez peut-être actualiser la page pour la voir.
       dismiss_button: Terminé
-      heading: 'Avertir <strong>{username}</strong>'
+      heading: Avertir <strong>{username}</strong>
       no_content_given: Un avertissement vide n’est pas autorisé.
-      private_comment_heading: 'Pourquoi <strong>{username}</strong> reçoit-il ces avertissements? Ces commentaires seront UNIQUEMENT visibles par les autres modérateurs.'
-      public_comment_heading: 'Pourquoi <strong>{username}</strong> reçoit-il ces avertissements? Ces commentaires seront visibles par l’utilisateur et les autres modérateurs.'
+      private_comment_heading: Pourquoi <strong>{username}</strong> reçoit-il ces avertissements? Ces commentaires seront UNIQUEMENT visibles par les autres modérateurs.
+      public_comment_heading: Pourquoi <strong>{username}</strong> reçoit-il ces avertissements? Ces commentaires seront visibles par l’utilisateur et les autres modérateurs.
       strikes_heading: Combien de strikes doivent être appliqués?
       submit_button: Enregistrer l’avertissement
