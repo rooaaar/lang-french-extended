@@ -24,20 +24,20 @@ askvortsov-moderator-warnings:
     warning_list:
       add_button: Nouvel avertissement
       no-warnings: Il semble qu’il n’y ait aucun avertissement ici.
-      warnings: "Moderator Warnings: {strikes} Strike Received|Moderator Warnings: {strikes} Strikes Received"
+      warnings: 'Avertissements du modérateur: {strikes} strike reçu|Avertissements du modérateur: {strikes} strikes reçus'
       warnings_no_strikes: 'Avertissements du modérateur: aucun strike reçu'
     warning_list_item:
       linked_post: Message lié
-      list_item_heading: '<strong>{mod_username}</strong> warned with <strong>{strikes}</strong> strike|<strong>{mod_username}</strong> warned with <strong>{strikes}</strong> strikes'
-      list_item_heading_hidden: '<strong>{mod_username}</strong> warned with <strong>{strikes}</strong> strike <strong>(removed)</strong>|<strong>{mod_username}</strong> warned with <strong>{strikes}</strong> strikes <strong>(removed)</strong>'
+      list_item_heading: '<strong>{mod_username}</strong> vous a averti avec <strong>{strikes}</strong> strike|<strong>{mod_username}</strong> vous a averti avec <strong>{strikes}</strong> strikes'
+      list_item_heading_hidden: '<strong>{mod_username}</strong> vous a averti avec <strong>{strikes}</strong> strike <strong>(retiré)</strong>|<strong>{mod_username}</strong> vous a averti avec <strong>{strikes}</strong> strikes <strong>(retiré)</strong>'
       private_comment: Commentaires visibles par le modérateur
       public_comment: Commentaires visibles par l’utilisateur
     warning_modal:
       confirmation_message: Votre avertissement a été enregistré. Vous devrez peut-être actualiser la page pour la voir.
       dismiss_button: Terminé
       heading: 'Avertir <strong>{username}</strong>'
-      no_content_given: Un avertissement vide n'est pas autorisé.
-      private_comment_heading: 'Pourquoi <strong>{username}</strong>reçoit-il ces avertissements? Ces commentaires seront UNIQUEMENT visibles par les autres modérateurs.'
+      no_content_given: Un avertissement vide n’est pas autorisé.
+      private_comment_heading: 'Pourquoi <strong>{username}</strong> reçoit-il ces avertissements? Ces commentaires seront UNIQUEMENT visibles par les autres modérateurs.'
       public_comment_heading: 'Pourquoi <strong>{username}</strong> reçoit-il ces avertissements? Ces commentaires seront visibles par l’utilisateur et les autres modérateurs.'
-      strikes_heading: Combien de strikes doivent être appliquées?
+      strikes_heading: Combien de strikes doivent être appliqués?
       submit_button: Enregistrer l’avertissement
