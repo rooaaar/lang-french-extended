@@ -23,7 +23,7 @@ clarkwinkelmann-who-read:
       unread: Marqué comme non lu
     controls:
       remove-unread: Supprimer les non lus
-      set-unread: Marqué comme non lu
+      set-unread: Marquer comme non lu
     footer:
       read-no-further: '{0} Tout le monde a lu plus loin|{1} Un utilisateur n’a pas lu plus loin|]1,Inf] {count} n’ont pas lu plus loin'
       read-this-post: '{0} Personne n’a lu ce message|{1} Un utilisateur a lu ce message|]1,Inf] {count} ont lu ce message'
