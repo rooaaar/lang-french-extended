@@ -26,4 +26,4 @@ fof-best-answer:
         best_answer_in_discussion: Lorsqu’une meilleure réponse est donnée dans une discussion à laquelle j’ai participé
       select_email_title: Avez-vous réussi à résoudre votre problème?
     remove_best_answer: Désélectionner la meilleure réponse
-    this_best_answer: Sélectionnez la meilleure réponse
+    this_best_answer: Sélectionner la meilleure réponse
