@@ -1,0 +1,29 @@
+fof-best-answer:
+  admin:
+    permissions:
+      best_answer: Sélectionnez la meilleure réponse (sur sa propre discussion)
+      best_answer_not_own_discussion: Sélectionnez la meilleure réponse (pas sur sa propre discussion)
+    settings:
+      allow_select_own_post: Autoriser les utilisateurs à sélectionner leurs propres publications
+      remind_tag_ids: 'Pour restreindre les rappels à des balises particulières, entrez les ID de balise ici (séparés par des virgules)'
+      schedule_log_output: Ajouter la sortie du planificateur au stockage des journaux
+      schedule_on_one_server: Utilisez la directive 'onOneServer ()' pour le planificateur de tâches (nécessite Redis / Memcache)
+      schedule_stop_overnight: Empêcher le planificateur de rappel de s’exécuter pendant les heures non sociales (21h - 8h heure du serveur)
+      select_best_answer_reminder_days: Rappelez aux utilisateurs de sélectionner une meilleure réponse après X jours
+      title: FriendsOfFlarum Best Answer
+      use_alt_ui: Utiliser une disposition alternative (bouton de meilleur réponse dans le pied de page)
+  forum:
+    answered_badge: Répondue
+    best_answer_button: Meilleure réponse
+    best_answer_label: 'sélectionnée par <a>{username}</a> {time_set}'
+    notification:
+      awarded: 'Votre message a été défini comme la meilleure réponse par {username}'
+      awarded_email: Votre message a été défini comme la meilleure réponse par l’utilisateur
+      best_answer_in_discussion: '{username} a défini la meilleure réponse dans cette discussion'
+      content: Veuillez sélectionner la meilleure réponse si une réponse a été apportée à votre question
+      preferences:
+        awarded_best_answer: Quand quelqu’un définit mon message comme meilleure réponse
+        best_answer_in_discussion: Lorsqu’une meilleure réponse est donnée dans une discussion à laquelle j’ai participé
+      select_email_title: Avez-vous réussi à résoudre votre problème?
+    remove_best_answer: Désélectionner la meilleure réponse
+    this_best_answer: Sélectionnez la meilleure réponse

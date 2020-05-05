@@ -36,6 +36,7 @@ matrix:
         - bash scripts/identical/fof-auth-discord.sh
         - bash scripts/identical/fof-auth-gitlab.sh
         - bash scripts/identical/fof-ban-ips.sh
+        - bash scripts/identical/fof-best-answer.sh
         - bash scripts/identical/fof-byobu.sh
         - bash scripts/identical/fof-custom-footer.sh
         - bash scripts/identical/fof-default-group.sh
