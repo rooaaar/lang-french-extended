@@ -63,7 +63,6 @@ php flarum cache:clear
 ---
 ### Flagrow
  - HTML-Errors ([GitHub Repository](https://github.com/flagrow/html-errors) / [Flarum Community](https://discuss.flarum.org/d/10784-custom-html-error-pages))
- - Impersonate ([GitHub Repository](https://github.com/flagrow/impersonate) / [Flarum Community](https://discuss.flarum.org/d/9868-flagrow-impersonate-login-as-other-users))
  - Userlist ([GitHub Repository](https://github.com/flagrow/users-list/) / [Flarum Community](https://discuss.flarum.org/d/6009-flagrow-users-list-review-and-mass-mail-users-of-your-forum))
 
 
@@ -90,6 +89,7 @@ php flarum cache:clear
  - Gamification ([GitHub Repository](https://github.com/FriendsOfFlarum/gamification) / [Flarum Community](https://discuss.flarum.org/d/20671-friendsofflarum-gamification))
  - GeoIP ([GitHub Repository](https://github.com/FriendsOfFlarum/geoip) / [Flarum Community](https://discuss.flarum.org/d/21493-friendsofflarum-geoip))
  - Ignore Users ([GitHub Repository](https://github.com/FriendsOfFlarum/ignore-users) / [Flarum Community](https://discuss.flarum.org/d/20681-friendsofflarum-ignore-users))
+ - Impersonate ([GitHub Repository](https://github.com/FriendsOfFlarum/impersonate) / [Flarum Community](https://discuss.flarum.org/d/9868-fof-impersonate-login-as-other-users))
  - Links ([GitHub Repository](https://github.com/FriendsOfFlarum/links/) / [Flarum Community](https://discuss.flarum.org/d/18335-friendsofflarum-links))
  - Mason ([GitHub Repository](https://github.com/FriendsOfFlarum/mason) / [Flarum Community](https://discuss.flarum.org/d/7028-flagrow-mason-the-discussion-custom-fields-builder))
  - Masquerade ([GitHub Repository](https://github.com/FriendsOfFlarum/masquerade) / [Flarum Community](https://discuss.flarum.org/d/5791-masquerade-by-friendsofflarum-the-user-profile-builder))

@@ -1,4 +1,4 @@
-flagrow-impersonate:
+fof-impersonate:
   admin:
     permissions:
       login: Se connecter en tant que d’autres utilisateurs
