@@ -109,6 +109,7 @@ php flarum cache:clear
   - Sociale Profile ([GitHub Repository](https://github.com/FriendsOfFlarum/socialprofile) / [Flarum Community](https://discuss.flarum.org/d/18775-friendsofflarum-social-profile))
  - Spamblock ([GitHub Repository](https://github.com/FriendsOfFlarum/spamblock) / [Flarum Community](https://discuss.flarum.org/d/17772-friendsofflarum-spamblock))
  - Split ([GitHub Repository](https://github.com/FriendsOfFlarum/split) / [Flarum Community](https://discuss.flarum.org/d/1903-flagrow-split-separates-posts-to-a-new-discussion))
+ - Statistics Widget ([GitHub Repository](https://github.com/FriendsOfFlarum/forum-statistics-widget) / [Flarum Community](https://discuss.flarum.org/d/22380-friendsofflarum-forum-statistics-widget))
  - StopForumSpam ([GitHub Repository](https://github.com/FriendsOfFlarum/stopforumspam) / [Flarum Community](https://discuss.flarum.org/d/17846-friendsofflarum-stopforumspam))
   - Subscribed ([GitHub Repository](https://github.com/FriendsOfFlarum/subscribed) / [Flarum Community](https://discuss.flarum.org/d/20917-friendsofflarum-subscribed/))
  - transliterator ([GitHub Repository](https://github.com/FriendsOfFlarum/transliterator) / [Flarum Community](https://discuss.flarum.org/d/18074-friendsofflarum-url-transliterator))
