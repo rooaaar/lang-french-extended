@@ -1,9 +1,9 @@
 VERSION='master' #Repository version
-REPO='flagrow/html-errors' #Repository name
+REPO='FriendsOfFlarum/html-errors' #Repository name
 LOCALE='locale' #Locale folder
 
 YAML1='en.yml' #Original yaml file
-YAML2='flagrow-html-errors.yml' #Translated yaml file
+YAML2='fof-html-errors.yml' #Translated yaml file
 
 TEMP_DIR=`mktemp -d`
 WORK_DIR=`pwd`
