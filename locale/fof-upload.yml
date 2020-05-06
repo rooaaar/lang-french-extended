@@ -73,6 +73,11 @@ fof-upload:
       local: Local
       ovh-svfs: OVH SVFS
       qiniu: QiNiu
+  api:
+    upload_errors:
+      could_not_detect_mime: 'Impossible de détecter le type MIME de ce fichier, veuillez réessayer.'
+      forbidden_type: Le téléchargement de fichiers de ce type n’est pas autorisé.
+      unsupported_type: 'L’adaptateur de téléchargement ne prend pas en charge le type MIME fourni: {MIME}.'
   forum:
     buttons:
       attach: Joindre
