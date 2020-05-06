@@ -1,0 +1,11 @@
+fof-socialprofile:
+  forum:
+    edit:
+      add: Ajouter
+      delete: Supprimer
+      deletetitle: Bouton de suppression
+      edit: Modifier
+      headtitle: Bouton de modification
+      submit: Enregistrer
+      title: Titre
+      url: URL
