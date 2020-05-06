@@ -23,5 +23,5 @@ matrix:
         email:
           on_failure: change
       script:
-        - for f in scripts/identical/*.sh; do bash "$f" -H done
+        - bash scripts/identical.sh
         - bash scripts/linter.sh
