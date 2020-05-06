@@ -1,0 +1,19 @@
+sycho-profile-cover:
+  admin:
+    cover_size: Taille des images
+    max_size: Taille maximale de l’image de couverture de profil (en Ko)
+    settings: Paramètres de couverture de profil
+    size_of_images: '{size} sur {count} image|{size} sur {count} images'
+    size_of_thumbs:  '{size} sur {count} vignette|{size} sur {count} vignettes'
+    thumb_size: Taille des vignettes
+    thumbnails: Créer des vignettes
+  forum:
+    added:
+      error: l’image n’a pas pu être téléchargée.
+      success: La couverture du profil a été mise à jour.
+    cover: Couverture
+    edit_cover: Modifier la couverture
+    notice: 'Taille maximale: {size}'
+    removed:
+      error: 'Impossible de retirer la couverture, réessayez plus tard.'
+      success: La couverture de profil a été retirée.

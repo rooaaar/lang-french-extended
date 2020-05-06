@@ -163,11 +163,15 @@ php flarum cache:clear
  - Google Login ([GitHub Repository](https://github.com/saleksin/flarum-auth-google) / [Flarum Community](https://discuss.flarum.org/d/18250-google-login))
 
 
+ ---
+ ### SychO9
+
+  - Profile Cover ([GitHub Repository](https://github.com/the-turk/flarum-diff) / [Flarum Community](https://discuss.flarum.org/d/23437-profile-cover))
 
  ---
  ### The Turk
 
-  - Flarum Diff  ([GitHub Repository](https://github.com/the-turk/flarum-diff) / [Flarum Community](https://discuss.flarum.org/d/22779-diff-for-flarum))
+  - Flarum Diff  ([GitHub Repository](https://github.com/SychO9/flarum-profile-cover) / [Flarum Community](https://discuss.flarum.org/d/22779-diff-for-flarum))
 
 
  ---
