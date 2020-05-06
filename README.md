@@ -125,9 +125,8 @@ php flarum cache:clear
   - Mailing ([GitHub Repository](https://github.com/kilowhat/flarum-ext-mailing) / [Flarum Community](https://discuss.flarum.org/d/20443-mailing-by-kilowhat))
 
 
-
 ---
- ### Kvothe
+### Kvothe
 
  - Keyboard ReplyToSee ([GitHub Repository](https://github.com/oaklinq/flarum-ext-reply2see) / [Flarum Community](https://discuss.flarum.org/d/18899-reply-2-see))
  - Keyboard Shortcuts ([GitHub Repository](https://github.com/oaklinq/flarum-ext-keyboard-shortcuts) / [Flarum Community](https://discuss.flarum.org/d/19301-keyboard-shortcuts))
@@ -157,24 +156,31 @@ php flarum cache:clear
  - Level Ranks ([GitHub Repository](https://github.com/ReFlar/level-ranks) / [Flarum Community](https://discuss.flarum.org/d/15052-levels-ranks-by-reflar))
  - Webhooks ([GitHub Repository](https://github.com/reflar/webhooks) / [Flarum Community](https://discuss.flarum.org/d/17812-webhooks-by-reflar))
 
- ---
- ### Saleksin
+---
+### Saleksin
 
  - Google Login ([GitHub Repository](https://github.com/saleksin/flarum-auth-google) / [Flarum Community](https://discuss.flarum.org/d/18250-google-login))
 
 
- ---
- ### SychO9
+---
+### SychO9
 
-  - Profile Cover ([GitHub Repository](https://github.com/the-turk/flarum-diff) / [Flarum Community](https://discuss.flarum.org/d/23437-profile-cover))
-
- ---
- ### The Turk
-
-  - Flarum Diff  ([GitHub Repository](https://github.com/SychO9/flarum-profile-cover) / [Flarum Community](https://discuss.flarum.org/d/22779-diff-for-flarum))
+ - Profile Cover ([GitHub Repository](https://github.com/the-turk/flarum-diff) / [Flarum Community](https://discuss.flarum.org/d/23437-profile-cover))
 
 
- ---
- ### wiwatsrt
+---
+### therealsujitk
+
+ - HighlightJS ([GitHub Repository](https://github.com/therealsujitk/flarum-ext-hljs) / [Flarum Community](https://discuss.flarum.org/d/23229))
+ - GIFs ([GitHub Repository](https://github.com/therealsujitk/flarum-ext-gifs/) / [Flarum Community](https://discuss.flarum.org/d/23101))
+
+---
+### The Turk
+
+ - Flarum Diff  ([GitHub Repository](https://github.com/SychO9/flarum-profile-cover) / [Flarum Community](https://discuss.flarum.org/d/22779-diff-for-flarum))
+
+
+---
+### wiwatsrt
 
  - Best Answer ([GitHub Repository](https://github.com/wiwatsrt/flarum-ext-best-answer) / [Flarum Community](https://discuss.flarum.org/d/3868-select-post-best-answer))
