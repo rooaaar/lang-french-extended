@@ -1,7 +1,7 @@
 fof-recaptcha:
   admin:
     settings:
-      help_text: Obtenez vos informations d'identification Google reCAPTCHA <a>ici</a>.
+      help_text: Obtenez vos informations d’identification Google reCAPTCHA <a>ici</a>.
       secret_key_label: Clé secrète
       site_key_label: Clé du site
       type_label: type de reCAPTCHA

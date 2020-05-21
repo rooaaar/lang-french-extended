@@ -1,14 +1,14 @@
 reflar-doorman:
   admin:
-    doorkey_required: Vous devez fournir un code d'invitation
-    invalid_doorkey: Le code d'invitation que vous avez fourni n'est pas valide.
+    doorkey_required: Vous devez fournir un code d’invitation
+    invalid_doorkey: Le code d’invitation que vous avez fourni n’est pas valide.
     nav:
       desc: Créer des codes d’invitation pour que les utilisateurs puissent s’inscrire et être assignés à un groupe
     page:
       doorkey:
         allow-public:
           switch-label: Rendre le code d’invitation facultatif lors de l’inscription
-          title: Autoriser l'inscription publique
+          title: Autoriser l’inscription publique
         heading:
           activate: Activation de l’utilisateur
           group: Groupe

@@ -1,6 +1,6 @@
 reflar-latex:
   admin:
     settings:
-      prevent_formatting_description: 'Certaines extensions telles que Markdown peuvent formater vos expressions LaTeX avant qu''elles ne soient visualisées sur le forum. En activant cette option, chaque fois que vous enregistrez une publication, toute expression LaTeX sera encapsulée dans un code afin que l''extension Markdown l''ignore.'
+      prevent_formatting_description: 'Certaines extensions telles que Markdown peuvent formater vos expressions LaTeX avant qu’elles ne soient visualisées sur le forum. En activant cette option, chaque fois que vous enregistrez une publication, toute expression LaTeX sera encapsulée dans un code afin que l’extension Markdown l’ignore.'
       prevent_formatting_label: Encapsuler les expressions LaTeX avec du code
-      prevent_formatting_warning: 'Cette option modifie le contenu des publications avant leur enregistrement. Lors de la désactivation ou de l''activation de celle-ci, les expressions précédentes resteront telles quelles jusqu''à la publication de l''article correspondant.'
+      prevent_formatting_warning: 'Cette option modifie le contenu des publications avant leur enregistrement. Lors de la désactivation ou de l’activation de celle-ci, les expressions précédentes resteront telles quelles jusqu’à la publication de l’article correspondant.'

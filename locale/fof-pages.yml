@@ -11,7 +11,7 @@ fof-pages:
       hidden_label: Enregistrer comme brouillon
       html_label: Activer le HTML
       restricted_label: Restreindre l’accès (configurer les personnes autorisées à accéder dans l’onglet Autorisations)
-      set_as_home_page_confirmation: Êtes-vous sûr de vouloir définir cette page comme page d'accueil?
+      set_as_home_page_confirmation: Êtes-vous sûr de vouloir définir cette page comme page d’accueil?
       slug_label: => fof-pages.ref.slug
       slug_placeholder: => fof-pages.ref.slug
       submit_button: => core.ref.save_changes

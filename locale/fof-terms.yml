@@ -9,7 +9,7 @@ fof-terms:
       set-to-now: Définir sur maintenant
     messages:
       delete-policy-confirmation: |
-        Ceci va supprimer de manière permanente la politique {name} et les dates d'acceptation liées de la base de donnée. Vérifiez que vous avez effectué une sauvegarde de ces dates si vous en avez besoin pour des raisons légales. Êtes-vous sûr(e) de vouloir supprimer cette politique ?
+        Ceci va supprimer de manière permanente la politique {name} et les dates d’acceptation liées de la base de donnée. Vérifiez que vous avez effectué une sauvegarde de ces dates si vous en avez besoin pour des raisons légales. Êtes-vous sûr(e) de vouloir supprimer cette politique ?
     permissions:
       export-policies: Exporter toutes les données des conditions
       postpone-policies-accept: Reporter l’acceptation des nouvelles conditions
@@ -25,7 +25,7 @@ fof-terms:
         La date de la dernière mise à jour de la politique. Définir une valeur va obliger tous les utilisateurs qui avaient accepté avant cette date à accepter à nouveau. La date doit être dans le passé (sinon les utilisateurs ne pourraient jamais accepter après la date et passer la fenêtre de mise à jour).
       terms-updated-at-placeholder: 'YYYY-MM-DD (hh:mm:ss)'
       update-message: Message de mise à jour
-      update-message-help: Un message à montrer aux utilisateurs existants qui n'ont pas encore accepté la dernière version de la politique.
+      update-message-help: Un message à montrer aux utilisateurs existants qui n’ont pas encore accepté la dernière version de la politique.
       url: Url
       url-help: Le lien de la page où le visiteur peut lire les conditions. Celle-ci sera ouverte dans un nouvel onglet.
     settings:

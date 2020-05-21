@@ -14,7 +14,7 @@ fof-gamification:
         help: Converti vos "j’aime" précédents en votes positifs et calcule la popularité de toutes les discussions en cours.
       rankings:
         blocked:
-          help: Ces utilisateurs ne seront pas affichés sur la page de classement. Les noms d’utilisateur doivent être séparés par une virgule suivie d'un espace.
+          help: Ces utilisateurs ne seront pas affichés sur la page de classement. Les noms d’utilisateur doivent être séparés par une virgule suivie d’un espace.
           placeholder: 'CDK2020, Ralkage, AngelAvila'
           title: Utilisateurs ignorés
         custom_image_1: Image de la 1ère place
@@ -39,7 +39,7 @@ fof-gamification:
         icon_help: 'Entrez n’importe quelle icône Font-Awesome ayant le suffixe -up et -down. Exemples: flèche, pouce, chevron'
         icon_name: Icône de vote positif/négatif
         points_placeholder: 'Points: '
-        points_title: Points d'espace réservé
+        points_title: Points d’espace réservé
         rate_limit: Appliquer une limite de taux de vote (10 secondes)
         title: Votes
         vote_color: Couleur votée

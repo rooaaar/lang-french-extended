@@ -29,7 +29,7 @@ clarkwinkelmann-who-read:
       read-this-post: '{0} Personne n’a lu ce message|{1} Un utilisateur a lu ce message|]1,Inf] {count} ont lu ce message'
       read-to-end: '{0} Personne n’a lu jusqu’au bout|{1} Un utilisateur a lu jusqu’à la fin|]1,Inf] {count} utilisateurs ont lu jusqu’à la fin'
     modal:
-      behind: Utilisateurs qui n'ont pas lu jusqu’à la fin
+      behind: Utilisateurs qui n’ont pas lu jusqu’à la fin
       past-this-post: Utilisateurs ayant lu après ce message
       title: Lecteurs
       to-the-end: Utilisateurs qui ont lu jusqu’à la fin
