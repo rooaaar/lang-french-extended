@@ -4,7 +4,7 @@ fof-moderator-notes:
       createnotes: Créer des notes de modérateur
       viewnotes: Afficher les notes du modérateur
   api:
-    auto-note: J’ai utilisé FoF Impersonate pour basculer à cet utilisateur
+    auto-note: J’ai utilisé FoF Impersonate pour incarner cet utilisateur
     auto-note-actor: FoF Impersonate a été utilisé pour incarner 'username'
   forum:
     moderatorNotes:
