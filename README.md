@@ -36,6 +36,7 @@ php flarum cache:clear
 
 ### askvortsov
 
+ - Categories ([GitHub Repository](https://github.com/askvortsov1/flarum-categories) / [Flarum Community](https://discuss.flarum.org/d/23184-flarum-categories))
  - Copy Links ([GitHub Repository](https://github.com/askvortsov1/flarum-copy-links) / [Flarum Community](https://discuss.flarum.org/d/23885-copy-post-and-discussion-links))
 
 
