@@ -25,7 +25,7 @@ php flarum cache:clear
 
 ## Dev-master
 
-Do you want to have the very last translations? Use the *dev-master* branch !
+**Do you want to have the very last translations?** Use the *dev-master* branch !
 
 ```bash
 composer require rooaaar/lang-french-extended:dev-master
@@ -33,6 +33,12 @@ php flarum cache:clear
 ```
 
 ## List of translated third-party extensions
+
+### askvortsov
+
+ - Copy Links ([GitHub Repository](https://github.com/askvortsov1/flarum-copy-links) / [Flarum Community](https://discuss.flarum.org/d/23885-copy-post-and-discussion-links))
+
+
 
 ### Clarkwinkelmann
 
