@@ -4,7 +4,7 @@ fof-split:
       split_discussion_label: Diviser les messages des discussions
   forum:
     modal:
-      new_discussion_label: Précisez le titre de la nouvelle discussion
+      new_discussion_label: Préciser le titre de la nouvelle discussion
       submit_button: Diviser
       title: Diviser la discussion
     post:
