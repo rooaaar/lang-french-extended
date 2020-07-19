@@ -14,7 +14,7 @@
     "flarum/core": "^0.1.0-beta.13"
   },
   "suggest": {
-    "milescellar/lang-french": "French language pack for Flarum and its bundled extensions."
+    "qiaeru/lang-french": "French language pack for Flarum and its bundled extensions."
   },
   "support": {
     "issues": "https://github.com/rooaaar/lang-french-extended/issues",
