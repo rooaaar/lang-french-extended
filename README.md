@@ -149,6 +149,11 @@ php flarum cache:clear
  - Profile views ([GitHub Repository](https://github.com/MichaelBelgium/flarum-profile-views/) / [Flarum Community](https://discuss.flarum.org/d/7596-profile-views))
 
 
+ ---
+### Nearata
+
+ - Copy Code to Clipboard ([GitHub Repository](https://github.com/Nearata/flarum-ext-copy-code-to-clipboard) / [Flarum Community](https://discuss.flarum.org/d/24852-copy-code-to-clipboard))
+
 
  ---
 ### NomisCZ
