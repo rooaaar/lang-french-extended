@@ -20,7 +20,7 @@ michaelbelgium-discussion-views:
       resetviews_button: Définir le nombre de vues
     modal_resetviews:
       label: Définir le nombre de vues
-      submit: Soumettre
+      submit_button: Oui, tout supprimer
       title: Réinitialiser le compteur de vues
     viewlist:
       title: Derniers visiteurs
