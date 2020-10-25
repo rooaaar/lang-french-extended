@@ -3,6 +3,10 @@ fof-upload:
     buttons:
       save: Enregistrer les paramètres
     help_texts:
+      client_extension: |
+        Par défaut, Upload choisira une extension de fichier sûre en fonction du type MIME.
+         Pour certains types de fichiers basés sur des données ZIP ou binaires, cela peut entraîner l’utilisation d’extensions génériques au lieu de celles attendues.
+         Ici, vous pouvez entrer une liste d’extensions de fichiers séparées par des virgules qui seront conservées textuellement.
       description: |
         Configurez les services de téléchargement et les préférences.
       disable-download-logging: |
@@ -24,6 +28,8 @@ fof-upload:
         region: Région
         secret: Secret
         title: Paramètres de stockage AWS S3
+      client_extension:
+        title: Extensions de fichier fournies par l'utilisateur
       disable-download-logging:
         title: Désactiver la journalisation des téléchargements
         toggle: Désactiver
@@ -67,6 +73,9 @@ fof-upload:
         Affiche l’image complète en ligne. Aucune fonctionnalité de téléchargement, aucune statistique n’est collectée et la protection contre les liens automatiques est ignorée.
       image_description: |
         Affiche une miniature de l’image et le téléchargement des proxies via php. Permettre la collecte de statistiques et la protection contre les liens automatiques (hotlink).
+      just-url: Uniquement l’URL
+      just-url_description: |
+        Insère uniquement l’URL. Le rendu peut être géré par d’autres extensions avec une capacité de liaison automatique. Aucune fonctionnalité de téléchargement, aucune statistique n’est collectée et la protection par hotlink est ignorée.
     upload_methods:
       aws-s3: Amazon S3
       imgur: Imgur

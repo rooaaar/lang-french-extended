@@ -3,7 +3,7 @@ core:
     index_sort:
       popular_button: Populaire
       unpopular_button: Unpopulaire
-flarum_discussion_views:
+michaelbelgium-discussion-views:
   admin:
     permissions:
       can_reset_views: Réinitialiser les vues d’une discussion

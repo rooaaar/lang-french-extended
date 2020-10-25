@@ -2,6 +2,15 @@ reflar-doorman:
   admin:
     doorkey_required: Vous devez fournir un code d’invitation
     invalid_doorkey: Le code d’invitation que vous avez fourni n’est pas valide.
+    modal:
+      group: 'Envoi des invitations pour le groupe {group}'
+      help: 'Accepte une liste séparée par des virgules, des espaces ou des espaces par des virgules. Tapez un e-mail individuel ou collez une liste, puis appuyez sur espace pour l’ajouter.'
+      invalid_emails: 'Les e-mails suivants ne sont pas valides: {emails}'
+      max_use_conflict: Le nombre d’e-mails dépasse le nombre maximal d’utilisations de ce code.
+      placeholder: Saisissez vos e-mails ici
+      send: Envoyer les emails
+      success: E-mails envoyés avec succès
+      title: Envoyer des codes d’invitation
     nav:
       desc: Créer des codes d’invitation pour que les utilisateurs puissent s’inscrire et être assignés à un groupe
     page:
@@ -26,6 +35,15 @@ reflar-doorman:
         warning: Ce code d’invitation a déjà été utilisé trop de fois.
       title: Doorman
   forum:
+    email:
+      body: |
+        Bonjour,
+         Vous avez été invité à vous inscrire sur {forum}.
+         Lorsque vous êtes prêt à créer votre compte, cliquez simplement sur le lien suivant et entrez le code lors de votre inscription:
+         URL: {url}
+         Code d'invitation: {code}
+         Si vous avez reçu ce message par erreur, veuillez ignorer cet e-mail.
+      subject: Invitation à nous rejoindre
     sign_up:
       doorkey_required: S’il vous plaît entrer un code d’invitation.
       doorman_placeholder: Code d’invitation

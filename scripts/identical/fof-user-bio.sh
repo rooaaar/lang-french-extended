@@ -3,7 +3,7 @@ REPO='FriendsOfFlarum/user-bio' #Repository name
 LOCALE='resources/locale' #Locale folder path
 
 YAML1='en.yml' #Original yaml file
-YAML2='fof-userbio.yml' #Translated yaml file
+YAML2='fof-user-bio.yml' #Translated yaml file
 
 TEMP_DIR=`mktemp -d`
 WORK_DIR=`pwd`
