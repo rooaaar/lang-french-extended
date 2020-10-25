@@ -33,6 +33,7 @@ fof-gamification:
         title: Rangs
       save_settings: Enregistrer les paramètres
       votes:
+        alternate_layout: Utiliser une autre mise en page pour afficher et / ou faire des votes positifs / négatifs
         auto_upvote: Attribuer automatiquement un vote positif lorsqu’un message est publié
         color_holder: '#ffffff'
         discussion_page: Afficher le nombre total de votes du message original sur la liste de discussion
@@ -50,7 +51,6 @@ fof-gamification:
   forum:
     mod_item: Voir les votants
     modal:
-      downvotes_label: 'Votants négatifs:'
       title: Votants
       upvotes_label: 'Votants positifs:'
     nav:

@@ -1,16 +1,33 @@
 fof-follow-tags:
+  admin:
+    settings:
+      following_all_label: => fof-follow-tags.ref.filtering_options.all
+      following_none_label: => fof-follow-tags.ref.filtering_options.none
+      following_page_default_label: Filtrage par défaut des suivis
+      following_tags_label: => fof-follow-tags.ref.filtering_options.tags
+      title: FriendsOfFlarum Follow Tags
   email:
     newDiscussionInTag: '[Tag | New Discussion] title'
+    newDiscussionTag: '[Tag | New Discussion] title'
     newPostInTag: '[Tag | New Post] title'
   forum:
+    badge:
+      following_tag_tooltip: Suivi
+      lurking_tag_tooltip: Caché
     index:
       follow_tag_button: Suivre
+      following:
+        following_all_label: => fof-follow-tags.ref.filtering_options.all
+        following_none_label: => fof-follow-tags.ref.filtering_options.none
+        following_tags_label: => fof-follow-tags.ref.filtering_options.tags
       unfollow_tag_button: Ne plus suivre
     notifications:
+      new_discussion_tag_text: '{username} a changé l’étiquette'
       new_discussion_text: '{username} a démarré'
       new_post_text: '{username} a publié'
     settings:
       notify_new_discussion_label: Quelqu’un créé une discussion avec une étiquette que je suis
+      notify_new_discussion_tag_label: Quelqu’un a re-étiquetté une discussion que je suis
       notify_new_post_label: Quelqu’un publie un message avec une étiquette que je suis
     sub_controls:
       follow_button: => fof-follow-tags.ref.follow
@@ -26,7 +43,15 @@ fof-follow-tags:
       not_following_text: Soyez averti seulement quand vous êtes @mentionné.
       notify_alert_tooltip: Recevez une notification lorsqu’il y a de nouvelles discussions ou de nouveaux messages
       notify_email_tooltip: Recevez un e-mail lorsqu’il y a de nouvelles discussions ou de nouveaux messages
+    user:
+      settings:
+        filter_label: Que montrer par défaut dans la page de suivi
+        heading: Suivre les étiquettes
   ref:
+    filtering_options:
+      all: Tout ce que vous suivez
+      none: Discussions suivies
+      tags: Étiquettes suivies
     follow: Suivre
     following: Suivie
     hiding: Cachée

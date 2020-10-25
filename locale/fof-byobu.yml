@@ -9,8 +9,11 @@ fof-byobu:
       make_private_into_public: Transformer une discussion privée en une discussion publique
       view_private_discussions-when-flagged: Afficher les discussions privées des autres utilisateurs qui ont été signalées
     settings:
+      byobu_index: Afficher un lien vers les discussions privées sur la page d'index
+      byobu_index_help: 'Lorsque cette option est activée, un lien vers les discussions privées sera affiché dans le menu de navigation principal'
       use_tag_slug: Spécifiez le slug de la balise pour forcer toutes les discussions privées dans
       use_tag_slug_help: 'Laisser vide pour permettre aux utilisateurs de sélectionner leur propre balise, s’applique uniquement aux discussions privées nouvellement créées'
+      use_tag_slug_no_restriction: '- Aucune restriction -'
   forum:
     badges:
       is_private:
@@ -46,9 +49,11 @@ fof-byobu:
       pd_added_label: Quelqu’un m’ajoute à une discussion privée existante
       pd_added_text: '{username} vous a ajouté à une discussion privée'
       pd_label: Quelqu’un m’a inclus dans une discussion privée
+      pd_made_public_label: Une discussion privée a été rendue publique
+      pd_made_public_text: '{username} a rendu la discussion publique'
       pd_reply_label: Quelqu’un a posté dans une discussion privée dont je suis le destinataire
       pd_reply_text: '{username} a posté dans une discussion privée dont vous faites partie'
-      pd_text: 'a démarré une nouvelle discussion privée avec vous'
+      pd_text: a démarré une nouvelle discussion privée avec vous
       pd_user_left_label: Un utilisateur destinataire quitte une discussion privée dont je fais partie
       pd_user_left_text: '{username} a quitté la discussion privée'
     post:
@@ -66,6 +71,8 @@ fof-byobu:
       settings:
         block_pd: Bloquer les discussions privées
   notifications:
+    made_public:
+      title: '[Private Discussion] un utilisateur a rendu la discussion publique'
     private_discussion_added:
       title: '[Private Discussion] un utilisateur vous a ajouté à une discussion privée'
     private_discussion_created:

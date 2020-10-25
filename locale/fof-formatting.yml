@@ -7,3 +7,5 @@ fof-formatting:
       HTMLEntities: Utiliser des entités HTML
       MediaEmbed: Intégrer du contenu de sites autorisés
       PipeTables: Tables en ASCII
+      TaskLists: Listes de tâches variées de GitHub/GitLab
+    title: FriendsOfFlarum Formatting
