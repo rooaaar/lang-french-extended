@@ -8,6 +8,8 @@ fof-drafts:
       schedule_log_output: Append scheduler output to log storage
       schedule_on_one_server: Use 'onOneServer()' directive for the task scheduler (requires Redis/Memcache)
       title: FoF Drafts
+  console:
+    scheduled_drafts_disabled: Les brouillons planifiés sont actuellement désactivés dans les paramètres.
   forum:
     composer:
       discard_empty_draft_alert: Supprimer le brouillon vide?

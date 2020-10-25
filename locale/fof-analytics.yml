@@ -6,7 +6,9 @@ fof-analytics:
         title: Analyses
     popup:
       field:
+        googleGTMCode: ID de code GTM (facultatif)
         googleTrackingCode: Code de suivi
+        optTrackingCode: Optimiser le code de suivi (facultatif)
         piwikAliasUrl: URL d’alias
         piwikAuthToken: Jeton d’authentification
         piwikHideAliasUrl: 'Dans le rapport « Liens externes », masquer les clics sur les URL d’alias connues'
