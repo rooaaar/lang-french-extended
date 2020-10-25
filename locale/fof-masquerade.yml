@@ -54,8 +54,8 @@ fof-masquerade:
       view-profile: Voir le profil
     fields:
       boolean:
-        'no': Non
-        'yes': Oui
+        no: Non
+        yes: Oui
       select:
         none-optional: Aucune option sélectionnée (facultatif)
         none-required: Veuillez sélectionner une option (obligatoire)
