@@ -6,15 +6,15 @@ core:
 michaelbelgium-discussion-views:
   admin:
     permissions:
-      can_reset_views: Réinitialiser les vues d’une discussion
-      can_view_number: Afficher le nombre de vues d’une discussion
+      reset_views_label: Réinitialiser les vues d’une discussion
+      view_number_label: Afficher le nombre de vues d’une discussion
     settings:
-      abbr_numbers: Numéros de vue abrégés
-      max_viewcount: Nombre maximal d’éléments dans la liste de visualisation
-      show_filter: Activer le champ de tri inpopulaire
-      show_viewlist: Activer la liste de visualisation
+      abbr_numbers_label: Numéros de vue abrégés
+      max_viewcount_label: Nombre maximal d’éléments dans la liste de visualisation
+      show_filter_label: Activer le champ de tri impopulaire
+      show_viewlist_label: Activer la liste de visualisation
       title: Paramètres des vues de discussion
-      track_unique: Suivi des vues uniques
+      track_unique_label: Suivi des vues uniques
   forum:
     discussion_controls:
       resetviews_button: Définir le nombre de vues

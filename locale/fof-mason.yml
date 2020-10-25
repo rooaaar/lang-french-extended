@@ -5,6 +5,8 @@ fof-mason:
       add-field: Ajouter le champ
       delete-answer: Supprimer la réponse
       delete-field: Supprimer le champ
+      edit-answer: Modifier la réponse
+      edit-answer-prompt: Modifier le contenu partout où il est utilisé
       edit-field: Cliquez pour éditer le champ
       new-field: Nouveau champ
       save-answer: Enregistrer les modifications de réponse
@@ -22,11 +24,10 @@ fof-mason:
         Affiche une icône devant les valeurs entrées par l’utilisateur. Pour une référence des icônes disponibles, consultez le <a>site FontAwesome</a>. Utilisez le nom complet de la classe d’icônes, y compris le préfixe, par exemple "fas fa-bolt"
       icon-preview: 'Aperçu: {preview}'
       is_suggested: Proposer une réponse aux utilisateurs
-      max_answers_count: Nombre maximum de réponses autorisées
-      min_answers_count: Minimum requis de réponses
       name: Nom du champ
       name-help: |
         L’étiquette de champ visible publiquement (non traduisible).
+      new-answer: Nouvelle réponse
       new-answer-placeholder: Du texte
       required: Champs obligatoires
       save-field-for-answers: Enregistrez le champ pour ajouter des réponses
@@ -74,6 +75,8 @@ fof-mason:
       tags-field-name: Libellé du champ d’étiquettes
       tags-field-name-placeholder: => flagrow-mason.forum.tags.tags-label
     titles:
+      field-answers: Réponses de champs
+      field-settings: Paramètres de champs
       fields: Champs
       settings: Réglages
   forum:

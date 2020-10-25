@@ -1,5 +1,10 @@
 michaelbelgium-flarum-profile-views:
+  admin:
+    settings:
+      max_viewcount_label: Éléments maximum de la liste des visiteurs
+      title: Paramètres Profileviews
+      track_guests_label: Suivre les invités
   forum:
     user:
-      title_last_viewers: Derniers visiteurs
-      views_count_text: 'Profil vu {viewcount} fois'
+      last_viewers_heading: Derniers visiteurs
+      view_count_text: 'vu {viewcount} fois | vu {viewcount} fois'

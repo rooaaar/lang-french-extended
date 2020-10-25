@@ -1,35 +1,35 @@
 reflar-webhooks:
   actions:
     discussion:
-      deleted: 'Discussion supprimée `{1}`'
-      hidden: 'Discussion cachée `{1}`'
+      deleted: 'Discussion supprimée {1}'
+      hidden: 'Discussion cachée {1}'
       renamed:
         description: 'Nouveau titre: {1}'
-        title: 'Discussion renommée `{1}`'
-      restored: 'Discussion restaurée `{1}`'
-      started: 'Discussion démarrée `{1}`'
+        title: 'Discussion renommée {1}'
+      restored: 'Discussion restaurée {1}'
+      started: 'Discussion démarrée {1}'
     group:
-      created: 'Groupe `{1}` créé'
-      deleted: 'Groupe {1} `supprimé'
-      renamed: 'Renommé un groupe en `{1}`'
+      created: 'Groupe {1} créé'
+      deleted: 'Groupe {1} supprimé'
+      renamed: 'Renommé un groupe en {1}'
     post:
-      deleted: 'Message supprimé dans `{1}`'
-      hidden: 'Message caché dans `{1}`'
-      posted: 'Nouveau message dans `{1}`'
-      restored: 'Message restauré dans `{1}`'
-      revised: 'Message édité dans `{1}`'
+      deleted: 'Message supprimé dans {1}'
+      hidden: 'Message caché dans {1}'
+      posted: 'Nouveau message dans {1}'
+      restored: 'Message restauré dans {1}'
+      revised: 'Message édité dans {1}'
     user:
-      deleted: 'Utilisateur supprimé `{1}`'
+      deleted: 'Utilisateur supprimé {1}'
       registered: Nouvel utilisateur enregistré
       renamed:
         description: 'Nouveau nom d’utilisateur: {1}'
-        title: 'Nom d’utilisateur modifié de `{1}`'
+        title: 'Nom d’utilisateur modifié de {1}'
   adapters:
     errors:
       '404': Webhook introuvable
   admin:
     errors:
-      service_not_found: 'Le service ''{service}'' ne peut être trouvé.'
+      service_not_found: 'Le service {service} ne peut être trouvé.'
       url_invalid: L’URL n'est pas valide pour le service sélectionné.
     nav:
       desc: Webhooks sortants personnalisables pour votre forum.

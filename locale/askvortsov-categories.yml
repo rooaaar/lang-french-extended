@@ -20,6 +20,7 @@ askvortsov-categories:
       small_forum_optimized: 'Optimiser pour les petits forums? Cela donnera des comptes de discussion / publication plus précis, mais ralentira considérablement les forums moyens et grands.'
     title: Paramètres des catégories
   forum:
+    categories:
     header:
       back_to_categories_tooltip: Retour aux catégories
     index:
