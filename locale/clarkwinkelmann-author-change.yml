@@ -1,7 +1,8 @@
 clarkwinkelmann-author-change:
   admin:
     permissions:
-      edit: Mettre à jour l’auteur d’une discussion ou d’un message
+      edit-user: Mettre à jour la discussion et l'auteur du message
+      edit-date: Mettre à jour la discussion et la date de publication
   forum:
     controls:
       edit: Modifier l’auteur
@@ -10,6 +11,9 @@ clarkwinkelmann-author-change:
       submit: Sauvegarder
       title-discussion: Modifier l’auteur de la discussion
       title-post: Modifier l’auteur du message
+      user: Auteur
+      created_at: Temps de création
+      edited_at: Modifier l’heure
     search:
       no-results: Aucun résultat
       placeholder: Rechercher des utilisateurs
