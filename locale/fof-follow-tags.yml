@@ -1,7 +1,6 @@
 fof-follow-tags:
   admin:
     settings:
-      following_all_label: => fof-follow-tags.ref.filtering_options.all
       following_none_label: => fof-follow-tags.ref.filtering_options.none
       following_page_default_label: Filtrage par défaut des suivis
       following_tags_label: => fof-follow-tags.ref.filtering_options.tags
@@ -17,7 +16,6 @@ fof-follow-tags:
     index:
       follow_tag_button: Suivre
       following:
-        following_all_label: => fof-follow-tags.ref.filtering_options.all
         following_none_label: => fof-follow-tags.ref.filtering_options.none
         following_tags_label: => fof-follow-tags.ref.filtering_options.tags
       unfollow_tag_button: Ne plus suivre
@@ -49,7 +47,6 @@ fof-follow-tags:
         heading: Suivre les étiquettes
   ref:
     filtering_options:
-      all: Tout ce que vous suivez
       none: Discussions suivies
       tags: Étiquettes suivies
     follow: Suivre

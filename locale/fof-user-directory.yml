@@ -3,23 +3,28 @@ fof-user-directory:
     permissions:
       view_user_directory: Voir le répertoire utilisateur
     settings:
+      default-sort: Tri par défaut
       link: Ajouter un lien sur la page d’accueil pour les utilisateurs pouvant voir le répertoire
       title: Paramètres du répertoire utilisateur
   forum:
     page:
+      empty_text: Nous n’avons trouvé aucun utilisateur correspondant à votre recherche.
+      load_more_button: => core.ref.load_more
       nav: Répertoire utilisateurs
-      sort:
-        default: Par défaut
-        least_discussions: Le moins de discussions
-        least_posts: Le moins de messages
-        most_discussions: Le plus de discussions
-        most_posts: Le plus de messages
-        newest: Le plus récent
-        oldest: Le plus ancien
-        relevance: Pertinence
-        seen_oldest: Connexion ancienne
-        seen_recent: Connexion récente
-        username_az: Nom d’utilisateur (a-z)
-        username_za: Nom d’utilisateur (z-a)
+      refresh_tooltip: => core.forum.index.refresh_tooltip
     search:
       users_heading: 'Rechercher tous les utilisateurs pour "{query}"'
+  lib:
+    sort:
+      default: Par défaut
+      least_discussions: Le moins de discussions
+      least_posts: Le moins de messages
+      most_discussions: Le plus de discussions
+      most_posts: Le plus de messages
+      newest: Le plus récent
+      not_specified: Utiliser Flarum par défaut
+      oldest: Le plus ancien
+      seen_oldest: Hors-ligne depuis longtemps
+      seen_recent: Récemment en ligne
+      username_az: Nom d’utilisateur (a-z)
+      username_za: Nom d’utilisateur (z-a)

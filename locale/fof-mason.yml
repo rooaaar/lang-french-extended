@@ -42,6 +42,7 @@ fof-mason:
     menu:
       description: |
         Configurez des champs de discussion personnalisés.
+      title: Mason
     messages:
       delete-answer-confirmation: |
         Êtes-vous sûr de vouloir supprimer la réponse "{content}" ? Il sera supprimé de toutes les discussions qui l’utilisent. Si vous souhaitez conserver les réponses existantes, désactivez plutôt la suggestion de réponse. Supprimer la réponse?
