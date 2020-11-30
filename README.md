@@ -44,6 +44,7 @@ php flarum cache:clear
 ### Clarkwinkelmann
 
  - Author change ([GitHub Repository](https://github.com/clarkwinkelmann/flarum-ext-author-change) / [Flarum Community](https://discuss.flarum.org/d/21731-discussion-and-post-author-change))
+ - Mailing ([GitHub Repository](https://github.com/clarkwinkelmann/flarum-ext-mailing/) / [Flarum Community](https://discuss.flarum.org/d/20443-mailing))
  - Who Read ([GitHub Repository](https://github.com/clarkwinkelmann/flarum-ext-who-read) / [Flarum Community](https://discuss.flarum.org/d/23066-who-read))
 
 
@@ -125,13 +126,6 @@ php flarum cache:clear
  - User Directory ([GitHub Repository](https://github.com/FriendsOfFlarum/user-directory) / [Flarum Community](https://discuss.flarum.org/d/5682-user-directory-by-friendsofflarum))
  - Username Request ([GitHub Repository](https://github.com/FriendsOfFlarum/username-request) / [Flarum Community](https://discuss.flarum.org/d/20956-friendsofflarum-username-request))
  - Terms ([GitHub Repository](https://github.com/FriendsOfFlarum/terms) / [Flarum Community](https://discuss.flarum.org/d/11714-fof-terms-ask-your-users-to-accept-tos-and-privacy-policy))
-
-
- ---
-  ### KILOWHAT
-
-  - Mailing ([GitHub Repository](https://github.com/kilowhat/flarum-ext-mailing) / [Flarum Community](https://discuss.flarum.org/d/20443-mailing-by-kilowhat))
-
 
 ---
 ### Kvothe

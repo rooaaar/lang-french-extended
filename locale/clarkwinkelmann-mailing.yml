@@ -1,4 +1,4 @@
-kilowhat-mailing:
+clarkwinkelmann-mailing:
   admin:
     permissions:
       mail_all: Envoyer des emails à tous les utilisateurs

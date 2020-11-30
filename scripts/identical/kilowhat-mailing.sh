@@ -1,9 +1,9 @@
 VERSION='master' #Repository version
-REPO='kilowhat/flarum-ext-mailing' #Repository name
+REPO='clarkwinkelmann/flarum-ext-mailing' #Repository name
 LOCALE='resources/locale' #Locale folder
 
 YAML1='en.yml' #Original yaml file
-YAML2='kilowhat-mailing.yml' #Translated yaml file
+YAML2='clarkwinkelmann-mailing.yml' #Translated yaml file
 
 TEMP_DIR=`mktemp -d`
 WORK_DIR=`pwd`
