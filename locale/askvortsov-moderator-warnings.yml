@@ -4,6 +4,15 @@ askvortsov-moderator-warnings:
       delete_warnings: Supprimer définitivement les avertissements du modérateur
       manage_warnings: Créer et supprimer des avertissements du modérateur
       view_warnings: Afficher les avertissements du modérateur
+  emails:
+    post_warned:
+      body: |
+        Salut {warnee_display_name}!
+         {warner_display_name} vous a averti pour {strikes} dans {discussion_title}
+         La raison suivante a été invoquée:
+         ---
+         {public_comment}
+      subject: '{warner_display_name} warned you with {strikes} strikes in {discussion_title}'
   forum:
     notifications:
       warning_no_strikes_text: 'Vous avez été averti par {mod_username} (aucun strike)'

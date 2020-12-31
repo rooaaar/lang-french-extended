@@ -1,9 +1,5 @@
 fof-analytics:
   admin:
-    page:
-      nav:
-        description: Jetez un coup d’œil aux statistiques
-        title: Analyses
     popup:
       field:
         googleGTMCode: ID de code GTM (facultatif)
@@ -26,7 +22,6 @@ fof-analytics:
       section:
         googleAnalytics: Google Analytics
         piwik: Piwik
-      title: Paramètres d’Analytics
       trackAccounts:
         email: Suivre par courriel
         none: Ne pas suivre

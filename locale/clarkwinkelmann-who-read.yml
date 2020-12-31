@@ -1,7 +1,6 @@
 clarkwinkelmann-who-read:
   admin:
     permissions:
-      heading: Who read
       mark-unread: Marquer les discussions comme non lues par soi-même
       see-read: Voir le statut de lecture
       see-subscription: Voir le statut de l’abonnement
@@ -14,7 +13,6 @@ clarkwinkelmann-who-read:
       show-count-of-readers-who-stopped: Afficher le nombre d’utilisateurs qui ont arrêté de lire au lieu du total lu entre les messages
       show-in-discussion-list: Afficher les lecteurs dans la liste de discussion
       show-in-hero: Afficher les lecteurs dans le hero de discussion
-      title: Paramètres de Who read
       unread-icon: Icône pour le badge non lu
   forum:
     badges:
