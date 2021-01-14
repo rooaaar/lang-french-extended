@@ -135,6 +135,11 @@ php flarum cache:clear
  - Signup Button ([GitHub Repository](https://github.com/oaklinq/flarum-signup-button) / [Flarum Community](https://discuss.flarum.org/d/18812-sign-up-button/))
 
 
+ ---
+### Kyrne
+
+ - Shout ([GitHub Repository](https://github.com/KyrneDev/Shout-public) / [Flarum Community](https://discuss.flarum.org/d/24073-shout-private-messaging-for-flarum))
+
 
 ---
 ### MichaelBelgium
