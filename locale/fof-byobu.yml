@@ -6,7 +6,6 @@ fof-byobu:
       create_private_discussions_with_users: Créer des discussions privées avec des utilisateurs
       edit_group_recipients: Modifier les groupes participant à des discussions privées
       edit_user_recipients: Modifier les utilisateurs participant à des discussions privées
-      make_private_into_public: Transformer une discussion privée en une discussion publique
       view_private_discussions-when-flagged: Afficher les discussions privées des autres utilisateurs qui ont été signalées
     settings:
       badge-icon: Badge de discussion Byobu
@@ -50,7 +49,6 @@ fof-byobu:
       add_recipients: Destinataires
       cancel: Annuler
       edit_recipients: Modifier les destinataires
-      make_public: Rendre cette discussion publique
       remove_from_discussion: Quitter cette discussion privée
       send_pd: 'Envoyer un message à {username}'
       submit: Envoyer
@@ -78,8 +76,6 @@ fof-byobu:
       pd_added_label: Quelqu’un m’ajoute à une discussion privée existante
       pd_added_text: '{username} vous a ajouté à une discussion privée'
       pd_label: Quelqu’un m’a inclus dans une discussion privée
-      pd_made_public_label: Une discussion privée a été rendue publique
-      pd_made_public_text: '{username} a rendu la discussion publique'
       pd_reply_label: Quelqu’un a posté dans une discussion privée dont je suis le destinataire
       pd_reply_text: '{username} a posté dans une discussion privée dont vous faites partie'
       pd_text: a démarré une nouvelle discussion privée avec vous
@@ -100,14 +96,3 @@ fof-byobu:
       settings:
         block_pd: Bloquer les discussions privées
         unified_index: Combinez des discussions privées dans un index unifié
-  notifications:
-    made_public:
-      title: '[Private Discussion] un utilisateur a rendu la discussion publique'
-    private_discussion_added:
-      title: '[Private Discussion] un utilisateur vous a ajouté à une discussion privée'
-    private_discussion_created:
-      title: '[forum-name] Nouvelle discussion privée'
-    private_discussion_replied:
-      title: '[Private Discussion] un utilisateur a posté dans une discussion privée'
-    recipient_removed:
-      title: '[Private Discussion] un utilisateur a quitté la discussion'
