@@ -1,0 +1,25 @@
+askvortsov-saml:
+  admin:
+    header:
+      text: Assurez-vous que l’URL des métadonnées ou les métadonnées sont renseignées.
+    labels:
+      idp_metadata: XML de métadonnées du fournisseur d’identité (alternative à l'URL)
+      idp_metadata_url: URL des métadonnées du fournisseur d’identité (alternative à XML)
+      nameid_format: Format NameID
+      only_option: Utiliser SAML2 SSO comme seule option de connexion?
+      sync_attributes: 'Attributs de synchronisation (avatar, groupes, biographie et profil)? Nécessite l’extension askvortsov / auth-sync.'
+      want_assertions_signed: Vous voulez que les assertions soient signées?
+      want_messages_signed: Vous voulez que les messages soient signés?
+    options:
+      nameid_format:
+        emailAddress: E-mail (par défaut. À utiliser si Persistant n’est pas pris en charge)
+        persistent: Persistant (recommandé si pris en charge)
+        unspecified: Non spécifié
+    title: Configuration SSO SAML2
+  forum:
+    log_in:
+      enable_popups: Activer les fenêtres contextuelles pour se connecter / s’inscrire
+      open_popup: Cliquez ici pour vous identifier
+      with_saml_button: SAML2 SSO
+    sign_up:
+      post_saml_title: Une dernière étape ...
