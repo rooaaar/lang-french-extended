@@ -1,7 +1,7 @@
 fof-recaptcha:
   admin:
-    error: Une erreur s’est produite lors de la soumission de reCAPTCHA. Réessayer.
-    forum: null
+    forum:
+      error: Une erreur s’est produite lors de la soumission de reCAPTCHA. Réessayer.
     permissions:
       post_without_captcha: Créez des messages et des discussions sans captcha
     settings:
