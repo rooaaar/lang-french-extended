@@ -3,6 +3,9 @@ fof-ignore-users:
     permissions:
       can_not_be_ignored_label: Ne peut pas être ignoré
   forum:
+    badge:
+      discussion_label: Démarré par un utilisateur ignoré
+      user_label: Utilisateur ignoré
     profile_link: Utilisateurs ignorés
     user_controls:
       ignore_button: Ignorer
