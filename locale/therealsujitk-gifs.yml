@@ -1,11 +1,7 @@
 therealsujitk:
   admin:
-    about:
-      stringA: 'Extension créée par '
-      stringB: 'Faire un don sur '
     gifs:
       giphyAPIkey: Clé API Giphy
-      title: Paramètres de l’API GIF
   forum:
     gifs:
       label: Insérer le GIF

@@ -1,8 +1,4 @@
 therealsujitk:
   admin:
-    about:
-      stringA: 'Extension créée par '
-      stringB: 'Faire un don sur '
     hljs:
       themename: Nom du thème
-      title: highlight.js
