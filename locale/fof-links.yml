@@ -3,9 +3,11 @@ fof-links:
     edit_link:
       delete_link_button: Supprimer le lien
       delete_link_confirmation: Êtes-vous sûr de vouloir supprimer ce lien?
+      guests-label: Invités
       icon_label: => core.ref.icon
       icon_text: => core.ref.icon_text
       internal_link: Est-ce un lien Flarum?
+      members-label: Utilisateurs enregistrés
       open_newtab: Ouvrir le lien dans un nouvel onglet
       submit_button: => core.ref.save_changes
       title: => fof-links.ref.create_link
@@ -13,13 +15,10 @@ fof-links:
       title_placeholder: => fof-links.ref.title
       url_label: => fof-links.ref.url
       url_placeholder: => fof-links.ref.url
+      visibility: Visibilité du lien
     links:
-      about_text: Gérer les liens du menu principal.
       create_button: => fof-links.ref.create_link
       links: => fof-links.ref.links
-    nav:
-      links_button: => fof-links.ref.links
-      links_text: Gérez les éléments de la liste de navigation principale.
   ref:
     create_link: Créer un lien
     links: Liens

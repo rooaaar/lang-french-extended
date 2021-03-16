@@ -4,8 +4,6 @@ core:
       hot_button: Tendances
 fof-gamification:
   admin:
-    nav:
-      desc: Gamification pour votre communauté Flarum
     page:
       convert:
         button: Convertir les "j’aime" en votes positifs

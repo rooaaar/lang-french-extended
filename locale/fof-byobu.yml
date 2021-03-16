@@ -9,11 +9,39 @@ fof-byobu:
       make_private_into_public: Transformer une discussion privée en une discussion publique
       view_private_discussions-when-flagged: Afficher les discussions privées des autres utilisateurs qui ont été signalées
     settings:
-      byobu_index: Afficher un lien vers les discussions privées sur la page d'index
-      byobu_index_help: 'Lorsque cette option est activée, un lien vers les discussions privées sera affiché dans le menu de navigation principal'
-      use_tag_slug: Spécifiez le slug de la balise pour forcer toutes les discussions privées dans
-      use_tag_slug_help: 'Laisser vide pour permettre aux utilisateurs de sélectionner leur propre balise, s’applique uniquement aux discussions privées nouvellement créées'
-      use_tag_slug_no_restriction: '- Aucune restriction -'
+      badge-icon: Badge de discussion Byobu
+      post-event-icon: Événements de publication Byobu
+  email:
+    body:
+      private_discussion_added: |
+        Hey {recipient_display_name},
+        {actor_display_name} vous a ajouté à une discussion privée existante, intitulée '{discussion_title}'.
+        Regardez-le ici:
+        {discussion_url}
+        Vous devrez peut-être vous connecter avant de pouvoir accéder à ce lien.
+      private_discussion_created: |
+        Hey {recipient_display_name},
+        {actor_display_name} a commencé une nouvelle discussion privée avec vous en tant que destinataire, intitulée  '{discussion_title}'.
+        Regardez-le ici:
+        {discussion_url}
+        Vous devrez peut-être vous connecter avant de pouvoir accéder à ce lien.
+      private_discussion_replied: |
+        Hey {recipient_display_name},
+        {actor_display_name} a publié dans une discussion privée avec vous en tant que destinataire, intitulée  '{discussion_title}'.
+        Regardez-le ici:
+        {post_url}
+        Vous devrez peut-être vous connecter avant de pouvoir accéder à ce lien.
+      recipient_removed: |
+        Hey {recipient_display_name},
+        {actor_display_name} a quitté la discussion privée '{discussion_title}'. Il ne pourra plus voir son contenu.
+        Regardez-le ici:
+        {discussion_url}
+        Vous devrez peut-être vous connecter avant de pouvoir accéder à ce lien.
+    subject:
+      private_discussion_added: '[Private Discussion] {display_name} vous a ajouté à une discussion privée'
+      private_discussion_created: '[Private Discussion] {display_name} a commencé une nouvelle discussion privée avec vous'
+      private_discussion_replied: '[Private Discussion] {display_name} a publié dans une discussion privée'
+      recipient_removed: '[Private Discussion] {display_name} a quitté la discussion'
   forum:
     badges:
       is_private:

@@ -12,7 +12,15 @@ askvortsov-moderator-warnings:
          La raison suivante a été invoquée:
          ---
          {public_comment}
-      subject: '{warner_display_name} warned you with {strikes} strikes in {discussion_title}'
+      subject: '{warner_display_name} vous a averti avec {strikes} strikes dans {discussion_title}'
+    user_warned:
+      body: |
+        Hey {warnee_display_name}!
+        {warner_display_name} vous a averti avec {strikes} strikes
+        La raison suivante a été invoquée:
+        ---
+        {public_comment}
+      subject: '{warner_display_name} vous a averti avec {strikes} strikes'
   forum:
     notifications:
       warning_no_strikes_text: 'Vous avez été averti par {mod_username} (aucun strike)'

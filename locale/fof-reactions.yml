@@ -1,7 +1,5 @@
 fof-reactions:
   admin:
-    nav:
-      desc: Ajoutez des réactions personnalisées et modifiez leurs paramètres.
     page:
       convert:
         button: Convertir les anciennes réactions

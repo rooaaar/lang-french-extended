@@ -4,11 +4,33 @@ fof-follow-tags:
       following_none_label: => fof-follow-tags.ref.filtering_options.none
       following_page_default_label: Filtrage par défaut des suivis
       following_tags_label: => fof-follow-tags.ref.filtering_options.tags
-      title: FriendsOfFlarum Follow Tags
   email:
-    newDiscussionInTag: '[Tag | New Discussion] title'
-    newDiscussionTag: '[Tag | New Discussion] title'
-    newPostInTag: '[Tag | New Post] title'
+    body:
+      newDiscussionInTag: |
+        Hey {recipient_display_name},
+        {actor_display_name} a lancé une discussion dans un tag que vous suivez: {discussion_title}
+        Pour afficher la nouvelle discussion, consultez le lien suivant:
+        {discussion_url}
+        ---
+        {post_content}
+      newDiscussionTag: |
+        Hey {recipient_display_name},
+        {actor_display_name} vient de remplacer l’étiquette d’une discussion de {author_display_name} par une étiquette que vous suivez {discussion_title}
+        Pour afficher la nouvelle discussion, consultez le lien suivant:
+        {discussion_url}
+      newPostInTag: |
+        Hey {recipient_display_name},
+        {actor_display_name} a publié dans une discussion sur une étiquette que vous suivez: {discussion_title}
+        Pour voir la nouvelle activité, consultez le lien suivant:
+        {post_url}
+        ---
+        {post_content}
+        ---
+        Vous ne recevrez plus de notifications concernant cette discussion tant que vous ne serez pas à jour.
+    subject:
+      newDiscussionInTag: '[Tag | New Discussion] {title}'
+      newDiscussionTag: '[Tag | Changed Tag] {title}'
+      newPostInTag: '[Tag | New Post] {title}'
   forum:
     badge:
       following_tag_tooltip: Suivi

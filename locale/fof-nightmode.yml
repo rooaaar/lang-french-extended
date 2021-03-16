@@ -4,11 +4,9 @@ fof-nightmode:
       modal:
         default_theme: Thème de forum par défaut
         default_theme_helper: Le thème par défaut est automatiquement défini pour les nouveaux utilisateurs et invités.
-        default_theme_important: Cela affectera également les utilisateurs existants qui n’ont pas sélectionné manuellement un thème!
         theme_auto: => fof-nightmode.ref.auto
         theme_dark: => fof-nightmode.ref.dark
         theme_light: => fof-nightmode.ref.light
-        title: FoF Night Mode
   forum:
     day: => fof-nightmode.ref.light
     night: => fof-nightmode.ref.dark

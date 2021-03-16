@@ -3,6 +3,7 @@ kyrne-shout:
     permissions:
       start_label: Commencer une conversation privée
     settings:
+      return_key: La touche Retour envoie un message
       set_own_password: Laisser les utilisateurs créer leur propre mot de passe - Compatibilité SSO
       title: Paramètres Shout
   forum:

@@ -19,6 +19,7 @@ fof-drafts:
       title: Enregistrer le brouillon
     dropdown:
       alert: Êtes-vous sûr de vouloir supprimer votre brouillon?
+      delete_all_alert: Voulez-vous vraiment supprimer tous vos brouillons?
       delete_button: Supprimer le brouillon
       empty_text: Vous n’avez enregistré aucun brouillon
       schedule_button: Planifier le brouillon

@@ -6,6 +6,31 @@ fof-subscribed:
       subscribe_to_discussion_created: Recevoir une notification lors d’une nouvelle discussion
       subscribe_to_post_unapproved: Autorisé à recevoir des notifications sur les nouveaux messages non approuvés
       subscribe_to_user_created: Recevoir une notification lorsqu’il y a un nouvel utilisateur
+  email:
+    body:
+      newDiscussion: |
+        Hey {recipient_display_name},
+        {actor_display_name} a commencé une nouvelle discussion: {discussion_title}
+        Pour afficher cette nouvelle discussion, consultez le lien suivant:
+        {discussion_url}
+        ---
+        {post_content}
+      newUser: |
+        Hey {recipient_display_name},
+        {actor_display_name}vient de rejoindre {forum_url}.
+        Pour afficher le profil de ce nouvel utilisateur, consultez le lien suivant:
+        {user_url}
+      postUnapproved: |
+        Hey {recipient_display_name},
+        {actor_display_name} a créé un message qui n’a pas été automatiquement approuvé dans {discussion_title}
+        Pour voir ce nouveau message, consultez le lien suivant:
+        {post_url}
+        ---
+        {post_content}
+    subject:
+      newDiscussion: '[Subscribed | New Discussion] {title}'
+      newUser: '[Subscribed | New User] {username}'
+      postUnapproved: '[Subscribed | Unapproved] {username} a publié {title}'
   forum:
     notifications:
       discussion_created_text: '{username} a créé une discussion'

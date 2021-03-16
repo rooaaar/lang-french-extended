@@ -2,7 +2,6 @@ fof-secure-https:
   admin:
     settings:
       replace: Procurer les images via HTTPS
-      title: Configuration
   forum:
     removed: Image supprimée en raison de l’absence de connexion sécurisée via HTTPS.
     show: Afficher quand même

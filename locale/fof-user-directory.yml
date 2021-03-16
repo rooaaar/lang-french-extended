@@ -5,14 +5,18 @@ fof-user-directory:
     settings:
       default-sort: Tri par défaut
       link: Ajouter un lien sur la page d’accueil pour les utilisateurs pouvant voir le répertoire
-      title: Paramètres du répertoire utilisateur
   forum:
+    header:
+      back_to_user_directory_tooltip: Retour au répertoire des utilisateurs
     page:
       empty_text: Nous n’avons trouvé aucun utilisateur correspondant à votre recherche.
+      filter_button: Groupes de filtres
       load_more_button: => core.ref.load_more
       nav: Répertoire utilisateurs
       refresh_tooltip: => core.forum.index.refresh_tooltip
     search:
+      field:
+        placeholder: Rechercher tous les utilisateurs
       users_heading: 'Rechercher tous les utilisateurs pour "{query}"'
   lib:
     sort:

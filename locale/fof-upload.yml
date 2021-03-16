@@ -7,6 +7,8 @@ fof-upload:
         Par défaut, Upload choisira une extension de fichier sûre en fonction du type MIME.
          Pour certains types de fichiers basés sur des données ZIP ou binaires, cela peut entraîner l’utilisation d’extensions génériques au lieu de celles attendues.
          Ici, vous pouvez entrer une liste d’extensions de fichiers séparées par des virgules qui seront conservées textuellement.
+      composer_buttons: |
+        Par défaut, le bouton du gestionnaire de médias et le bouton de téléchargement sont visibles. Vous pouvez également choisir d’afficher un seul bouton.
       disable-download-logging: |
         Désactivez la journalisation de chaque téléchargement effectué par les utilisateurs de votre forum. Le laisser activé vous permet d’afficher le nombre de téléchargements et d’autres statistiques dans un avenir proche.
       disable-hotlink-protection: |
@@ -17,15 +19,23 @@ fof-upload:
         Veuillez configurer votre cartographie ici. Chaque expression régulière de type mime sera gérée par un adaptateur de téléchargement et un modèle de téléchargement spécifiques.
       resize: |
         Choisissez si vous souhaitez redimensionner vos images avant leur téléchargement. Vous pouvez choisir une largeur et une hauteur maximales, en pixels. Le processus de redimensionnement conserve le rapport hauteur / largeur des images.
+      s3_acl: |
+        L’ACL qui doit être appliquée à l’objet téléchargé (par défaut: privé). Pour les valeurs possibles, voir https://docs.aws.amazon.com/AmazonS3/latest/dev/acl-overview.html#canned-acl
+      s3_compatible_storage: |
+        Les paramètres suivants ne sont requis que lors de l’utilisation du stockage compatible S3. Si vous utilisez AWS, vous pouvez les laisser vides.
       watermark: |
         Choisissez si un filigrane sera ajouté aux images pendant le téléchargement. Les filigranes sont ajoutés aux non-gifs en fonction de vos préférences ci-dessous.
     labels:
       aws-s3:
+        acl: Liste de contrôle d’accès (ACL)
+        advanced_title: Paramètres de stockage S3 avancés
         bucket: Bucket
+        endpoint: Endpoint
         key: Clé
         region: Région
         secret: Secret
         title: Paramètres de stockage AWS S3
+        use_path_style_endpoint: Utiliser le point de terminaison de style de tracé
       client_extension:
         title: Extensions de fichier fournies par l'utilisateur
       disable-download-logging:
@@ -62,8 +72,10 @@ fof-upload:
       description: Configurez les services et les préférences de téléchargement.
       title: Upload
     permissions:
+      delete_uploads_of_others_label: Supprimer les téléchargements d’utilisateurs
       download_label: Télécharger des fichiers
       upload_label: Téléverser des fichiers
+      view_user_uploads_label: Afficher les téléchargements d’utilisateurs
     templates:
       file: Modèle de téléchargement de fichier par défaut
       file_description: |
@@ -91,6 +103,26 @@ fof-upload:
   forum:
     buttons:
       attach: Joindre
+      cancel: Annuler
+      media: Mes médias
+      upload: Télécharger
+      user_uploads: Téléchargements d’utilisateurs
+    file_list:
+      confirm_selection_btn: Sélectionnez le fichier|Sélectionnez les fichiers
+      empty: Il n’y a aucun fichier à afficher.
+      hide_file:
+        btn_a11y_label: 'Masquer "{fileName}" du gestionnaire de médias'
+        hide_confirmation: 'Voulez-vous vraiment masquer "{fileName}"? Masquer un fichier ne le supprimera que de votre gestionnaire multimédia et n’affectera pas les publications existantes. '
+        hide_fail: 'Impossible de masquer le fichier "{fileName}"'
+        hide_success: Fichier caché
+        loading: Masquage du fichier ...
+      load_more_files_btn: Charger plus de fichiers
+      loading: Chargement des fichiers ...
+      modal_empty_desktop: Votre liste de fichiers est vide. Cliquez sur le bouton ou faites glisser un fichier ici pour le télécharger.
+      modal_empty_phone: Votre liste de fichiers est vide. Appuyez sur le bouton ci-dessus pour télécharger un fichier.
+      release_to_upload: Publiez pour télécharger
+      select_file_a11y_label: 'Sélectionnez le fichier "{fileName}"'
+    media_manager: Gestionnaire de médias
     states:
       error: Erreur
       loading: Chargement

@@ -1,7 +1,4 @@
 fof-share-social:
-  admin:
-    settings:
-      title: FriendsOfFlarum Share Social
   forum:
     discussion:
       share_button: Partager
