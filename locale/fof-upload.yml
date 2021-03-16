@@ -38,6 +38,12 @@ fof-upload:
         use_path_style_endpoint: Utiliser le point de terminaison de style de tracé
       client_extension:
         title: Extensions de fichier fournies par l'utilisateur
+      composer_buttons:
+        options:
+          both: Tous les deux
+          media-btn: Bouton du gestionnaire de médias uniquement
+          upload-btn: Bouton de téléchargement uniquement
+        title: Boutons du compositeur
       disable-download-logging:
         title: Désactiver la journalisation des téléchargements
         toggle: Désactiver

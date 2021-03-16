@@ -66,8 +66,16 @@ fof-username-request:
         title: Demander un changement de nom d’utilisateur
       results:
         approved: Votre demande de changement de nom d’utilisateur a été approuvée!
-        new_username: 'Votre nom d’utilisateur est maintenant "{username}"'
+        dismiss_button: => core.ref.okay
+        new_name: 'Votre nom d’utilisateur est maintenant "{username}"'
         reason: 'Motif du refus: <i>"{reason}"</i>'
         rejected: Votre demande de nom d’utilisateur a été refusée
         resubmit: Vous pouvez soumettre une nouvelle demande de nom d’utilisateur à partir des paramètres de votre compte.
         title: Changement de nom d’utilisateur
+  ref:
+    name_change_request: Demande de changement de nom
+    name_change_requests: Demandes de changement de nom
+    nickname_change_request: Demande de changement de pseudonyme
+    nickname_change_requests: Demandes de changement de pseudonyme
+    username_change_request: Demande de changement de nom d’utilisateur
+    username_change_requests: Demandes de changement de nom d’utilisateur
