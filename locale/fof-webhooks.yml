@@ -1,4 +1,4 @@
-reflar-webhooks:
+fof-webhooks:
   actions:
     discussion:
       deleted: 'Discussion supprimée {1}'

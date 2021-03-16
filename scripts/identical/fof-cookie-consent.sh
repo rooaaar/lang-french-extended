@@ -1,9 +1,9 @@
 VERSION='master' #Repository version
-REPO='ReFlar/doorman' #Repository name
+REPO='FriendsOfFlarum/cookie-consent' #Repository name
 LOCALE='resources/locale' #Locale folder path
 
 YAML1='en.yml' #Original yaml file
-YAML2='reflar-doorman.yml' #Translated yaml file
+YAML2='fof-cookie-consent.yml' #Translated yaml file
 
 TEMP_DIR=`mktemp -d`
 WORK_DIR=`pwd`

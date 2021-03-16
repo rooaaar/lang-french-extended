@@ -84,10 +84,12 @@ php flarum cache:clear
  - Ban IPs ([GitHub Repository](https://github.com/FriendsOfFlarum/ban-ips) / [Flarum Community](https://discuss.flarum.org/d/20949-friendsofflarum-ban-ips))
  - Best Answer ([GitHub Repository](https://github.com/FriendsOfFlarum/best-answer) / [Flarum Community](https://discuss.flarum.org/d/21894-friendsofflarum-best-answer))
  - Byōbu ([GitHub Repository](https://github.com/FriendsOfFlarum/byobu) / [Flarum Community](https://discuss.flarum.org/d/4762-flagrow-by-bu-well-integrated-advanced-private-discussions))
+ - Cookie Consent ([GitHub Repository](https://github.com/FriendsOfFlarum/cookie-consent/) / [Flarum Community](https://discuss.flarum.org/d/10395-cookie-consent))
  - Custom Footer ([GitHub Repository](https://github.com/FriendsOfFlarum/custom-footer) / [Flarum Community](https://discuss.flarum.org/d/17774-friendsofflarum-custom-footer))
  - Default Group ([GitHub Repository](https://github.com/FriendsOfFlarum/default-group) / [Flarum Community](https://discuss.flarum.org/d/18158-friendsofflarum-default-group))
  - Discord Login ([GitHub Repository](https://github.com/FriendsOfFlarum/auth-discord) / [Flarum Community](https://discuss.flarum.org/d/20184-friendsofflarum-discord-login))
  - Disposable Emails ([GitHub Repository](https://github.com/FriendsOfFlarum/disposable-emails) / [Flarum Community](https://discuss.flarum.org/d/20457-friendsofflarum-disposable-emails))
+  - Doorman ([GitHub Repository](https://github.com/FriendsOfFlarum/doorman) / [Flarum Community](https://discuss.flarum.org/d/17845-doorman-by-reflar))
  - Drafts ([GitHub Repository](https://github.com/FriendsOfFlarum/drafts)) / [Flarum Community](https://discuss.flarum.org/d/5131-friendsofflarum-filter))
   - Filter ([GitHub Repository](https://github.com/FriendsOfFlarum/filter) / [Flarum Community](https://discuss.flarum.org/d/12389-flagrow-amazon-affiliation-add-your-affiliate-tag-to-links))
  - Follow Tags ([GitHub Repository](https://github.com/FriendsOfFlarum/follow-tags) / [Flarum Community](https://discuss.flarum.org/d/20525-friendsofflarum-follow-tags))
@@ -126,7 +128,7 @@ php flarum cache:clear
  - User Directory ([GitHub Repository](https://github.com/FriendsOfFlarum/user-directory) / [Flarum Community](https://discuss.flarum.org/d/5682-user-directory-by-friendsofflarum))
  - Username Request ([GitHub Repository](https://github.com/FriendsOfFlarum/username-request) / [Flarum Community](https://discuss.flarum.org/d/20956-friendsofflarum-username-request))
  - Terms ([GitHub Repository](https://github.com/FriendsOfFlarum/terms) / [Flarum Community](https://discuss.flarum.org/d/11714-fof-terms-ask-your-users-to-accept-tos-and-privacy-policy))
-
+ - Webhooks ([GitHub Repository](https://github.com/FriendsOfFlarum/webhooks) / [Flarum Community](https://discuss.flarum.org/d/17812-webhooks-by-reflar))
 ---
 ### Kvothe
 
@@ -162,11 +164,8 @@ php flarum cache:clear
 ---
 ### ReFlar
 
- - Cookie Consent ([GitHub Repository](https://github.com/ReFlar/cookie-consent/) / [Flarum Community](https://discuss.flarum.org/d/10395-cookie-consent))
- - Doorman ([GitHub Repository](https://github.com/ReFlar/doorman) / [Flarum Community](https://discuss.flarum.org/d/17845-doorman-by-reflar))
  - LaTeX ([GitHub Repository](https://github.com/ReFlar/latex) / [Flarum Community](https://discuss.flarum.org/d/16176-latex-by-reflar/))
  - Level Ranks ([GitHub Repository](https://github.com/ReFlar/level-ranks) / [Flarum Community](https://discuss.flarum.org/d/15052-levels-ranks-by-reflar))
- - Webhooks ([GitHub Repository](https://github.com/reflar/webhooks) / [Flarum Community](https://discuss.flarum.org/d/17812-webhooks-by-reflar))
 
 ---
 ### Saleksin
