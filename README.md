@@ -129,7 +129,7 @@ php flarum cache:clear
 
 ---
 
-### justoverclockl
+### justoverclock
 
  - Guest Engagement ([GitHub Repository](https://github.com/justoverclockl/flarum-ext-guestengagement) / [Flarum Community](https://discuss.flarum.org/d/26978))
 
