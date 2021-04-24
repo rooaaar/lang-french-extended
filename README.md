@@ -128,6 +128,13 @@ php flarum cache:clear
  - Webhooks ([GitHub Repository](https://github.com/FriendsOfFlarum/webhooks) / [Flarum Community](https://discuss.flarum.org/d/17812))
 
 ---
+
+### justoverclockl
+
+ - Guest Engagement ([GitHub Repository](https://github.com/justoverclockl/flarum-ext-guestengagement) / [Flarum Community](https://discuss.flarum.org/d/26978))
+
+
+---
 ### Kvothe
 
  - Keyboard ReplyToSee ([GitHub Repository](https://github.com/oaklinq/flarum-ext-reply2see) / [Flarum Community](https://discuss.flarum.org/d/18899))
