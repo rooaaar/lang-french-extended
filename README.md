@@ -1,5 +1,6 @@
 # French Language Pack for [Flarum](https://flarum.org/)'s third-party extensions
 
+
 [![Build Status](https://travis-ci.org/rooaaar/lang-french-extended.svg?branch=master)](https://travis-ci.org/rooaaar/lang-french-extended) [![StyleCI](https://styleci.io/repos/186357907/shield?style=flat&branch=master)](https://styleci.io/repos/186357907)
 
 French language pack to localize the third-party extensions for Flarum.
@@ -32,6 +33,7 @@ composer require rooaaar/lang-french-extended:dev-master
 php flarum cache:clear
 ```
 
+## 82 Extensions translated
 ## List of translated third-party extensions
 
 ### askvortsov
