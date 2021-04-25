@@ -39,7 +39,7 @@ php flarum cache:clear
 ### askvortsov
 
  - Categories ([GitHub Repository](https://github.com/askvortsov1/flarum-categories) / [Flarum Community](https://discuss.flarum.org/d/23184))
- - Chekclist ([GitHub Repository](https://github.com/askvortsov1/flarum-checklist/) / [Flarum Community](https://discuss.flarum.org/d/26457))
+ - Checklist ([GitHub Repository](https://github.com/askvortsov1/flarum-checklist/) / [Flarum Community](https://discuss.flarum.org/d/26457))
  - Copy Links ([GitHub Repository](https://github.com/askvortsov1/flarum-copy-links) / [Flarum Community](https://discuss.flarum.org/d/23885))
  - Markdown tables ([GitHub Repository](https://github.com/askvortsov1/flarum-markdown-tables) / [Flarum Community](https://discuss.flarum.org/d/26456))
  - Moderator Warnings ([GitHub Repository](https://github.com/askvortsov1/flarum-moderator-warnings) / [Flarum Community](https://discuss.flarum.org/d/23228))
