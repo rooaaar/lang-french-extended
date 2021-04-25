@@ -24,12 +24,13 @@
     {
       "name": "Hiob",
       "email": "hello@hiob.fr",
+      "homepage": "https://hiob.fr",
       "role": "Developer"
     },
     {
-      "name": "Miles Cellar",
-      "email": "milescellar@protonmail.com",
-      "role": "Developer"
+      "name": "Qiaeru",
+      "email": "qiaeru@protonmail.com",
+      "homepage": "https://www.qiaeru.com"
     }
   ],
   "autoload": {
