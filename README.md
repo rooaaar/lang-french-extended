@@ -33,7 +33,7 @@ composer require rooaaar/lang-french-extended:dev-master
 php flarum cache:clear
 ```
 
-## 82 Extensions translated
+## 84 Extensions translated
 ## List of translated third-party extensions
 
 ### askvortsov
@@ -157,7 +157,9 @@ php flarum cache:clear
  ---
 ### Nearata
 
+ - Cakeday ([GitHub Repository](https://github.com/Nearata/flarum-ext-cakeday) / [Flarum Community](https://discuss.flarum.org/d/26590))
  - Copy Code to Clipboard ([GitHub Repository](https://github.com/Nearata/flarum-ext-copy-code-to-clipboard) / [Flarum Community](https://discuss.flarum.org/d/24852))
+
 
  ---
 ### NomisCZ
