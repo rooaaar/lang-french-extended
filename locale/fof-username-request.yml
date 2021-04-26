@@ -29,7 +29,7 @@ fof-username-request:
         submit_button: 'Envoyer la demande'
         title: 'Demander un changement de pseudonyme'
       results:
-        approved: 'Votre demande de changement de pseudonyme a été approuvée!'
+        approved: 'Votre demande de changement de pseudonyme a été approuvée'
         dismiss_button: '=> core.ref.okay'
         new_name: 'Votre pseudonyme a été changé avec succès en:  {name}'
         reason: 'Motif du refus: <i>"{reason}"</i>.'
