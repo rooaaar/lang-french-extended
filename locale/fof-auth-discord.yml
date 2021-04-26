@@ -1,9 +1,0 @@
-fof-auth-discord:
-  admin:
-    discord_settings:
-      client_id_label: Identifiant du client
-      client_secret_label: Clé secrète du client
-      title: Paramètres de Discord
-  forum:
-    log_in:
-      with_discord_button: Connexion avec Discord
