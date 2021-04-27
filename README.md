@@ -35,12 +35,12 @@ php flarum cache:clear
 
 ### askvortsov
 
- - Categories ([GitHub Repository](https://github.com/askvortsov1/flarum-categories) / [Flarum Community](https://discuss.flarum.org/d/23184))
- - Checklist ([GitHub Repository](https://github.com/askvortsov1/flarum-checklist/) / [Flarum Community](https://discuss.flarum.org/d/26457))
+ - Categories ([GitHub Repository](https://github.com/askvortsov1/flarum-categories) / [Flarum Community](https://discuss.flarum.org/d/23184)) [![État de la traduction](https://weblate.rob006.net/widgets/flarum/fr/askvortsov-categories/svg-badge.svg)](https://weblate.rob006.net/engage/flarum/fr/?utm_source=widget) 
+ - Checklist ([GitHub Repository](https://github.com/askvortsov1/flarum-checklist/) / [Flarum Community](https://discuss.flarum.org/d/26457)) [![État de la traduction](https://weblate.rob006.net/widgets/flarum/fr/askvortsov-checklist/svg-badge.svg)](https://weblate.rob006.net/engage/flarum/fr/?utm_source=widget)
  - Copy Links ([GitHub Repository](https://github.com/askvortsov1/flarum-copy-links) / [Flarum Community](https://discuss.flarum.org/d/23885))
- - Markdown tables ([GitHub Repository](https://github.com/askvortsov1/flarum-markdown-tables) / [Flarum Community](https://discuss.flarum.org/d/26456))
- - Moderator Warnings ([GitHub Repository](https://github.com/askvortsov1/flarum-moderator-warnings) / [Flarum Community](https://discuss.flarum.org/d/23228))
- - SAML ([GitHub Repository](https://github.com/askvortsov1/flarum-saml) / [Flarum Community](https://discuss.flarum.org/d/22757))
+ - Markdown tables ([GitHub Repository](https://github.com/askvortsov1/flarum-markdown-tables) / [Flarum Community](https://discuss.flarum.org/d/26456)) [![État de la traduction](https://weblate.rob006.net/widgets/flarum/fr/askvortsov-markdown-tables/svg-badge.svg)](https://weblate.rob006.net/engage/flarum/fr/?utm_source=widget)
+ - Moderator Warnings ([GitHub Repository](https://github.com/askvortsov1/flarum-moderator-warnings) / [Flarum Community](https://discuss.flarum.org/d/23228)) [![État de la traduction](https://weblate.rob006.net/widgets/flarum/fr/askvortsov-moderator-warnings/svg-badge.svg)](https://weblate.rob006.net/engage/flarum/fr/?utm_source=widget)
+ - SAML ([GitHub Repository](https://github.com/askvortsov1/flarum-saml) / [Flarum Community](https://discuss.flarum.org/d/22757)) [![État de la traduction](https://weblate.rob006.net/widgets/flarum/fr/askvortsov-saml/svg-badge.svg)](https://weblate.rob006.net/engage/flarum/fr/?utm_source=widget)
 
 
 ### Clarkwinkelmann
