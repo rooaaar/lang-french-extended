@@ -11,7 +11,7 @@ askvortsov-pipetables:
         insert_column_before: 'Insérer la colonne avant'
         insert_row_after: 'Insérer une ligne après'
         insert_row_before: 'Insérer une ligne avant'
-        label_cells: '# Étiquette des cellules?'
+        label_cells: '# Étiquette des cellules ?'
         num_cols: '# Colonnes'
         num_rows: '# Lignes (y compris l’en-tête)'
         remove_column: 'Supprimer la colonne'

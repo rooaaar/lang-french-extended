@@ -11,11 +11,11 @@ fof-pages:
       content_label: '=> fof-pages.ref.content'
       content_placeholder: '=> fof-pages.ref.content'
       delete_page_button: 'Supprimer la page'
-      delete_page_confirmation: 'Êtes-vous sûr de vouloir supprimer cette page?'
+      delete_page_confirmation: 'Êtes-vous sûr de vouloir supprimer cette page ?'
       hidden_label: 'Enregistrer comme brouillon'
       html_label: 'Activer le HTML'
       restricted_label: 'Restreindre l’accès (configurer les personnes autorisées à accéder dans l’onglet Autorisations)'
-      set_as_home_page_confirmation: 'Êtes-vous sûr de vouloir définir cette page comme page d’accueil?'
+      set_as_home_page_confirmation: 'Êtes-vous sûr de vouloir définir cette page comme page d’accueil ?'
       slug_label: '=> fof-pages.ref.slug'
       slug_placeholder: '=> fof-pages.ref.slug'
       submit_button: '=> core.ref.save_changes'
@@ -27,7 +27,7 @@ fof-pages:
     pages:
       create_button: '=> fof-pages.ref.create_page'
     pages_list:
-      empty_text: 'On dirait qu’il n’y a pas de pages ici..'
+      empty_text: 'On dirait qu’il n’y a pas de pages ici.'
       title: '=> fof-pages.ref.title'
     permissions:
       restricted: 'Afficher les pages restreintes'
