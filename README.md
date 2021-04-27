@@ -1,11 +1,8 @@
 # French Language Pack for [Flarum](https://flarum.org/)'s third-party extensions
 
-
-[![Build Status](https://travis-ci.org/rooaaar/lang-french-extended.svg?branch=master)](https://travis-ci.org/rooaaar/lang-french-extended) [![StyleCI](https://styleci.io/repos/186357907/shield?style=flat&branch=master)](https://styleci.io/repos/186357907)
-
 French language pack to localize the third-party extensions for Flarum.
 
-If you're looking for the French language pack for the Flarum forum software, its bundled extensions and libraries, please see [this repository](https://github.com/milescellar/lang-french).
+If you're looking for the French language pack for the Flarum forum software, its bundled extensions and libraries, please see [this repository](https://github.com/qiaeru/lang-french).
 
 ## Installation
 
