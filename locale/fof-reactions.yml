@@ -11,7 +11,7 @@ fof-reactions:
         converting: 'Vos réactions sont en train d’être converties. Actualisez votre site après quelques minutes pour voir le processus terminé. (Le temps de conversion peut prendre un certain temps en fonction du nombre total de réactions)'
         help: 'Si vous venez de mettre à jour votre extension, vos réactions devront être converties. Si vous venez d’installer cette extension, vous pouvez ignorer ce message en toute sécurité.'
       reactions:
-        Helptext: 'Indiquez le nom (identifiant) de l’icône emoji ou du font-awesome et sélectionnez le type de votre choix.'
+        Helptext: 'Indiquez le nom (identifiant) de l’icône emoji ou de l’icône font-awesome et sélectionnez le type de votre choix.'
         help:
           display: Afficher
           identifier: Identifiant
