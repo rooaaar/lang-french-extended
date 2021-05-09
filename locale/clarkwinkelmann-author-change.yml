@@ -5,18 +5,18 @@
 clarkwinkelmann-author-change:
   admin:
     permissions:
-      edit-date: 'Mettre à jour la discussion et la date de publication'
+      edit-date: 'Mettre à jour la discussion et la date du message'
       edit-user: 'Mettre à jour la discussion et l''auteur du message'
   forum:
     controls:
-      edit: 'Modifier l’auteur'
+      edit: 'Modifier l’auteur et la date'
     modal:
       cancel: Annuler
-      created_at: 'Temps de création'
+      created_at: 'Heure de création'
       edited_at: 'Modifier l’heure'
       submit: Sauvegarder
-      title-discussion: 'Modifier l’auteur de la discussion'
-      title-post: 'Modifier l’auteur du message'
+      title-discussion: 'Modifier l’auteur et la date de la discussion'
+      title-post: 'Modifier l’auteur et la date du message'
       user: Auteur
     search:
       no-results: 'Aucun résultat'

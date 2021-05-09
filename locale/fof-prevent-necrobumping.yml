@@ -5,11 +5,11 @@
 fof-prevent-necrobumping:
   admin:
     settings:
-      days_help: 'Une discussion sera considérée comme ancienne lorsque le nombre de jours spécifié sera écoulé depuis la publication du dernier message.'
+      days_help: 'Une discussion sera considérée comme ancienne lorsque le nombre de jours spécifié sera écoulé depuis la publication du dernier message. Utilisez <code>0</code> pour le désactiver par défaut.'
       days_label: Jours
       message_agreement_label: 'Message personnalisé d’accord (case à cocher)'
       message_description_label: 'Description du message personnalisée'
-      message_title_help: 'Utilisez <code>[time]</code> pour le texte temporel, c’est à dire "14 jours".'
+      message_title_help: 'Utilisez <code>[time]</code> pour le texte temporel, ex. : "14 jours".'
       message_title_label: 'Titre du message personnalisé'
       tags_help: 'Remplacez les jours globaux pour une étiquette spécifique. Vide signifie utiliser la valeur par défaut. Si une discussion comporte plusieurs étiquettes avec des valeurs de jour différentes, elle utilisera le plus petit nombre de jours configurés.'
       tags_title: Étiquettes

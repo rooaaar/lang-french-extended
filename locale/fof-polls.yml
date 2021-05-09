@@ -5,15 +5,17 @@
 fof-polls:
   admin:
     permissions:
-      moderate: 'Modifier ou supprimer les sondages'
-      self_edit: 'Modifier ses propres sondages'
+      change_vote: 'Changer de vote'
+      moderate: 'Modifier et supprimer les sondages'
+      self_edit: 'Autoriser les utilisateurs à modifier leurs propres sondages'
       start: 'Démarrer un sondage'
+      view_results_without_voting: 'Afficher les résultats sans voter'
       vote: 'Voter sur les sondages'
   forum:
     composer_discussion:
       add_poll: 'Ajouter un sondage'
       edit_poll: '=> fof-polls.forum.moderation.edit'
-    days_remaining: 'Le sondage se termine dans {time}'
+    days_remaining: 'Le sondage se termine dans {time}.'
     modal:
       add_option_label: 'Ajouter une option'
       add_title: 'Ajouter un sondage'
@@ -30,10 +32,10 @@ fof-polls:
       submit: Soumettre
     moderation:
       delete: 'Supprimer le sondage'
-      delete_confirm: 'Êtes-vous sûr de vouloir supprimer ce sondage?'
+      delete_confirm: 'Êtes-vous sûr de vouloir supprimer ce sondage ?'
       edit: 'Modifier le sondage'
     no_permission: 'Vous n’avez pas la permission de voter'
-    poll_ended: 'Ce sondage est terminé'
+    poll_ended: 'Ce sondage est terminé.'
     public_poll: 'Voir les votants'
     tooltip:
       badge: Sondage
