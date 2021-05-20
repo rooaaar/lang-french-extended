@@ -21,6 +21,7 @@ fof-masquerade:
       name-help: "L’étiquette de champ visible publiquement (non traduisible).\n"
       on_bio: 'Afficher la réponse à ce champ dans la biographie de l’utilisateur'
       option-coma-warning: 'L’étiquette d’une option ne peut contenir aucune virgule (",").'
+      option-comma-warning: 'L’étiquette d''une option ne peut contenir aucune virgule (",").'
       option-new: 'Nouvelle option'
       options: Options
       prefix: 'Préfixe de champ'
@@ -29,8 +30,8 @@ fof-masquerade:
       title: Champs
       type: Type
       validation: Validation
-      validation-help: "Consultez les <a>règles de validation Laravel</a> supportées. Ex.: \"string|min:5\" ou \"url\".\n"
-    general-options: 'Principales options'
+      validation-help: "Consultez les <a>règles de validation Laravel</a> supportées. Ex. : \"string|min :5\" ou \"url\".\n"
+    general-options: 'Options générales'
     menu:
       description: "Configurer les champs de profil utilisateur.\n"
     permissions:
@@ -40,11 +41,12 @@ fof-masquerade:
     types:
       advanced: Avancées
       boolean: 'Case à cocher'
-      email: Email
+      email: E-mail
       select: 'Menu déroulant'
-      url: Url
+      url: Lien
   forum:
     alerts:
+      profile-completed: 'Profil terminé ! <a>Accéder à la page d’accueil</a>'
       profile-completion-required: "Veuillez compléter les champs de profil nécessaires ci-dessous.\n"
     buttons:
       save-profile: Sauvegarder

@@ -8,7 +8,7 @@ core:
       can_push_to_frontpage_label: 'Peut mettre un sujet en page d’accueil'
   forum:
     badge:
-      frontpage_tooltip: 'Marqué comme page d’accueil'
+      frontpage_tooltip: 'Marquée comme page d’accueil'
     index_sort:
       front_button: 'Page d’accueil'
     post_controls:

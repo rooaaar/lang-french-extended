@@ -9,8 +9,8 @@ fof-moderator-notes:
       deletenotes: 'Supprimer les notes du modérateur'
       viewnotes: 'Afficher les notes du modérateur'
   api:
-    auto_note: 'J’ai utilisé FoF Impersonate pour incarner cet utilisateur'
-    auto_note_actor: 'FoF Impersonate a été utilisé pour incarner ''username'''
+    auto_note: 'J’ai incarné cet utilisateur :_ {reason}'
+    auto_note_actor: '_Incarnation de_ @{username} : {reason}'
     no_reason_provided: 'Aucune raison fournie'
   forum:
     moderatorNotes:

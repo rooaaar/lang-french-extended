@@ -9,3 +9,6 @@ askvortsov-checklist:
   forum:
     composer:
       checklist_tooltip: 'Activer la liste de contrôle'
+  lib:
+    composer:
+      checklist_tooltip: 'Activer la liste de contrôle'
