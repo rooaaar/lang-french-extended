@@ -6,7 +6,6 @@ michaelbelgium-flarum-profile-views:
   admin:
     settings:
       max_viewcount_label: 'Éléments maximum de la liste des visiteurs'
-      title: 'Paramètres Profileviews'
       track_guests_label: 'Suivre les invités'
   forum:
     user:

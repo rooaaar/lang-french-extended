@@ -12,7 +12,6 @@ fof-masquerade:
       add: 'Ajouter le champ {field}'
       description: 'Description du champ'
       description-help: "Une description facultative pour expliquer l’utilisation / la nécessité de ce champ.\n"
-      disable-user-bio: 'Désactiver le champ biographie de l’utilisateur'
       edit: 'Modifier le champ {field}'
       force-user-to-completion: 'Forcer l’utilisateur à compléter son profil'
       icon: Icône
@@ -20,7 +19,6 @@ fof-masquerade:
       name: 'Nom du champ'
       name-help: "L’étiquette de champ visible publiquement (non traduisible).\n"
       on_bio: 'Afficher la réponse à ce champ dans la biographie de l’utilisateur'
-      option-coma-warning: 'L’étiquette d’une option ne peut contenir aucune virgule (",").'
       option-comma-warning: 'L’étiquette d''une option ne peut contenir aucune virgule (",").'
       option-new: 'Nouvelle option'
       options: Options
@@ -32,12 +30,9 @@ fof-masquerade:
       validation: Validation
       validation-help: "Consultez les <a>règles de validation Laravel</a> supportées. Ex. : \"string|min :5\" ou \"url\".\n"
     general-options: 'Options générales'
-    menu:
-      description: "Configurer les champs de profil utilisateur.\n"
     permissions:
       have-profile: 'Avoir un profil masquerade'
       view-profile: 'Voir le profil masquerade'
-    title: Masquerade
     types:
       advanced: Avancées
       boolean: 'Case à cocher'

@@ -39,8 +39,6 @@ fof-byobu:
     composer_private_discussion:
       submit_button: 'Publier une discussion privée'
       title_placeholder: 'Titre de la discussion privée'
-    confirm:
-      make_public: 'Cela rendra cette discussion privée visible pour tout le monde. Vérifiez s’il s’agit de la bonne action avant de continuer.'
     input:
       search_recipients: 'Rechercher un destinataire en saisissant ses trois premiers caractères…'
     labels:
@@ -79,4 +77,3 @@ fof-byobu:
       dropdown_label: 'Discussions privées'
       settings:
         block_pd: 'Bloquer les discussions privées'
-        unified_index: 'Combinez des discussions privées dans un index unifié'

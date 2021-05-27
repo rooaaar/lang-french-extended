@@ -4,5 +4,4 @@
 
 nearata-copy-code-to-clipboard:
   forum:
-    copied: 'Copié dans le presse-papier'
     copy: 'Cliquez pour copier'

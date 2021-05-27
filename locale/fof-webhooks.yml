@@ -74,7 +74,6 @@ fof-webhooks:
       services:
         discord: Discord
         slack: Slack
-      title: Webhooks
   ref:
     deleted: Supprimé
     hidden: Caché
