@@ -11,10 +11,10 @@
   "type": "flarum-extension",
   "license": "MIT",
   "require": {
-    "flarum/core": "^0.1.0-beta.16"
+    "flarum/core": "^1.0.0"
   },
   "suggest": {
-    "qiaeru/lang-french": "French language pack for Flarum and its bundled extensions."
+    "qiaeru/lang-french": "French language pack for Flarum, its official extensions and bundled libraries."
   },
   "support": {
     "issues": "https://github.com/rooaaar/lang-french-extended/issues",
