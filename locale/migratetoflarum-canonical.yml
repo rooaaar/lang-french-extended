@@ -7,6 +7,9 @@ migratetoflarum-canonical:
     settings:
       field:
         wrong_url: 'Les paramètres de l''extension apparaîtront lorsque vous accéderez à votre forum via le lien canonique'
+      option:
+        301: '301 (Redirection permanente, pour la mise en place)'
+        disabled: 'Désactivé (l''extension ne fera rien)'
       step:
         admin_on_canonical: 'Accéder au panel d''administration via le lien canonique'
         check_config_url: 'Vérifier si le lien définie dans config.php est le lien canonique par défaut (currently: {url})'
