@@ -1,3 +1,6 @@
+# ARCHIVED > project merged into flarum-lang: https://github.com/flarum-lang/french
+
+
 # French Language Pack for [Flarum](https://flarum.org/)'s third-party extensions
 
 French language pack to localize the third-party extensions for Flarum.
